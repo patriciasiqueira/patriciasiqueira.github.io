@@ -1,0 +1,854 @@
+ibge7,mun,nome_meso,abacaxi,alho,amendoim,azeitona,batata_inglesa,cafe_arab,cana,ervilha,feijao,girassol,laranja,marmelo,sorgo,tomate
+3100104,Abadia dos Dourados,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,30,460,0,18,0,0,0,1212,100
+3100203,Abaeté,Central Mineira,540,0,0,0,0,0,9000,0,0,0,0,0,0,0
+3100302,Abre Campo,Zona da Mata,0,0,0,0,0,3140,9000,0,170,0,0,0,0,0
+3100401,Acaiaca,Zona da Mata,0,0,2,0,0,3,1340,0,33,0,7,0,0,0
+3100500,Açucena,Vale do Rio Doce,0,3,6,0,0,10,3000,0,74,0,0,0,0,0
+3100609,Água Boa,Vale do Rio Doce,0,0,4,0,0,1740,6174,0,431,0,69,0,0,1324
+3100708,Água Comprida,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,1190000,0,0,0,0,0,25800,0
+3100807,Aguanil,Oeste de Minas,0,0,0,0,0,1801,10920,0,141,0,240,0,0,100
+3100906,Águas Formosas,Vale do Mucuri,0,0,0,0,0,0,1080,0,12,0,0,0,0,0
+3101003,Águas Vermelhas,Norte de Minas,0,0,0,0,0,1200,75,0,140,0,6,0,0,0
+3101102,Aimorés,Vale do Rio Doce,0,0,0,0,0,963,2080,0,305,0,325,0,0,3510
+3101201,Aiuruoca,Sul/Sudoeste de Minas,0,0,0,13,0,15,2400,0,268,0,0,0,0,0
+3101300,Alagoa,Sul/Sudoeste de Minas,0,0,0,4,0,0,0,0,4,0,0,0,0,0
+3101409,Albertina,Sul/Sudoeste de Minas,0,0,0,0,0,2556,0,0,0,0,0,0,0,0
+3101508,Além Paraíba,Zona da Mata,0,0,0,0,0,0,30,0,36,0,0,0,0,0
+3101607,Alfenas,Sul/Sudoeste de Minas,0,24,0,0,7500,14566,114400,0,5470,0,600,0,0,1750
+3101631,Alfredo Vasconcelos,Campo das Vertentes,0,0,0,0,28,0,0,10,48,0,0,0,0,1530
+3101706,Almenara,Jequitinhonha,0,0,0,0,0,440,3600,0,137,0,8,0,0,0
+3101805,Alpercata,Vale do Rio Doce,0,0,0,0,0,0,936,0,1,0,30,0,0,60
+3101904,Alpinópolis,Sul/Sudoeste de Minas,0,0,0,0,0,7710,144000,0,610,0,0,0,1060,60
+3102001,Alterosa,Sul/Sudoeste de Minas,0,0,0,0,0,6867,27525,0,530,0,1836,0,0,0
+3102050,Alto Caparaó,Zona da Mata,0,0,0,0,0,3880,30,0,15,0,0,0,0,0
+3102100,Alto Rio Doce,Zona da Mata,0,0,0,0,0,0,15000,0,330,0,0,0,0,0
+3102209,Alvarenga,Vale do Rio Doce,0,0,0,0,0,520,420,0,29,0,26,0,0,0
+3102308,Alvinópolis,Metropolitana de Belo Horizonte,0,0,2,0,0,3,5680,0,96,0,0,0,0,0
+3102407,Alvorada de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,5,420,0,10,0,0,0,0,0
+3102506,Amparo do Serra,Zona da Mata,0,0,0,0,0,196,3920,0,84,0,0,0,0,280
+3102605,Andradas,Sul/Sudoeste de Minas,0,0,0,3,2530,9950,1020,0,10,0,0,0,0,2500
+3102704,Cachoeira de Pajeú,Jequitinhonha,15,0,1,0,0,5,2400,0,94,0,14,0,0,0
+3102803,Andrelândia,Sul/Sudoeste de Minas,0,0,0,0,0,420,4670,0,1628,0,2390,0,0,0
+3102852,Angelândia,Jequitinhonha,0,0,12,0,0,2812,800,0,123,0,30,0,0,50
+3102902,Antônio Carlos,Campo das Vertentes,0,0,0,25,200,0,200,0,136,0,13,0,0,1296
+3103009,Antônio Dias,Vale do Rio Doce,0,0,2,0,0,1,630,0,9,0,0,0,0,40
+3103108,Antônio Prado de Minas,Zona da Mata,0,0,0,0,0,70,385,0,5,0,0,0,0,0
+3103207,Araçaí,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+3103306,Aracitaba,Zona da Mata,0,0,0,0,0,0,2160,0,55,0,0,0,0,0
+3103405,Araçuaí,Jequitinhonha,60,3,11,0,0,3,7560,0,135,0,120,0,0,80
+3103504,Araguari,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,3325,27550,2160,0,90,890,0,0,12600,72000
+3103603,Arantina,Sul/Sudoeste de Minas,0,0,0,0,0,0,1750,0,2,0,0,0,0,0
+3103702,Araponga,Zona da Mata,0,0,0,0,0,7500,2688,0,372,0,0,0,0,0
+3103751,Araporã,Triângulo Mineiro/Alto Paranaíba,140,0,0,0,0,0,758000,0,47,0,0,0,1763,0
+3103801,Arapuá,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,997,0,0,0,0,0,0,0,300
+3103900,Araújos,Central Mineira,0,0,0,0,0,0,4000,0,12,0,0,0,0,0
+3104007,Araxá,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,2500,4480,208000,0,2940,0,0,0,5548,0
+3104106,Arceburgo,Sul/Sudoeste de Minas,0,0,0,0,0,1120,50400,0,213,0,2040,0,0,0
+3104205,Arcos,Oeste de Minas,0,0,0,0,0,0,116922,0,189,0,0,0,1000,420
+3104304,Areado,Sul/Sudoeste de Minas,0,0,0,0,0,4486,231896,0,170,0,0,0,0,0
+3104403,Argirita,Zona da Mata,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+3104452,Aricanduva,Jequitinhonha,35,7,27,0,0,376,1680,0,105,0,0,0,0,0
+3104502,Arinos,Noroeste de Minas,15,0,0,0,0,0,13300,0,6600,0,0,0,893,0
+3104601,Astolfo Dutra,Zona da Mata,0,0,0,0,0,24,837,0,11,0,3,0,0,90
+3104700,Ataléia,Vale do Mucuri,0,0,1,0,0,54,900,0,58,0,36,0,0,0
+3104809,Augusto de Lima,Central Mineira,0,0,0,0,0,0,17500,0,123,0,20,0,164,0
+3104908,Baependi,Sul/Sudoeste de Minas,0,0,0,7,0,1427,0,0,15,0,10,0,0,0
+3105004,Baldim,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2844,0,74,0,12,0,6,1800
+3105103,Bambuí,Oeste de Minas,105,0,0,0,0,4200,784000,0,2452,0,207,0,945,54
+3105202,Bandeira,Jequitinhonha,0,0,0,0,0,72,576,0,216,0,0,0,0,0
+3105301,Bandeira do Sul,Sul/Sudoeste de Minas,0,0,0,0,0,543,0,0,16,0,0,0,0,0
+3105400,Barão de Cocais,Metropolitana de Belo Horizonte,0,0,0,0,0,2,2700,0,3,0,0,0,0,0
+3105509,Barão de Monte Alto,Zona da Mata,0,0,0,0,0,0,282,0,5,0,0,0,0,0
+3105608,Barbacena,Campo das Vertentes,0,33,0,18,1160,0,180,5,1021,0,510,0,0,9620
+3105707,Barra Longa,Zona da Mata,0,0,0,0,0,0,17580,0,67,0,0,0,0,0
+3105905,Barroso,Campo das Vertentes,0,0,0,0,0,0,1240,0,24,0,0,0,0,0
+3106002,Bela Vista de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,282,0,2,0,0,0,0,0
+3106101,Belmiro Braga,Zona da Mata,0,0,0,0,0,0,779,0,8,0,10,0,0,0
+3106200,Belo Horizonte,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3106309,Belo Oriente,Vale do Rio Doce,0,0,2,0,0,0,2700,0,36,0,2,0,0,0
+3106408,Belo Vale,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1000,0,27,0,96,0,0,0
+3106507,Berilo,Jequitinhonha,1190,0,9,0,0,2,3535,0,43,0,37,0,0,0
+3106606,Bertópolis,Vale do Mucuri,15,0,0,0,0,0,175,0,52,0,0,0,0,0
+3106655,Berizal,Norte de Minas,0,0,0,0,0,182,400,0,78,0,10,0,0,0
+3106705,Betim,Metropolitana de Belo Horizonte,0,4,2,0,0,0,1472,0,30,0,0,0,0,150
+3106804,Bias Fortes,Zona da Mata,0,0,0,0,0,0,120,0,20,0,0,0,0,0
+3106903,Bicas,Zona da Mata,0,0,0,0,0,0,1080,0,4,0,0,0,0,0
+3107000,Biquinhas,Central Mineira,30,0,0,0,0,0,600,0,0,0,10,0,0,0
+3107109,Boa Esperança,Sul/Sudoeste de Minas,0,0,3,0,0,26570,360,0,1176,0,0,0,0,0
+3107208,Bocaina de Minas,Sul/Sudoeste de Minas,0,0,0,1,0,0,576,0,18,0,0,0,0,0
+3107307,Bocaiúva,Norte de Minas,60,8,5,0,0,243,26700,0,430,0,35,0,0,150
+3107406,Bom Despacho,Central Mineira,0,72,0,0,0,0,117600,0,1020,0,1800,0,0,0
+3107505,Bom Jardim de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,0,270,0,15,0,0,0,0,360
+3107604,Bom Jesus da Penha,Sul/Sudoeste de Minas,0,0,0,0,510,4700,0,0,48,0,0,0,1525,41
+3107703,Bom Jesus do Amparo,Metropolitana de Belo Horizonte,0,0,0,0,0,3,3111,0,1,0,0,0,0,0
+3107802,Bom Jesus do Galho,Vale do Rio Doce,0,0,11,0,0,1400,9000,0,119,0,13,0,0,0
+3107901,Bom Repouso,Sul/Sudoeste de Minas,0,0,0,0,17940,17,0,0,7,0,0,0,0,100
+3108008,Bom Sucesso,Oeste de Minas,0,0,0,0,0,3655,1000,0,6,0,27,0,0,0
+3108107,Bonfim,Metropolitana de Belo Horizonte,0,0,0,0,18,0,2900,0,9,0,168,0,0,0
+3108206,Bonfinópolis de Minas,Noroeste de Minas,0,0,0,0,0,1500,120,0,16190,0,0,0,0,0
+3108255,Bonito de Minas,Norte de Minas,0,0,0,0,0,0,4000,0,153,0,0,0,0,0
+3108305,Borda da Mata,Sul/Sudoeste de Minas,0,0,0,0,0,1016,477,0,22,0,10,0,0,0
+3108404,Botelhos,Sul/Sudoeste de Minas,0,0,0,0,0,11850,3212,0,43,0,0,0,0,0
+3108503,Botumirim,Norte de Minas,45,6,11,0,0,12,1650,0,115,0,13,0,0,30
+3108552,Brasilândia de Minas,Noroeste de Minas,144,0,0,0,0,0,30380,0,6030,0,0,0,0,0
+3108602,Brasília de Minas,Norte de Minas,0,130,3,0,0,0,7000,0,60,0,4,0,136,0
+3108701,Brás Pires,Zona da Mata,0,0,0,0,90,0,1250,0,203,0,0,0,0,0
+3108800,Braúnas,Vale do Rio Doce,0,0,3,0,0,5,1230,0,45,0,0,0,0,30
+3108909,Brazópolis,Sul/Sudoeste de Minas,0,0,0,6,0,320,70,0,9,0,129,0,0,30
+3109006,Brumadinho,Metropolitana de Belo Horizonte,0,0,0,0,0,0,6500,0,21,0,1860,0,0,241
+3109105,Bueno Brandão,Sul/Sudoeste de Minas,0,5,0,0,23760,2400,2640,36,96,0,0,0,0,0
+3109204,Buenópolis,Central Mineira,0,0,0,0,0,0,22200,0,42,0,12,0,1312,355
+3109253,Bugre,Vale do Rio Doce,0,0,0,0,0,0,142,0,0,0,0,0,0,1311
+3109303,Buritis,Noroeste de Minas,0,0,0,0,0,815,3300,0,22696,0,3671,0,14117,30
+3109402,Buritizeiro,Norte de Minas,0,0,0,0,0,3300,340,0,2751,0,770,0,0,0
+3109451,Cabeceira Grande,Noroeste de Minas,0,0,0,0,0,0,60,0,6420,0,0,0,240,0
+3109501,Cabo Verde,Sul/Sudoeste de Minas,0,0,0,0,450,14620,30400,0,342,0,0,0,0,0
+3109600,Cachoeira da Prata,Metropolitana de Belo Horizonte,0,0,0,0,0,0,120,0,0,0,0,0,0,0
+3109709,Cachoeira de Minas,Sul/Sudoeste de Minas,0,0,0,0,750,1675,2940,0,77,0,0,0,0,186
+3109808,Cachoeira Dourada,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,0,0,0,0,0,0,8680,0
+3109907,Caetanópolis,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1720,0,5,0,0,0,0,0
+3110004,Caeté,Metropolitana de Belo Horizonte,0,0,1,0,0,29,1500,0,34,0,48,0,0,0
+3110103,Caiana,Zona da Mata,0,0,0,0,0,4782,210,0,48,0,0,0,0,0
+3110202,Cajuri,Zona da Mata,0,0,1,0,0,900,2000,0,420,0,60,0,0,2400
+3110301,Caldas,Sul/Sudoeste de Minas,0,0,0,7,12600,1618,0,0,900,0,0,0,0,41
+3110400,Camacho,Oeste de Minas,0,0,0,0,0,1985,40,0,40,0,0,0,0,0
+3110509,Camanducaia,Sul/Sudoeste de Minas,0,0,0,25,17932,0,60,24,9,0,0,0,0,100
+3110608,Cambuí,Sul/Sudoeste de Minas,0,0,0,0,311,8,813,0,20,0,0,0,0,150
+3110707,Cambuquira,Sul/Sudoeste de Minas,0,0,0,0,0,4410,320,0,41,0,1430,0,0,76
+3110806,Campanário,Vale do Rio Doce,0,0,0,0,0,0,2900,0,7,0,0,0,0,0
+3110905,Campanha,Sul/Sudoeste de Minas,0,0,0,0,100,7780,750,0,47,0,10940,0,0,0
+3111002,Campestre,Sul/Sudoeste de Minas,0,0,0,0,1820,21060,850,0,312,0,831,0,0,665
+3111101,Campina Verde,Triângulo Mineiro/Alto Paranaíba,15,0,0,0,0,0,684000,0,0,0,23080,0,2128,0
+3111150,Campo Azul,Norte de Minas,0,0,3,0,0,0,396,0,25,0,0,0,0,0
+3111200,Campo Belo,Oeste de Minas,0,0,0,0,0,4620,12000,0,491,0,60,0,0,1320
+3111309,Campo do Meio,Sul/Sudoeste de Minas,0,0,15,0,0,9590,0,0,1110,0,0,0,0,0
+3111408,Campo Florido,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,2682000,0,2450,0,3600,0,11375,0
+3111507,Campos Altos,Triângulo Mineiro/Alto Paranaíba,0,10098,0,0,25800,14540,225,0,540,0,0,0,0,0
+3111606,Campos Gerais,Sul/Sudoeste de Minas,50,0,0,0,2400,28085,1200,0,3136,0,6,0,0,1700
+3111705,Canaã,Zona da Mata,0,0,0,0,0,3150,3200,0,372,0,0,0,0,180
+3111804,Canápolis,Triângulo Mineiro/Alto Paranaíba,40800,0,0,0,0,0,560000,0,330,0,1152,0,10815,0
+3111903,Cana Verde,Oeste de Minas,0,0,0,0,0,630,200,0,38,0,0,0,0,0
+3112000,Candeias,Oeste de Minas,0,0,0,0,0,8004,2250,0,2712,0,150,0,0,0
+3112059,Cantagalo,Vale do Rio Doce,0,0,0,0,0,0,2520,0,30,0,0,0,0,0
+3112109,Caparaó,Zona da Mata,0,0,0,0,0,6680,50,0,16,0,0,0,0,0
+3112208,Capela Nova,Campo das Vertentes,0,0,0,0,0,349,2880,0,450,0,0,0,0,0
+3112307,Capelinha,Jequitinhonha,108,15,20,0,0,5100,9500,0,282,0,306,0,0,2231
+3112406,Capetinga,Sul/Sudoeste de Minas,0,0,0,0,0,7610,8400,0,457,0,0,0,0,0
+3112505,Capim Branco,Metropolitana de Belo Horizonte,0,40,0,0,0,0,0,0,15,0,0,0,0,400
+3112604,Capinópolis,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,132000,0,66,0,0,0,40740,0
+3112653,Capitão Andrade,Vale do Rio Doce,0,0,0,0,0,0,1260,0,2,0,0,0,0,0
+3112703,Capitão Enéas,Norte de Minas,0,0,0,0,0,6,6000,0,187,0,45,0,40,0
+3112802,Capitólio,Sul/Sudoeste de Minas,12,0,0,0,0,2961,1050,0,288,0,51,0,0,0
+3112901,Caputira,Zona da Mata,0,0,0,0,0,3000,1450,0,54,0,0,0,0,0
+3113008,Caraí,Jequitinhonha,40,4,4,0,0,358,2700,0,133,0,43,0,0,45
+3113107,Caranaíba,Campo das Vertentes,0,0,0,0,0,9,1540,0,49,0,12,0,0,0
+3113206,Carandaí,Campo das Vertentes,0,420,0,0,475,0,1210,0,4826,0,0,0,0,7650
+3113305,Carangola,Zona da Mata,0,0,0,0,0,5060,860,0,33,0,0,0,0,0
+3113404,Caratinga,Vale do Rio Doce,0,0,17,0,0,13460,15000,0,189,0,120,0,0,1800
+3113503,Carbonita,Jequitinhonha,0,3,7,0,0,0,4180,0,45,0,9,0,0,555
+3113602,Careaçu,Sul/Sudoeste de Minas,0,0,0,0,1240,1972,495,0,216,0,0,0,0,0
+3113701,Carlos Chagas,Vale do Mucuri,15,0,0,0,0,0,5340,0,9,0,14,0,0,0
+3113800,Carmésia,Vale do Rio Doce,0,0,0,0,0,0,750,0,12,0,0,0,0,0
+3113909,Carmo da Cachoeira,Sul/Sudoeste de Minas,0,0,0,0,1050,17400,0,0,210,0,110,0,0,0
+3114006,Carmo da Mata,Oeste de Minas,0,0,0,0,0,1000,4370,0,43,0,0,0,0,0
+3114105,Carmo de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,5476,525,0,105,0,0,0,0,0
+3114204,Carmo do Cajuru,Oeste de Minas,0,0,1,0,0,0,1800,0,27,0,4,0,0,2430
+3114303,Carmo do Paranaíba,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,16470,532,0,1695,0,0,0,720,420
+3114402,Carmo do Rio Claro,Sul/Sudoeste de Minas,70,0,0,0,0,16745,72320,0,4455,0,2448,0,3960,0
+3114501,Carmópolis de Minas,Oeste de Minas,0,0,0,0,0,225,3920,0,215,0,255,0,0,22800
+3114550,Carneirinho,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,965120,0,0,0,0,0,0,0
+3114600,Carrancas,Campo das Vertentes,0,0,0,0,4200,47,912,0,1116,0,0,0,0,0
+3114709,Carvalhópolis,Sul/Sudoeste de Minas,0,0,0,0,0,2485,180,0,131,0,0,0,0,53
+3114808,Carvalhos,Sul/Sudoeste de Minas,0,0,0,0,0,0,130,0,12,0,0,0,0,0
+3114907,Casa Grande,Metropolitana de Belo Horizonte,0,0,0,0,0,34,0,0,2257,0,0,0,0,652
+3115003,Cascalho Rico,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,760,380,0,0,0,0,0,720,2310
+3115102,Cássia,Sul/Sudoeste de Minas,0,0,0,0,0,7200,50816,0,176,0,0,0,1053,0
+3115201,Conceição da Barra de Minas,Campo das Vertentes,0,0,0,0,0,376,424,0,23,0,0,0,0,0
+3115300,Cataguases,Zona da Mata,0,0,0,0,0,4,3515,0,2,0,10,0,0,0
+3115359,Catas Altas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2050,0,5,0,6,0,0,0
+3115409,Catas Altas da Noruega,Metropolitana de Belo Horizonte,0,0,1,0,0,7,2000,0,147,0,150,0,0,0
+3115458,Catuji,Vale do Mucuri,20,0,0,0,0,33,1540,0,11,0,6,0,0,0
+3115474,Catuti,Norte de Minas,0,0,0,0,0,0,20,0,51,0,0,0,255,0
+3115508,Caxambu,Sul/Sudoeste de Minas,0,0,0,0,0,54,37,0,2,0,0,0,0,0
+3115607,Cedro do Abaeté,Central Mineira,0,0,0,0,0,0,923,0,5,0,0,0,0,0
+3115706,Central de Minas,Vale do Rio Doce,0,0,0,0,0,3,520,0,13,0,0,0,0,0
+3115805,Centralina,Triângulo Mineiro/Alto Paranaíba,19250,0,0,0,0,0,864000,0,1418,38,0,0,32850,0
+3115904,Chácara,Zona da Mata,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+3116001,Chalé,Zona da Mata,0,0,0,0,0,2860,3300,0,45,0,0,0,0,0
+3116100,Chapada do Norte,Jequitinhonha,45,6,9,0,0,2,3780,0,35,0,5,0,0,0
+3116159,Chapada Gaúcha,Norte de Minas,450,0,0,0,0,0,600,0,178,0,0,0,480,0
+3116209,Chiador,Zona da Mata,0,0,0,0,0,0,660,0,1,0,0,0,0,0
+3116308,Cipotânea,Zona da Mata,0,0,5,0,0,0,60,0,224,0,0,0,0,0
+3116407,Claraval,Sul/Sudoeste de Minas,0,0,0,0,0,3270,8064,0,4,0,0,0,0,0
+3116506,Claro dos Poções,Norte de Minas,0,0,0,0,0,3,17040,0,150,0,0,0,52,30
+3116605,Cláudio,Oeste de Minas,0,0,0,0,0,248,3452,0,95,0,0,0,0,350
+3116704,Coimbra,Zona da Mata,0,0,0,0,0,725,756,0,967,0,60,0,0,6400
+3116803,Coluna,Vale do Rio Doce,0,0,0,0,0,4,5300,0,87,0,0,0,0,0
+3116902,Comendador Gomes,Triângulo Mineiro/Alto Paranaíba,5700,0,0,0,0,0,464900,0,0,0,202400,0,240,0
+3117009,Comercinho,Jequitinhonha,6,0,0,0,0,3,1248,0,52,0,26,0,0,0
+3117108,Conceição da Aparecida,Sul/Sudoeste de Minas,0,0,0,0,0,15930,102,0,14,900,0,0,0,31
+3117207,Conceição das Pedras,Sul/Sudoeste de Minas,0,0,0,0,695,1190,180,0,0,0,45,0,0,620
+3117306,Conceição das Alagoas,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,49,3440000,0,2915,0,7875,0,25000,0
+3117405,Conceição de Ipanema,Vale do Rio Doce,0,0,0,0,0,850,448,0,38,0,20,0,0,0
+3117504,Conceição do Mato Dentro,Metropolitana de Belo Horizonte,17,0,2,0,0,16,3700,0,57,0,0,0,0,0
+3117603,Conceição do Pará,Oeste de Minas,0,0,0,0,0,0,1900,0,11,0,0,0,0,0
+3117702,Conceição do Rio Verde,Sul/Sudoeste de Minas,0,0,0,0,0,4732,60,0,5,0,0,0,0,180
+3117801,Conceição dos Ouros,Sul/Sudoeste de Minas,0,0,0,0,0,264,30,0,18,0,0,0,0,2450
+3117836,Cônego Marinho,Norte de Minas,0,0,0,0,0,0,5900,0,64,0,0,0,0,0
+3117876,Confins,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3117900,Congonhal,Sul/Sudoeste de Minas,0,0,0,0,3900,452,350,0,67,0,0,0,0,0
+3118007,Congonhas,Metropolitana de Belo Horizonte,0,0,0,0,0,14,156,0,89,0,5,0,0,0
+3118106,Congonhas do Norte,Metropolitana de Belo Horizonte,0,0,0,0,0,18,4200,0,17,0,0,0,0,0
+3118205,Conquista,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,1736520,0,192,0,0,0,24000,0
+3118304,Conselheiro Lafaiete,Metropolitana de Belo Horizonte,0,0,0,0,207,0,2100,0,153,0,0,0,0,140
+3118403,Conselheiro Pena,Vale do Rio Doce,0,0,0,0,0,5502,1568,0,33,0,390,0,0,0
+3118502,Consolação,Sul/Sudoeste de Minas,0,0,0,0,0,3,0,0,12,0,0,0,0,0
+3118601,Contagem,Metropolitana de Belo Horizonte,0,0,0,0,0,0,30,0,0,0,0,0,0,0
+3118700,Coqueiral,Sul/Sudoeste de Minas,0,0,0,0,0,6270,1935,0,486,0,0,0,0,0
+3118809,Coração de Jesus,Norte de Minas,0,50,0,0,0,0,28600,0,291,0,78,0,49,1300
+3118908,Cordisburgo,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2808,0,3,0,0,0,0,320
+3119005,Cordislândia,Sul/Sudoeste de Minas,0,0,0,0,375,2520,90,0,23,0,0,0,0,0
+3119104,Corinto,Central Mineira,100,0,0,0,0,0,11400,0,19,0,0,0,366,0
+3119203,Coroaci,Vale do Rio Doce,0,0,3,0,0,78,3140,0,24,0,0,0,32,80
+3119302,Coromandel,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,850,10630,342,302,5730,0,0,0,6614,21200
+3119401,Coronel Fabriciano,Vale do Rio Doce,0,0,0,0,0,0,135,0,6,0,0,0,0,0
+3119500,Coronel Murta,Jequitinhonha,0,0,0,0,0,0,2700,0,36,0,8,0,0,0
+3119609,Coronel Pacheco,Zona da Mata,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+3119708,Coronel Xavier Chaves,Campo das Vertentes,0,0,0,0,0,0,3800,0,267,0,0,0,0,110
+3119807,Córrego Danta,Oeste de Minas,0,0,0,0,0,1930,414,0,2,0,63,0,0,0
+3119906,Córrego do Bom Jesus,Sul/Sudoeste de Minas,0,0,0,0,480,0,0,5,3,0,4,0,0,76
+3119955,Córrego Fundo,Oeste de Minas,0,0,3,0,0,25,5150,0,42,0,0,0,0,1024
+3120003,Córrego Novo,Vale do Rio Doce,0,0,0,0,0,50,6650,0,9,0,0,0,0,0
+3120102,Couto de Magalhães de Minas,Jequitinhonha,10,0,0,0,0,0,770,0,10,0,11,0,0,0
+3120151,Crisólita,Vale do Mucuri,20,0,0,0,0,0,1200,0,78,0,0,0,0,0
+3120201,Cristais,Oeste de Minas,0,0,0,0,0,7483,60000,0,360,0,10,0,1140,0
+3120300,Cristália,Norte de Minas,30,0,10,0,0,2,2460,0,86,0,7,0,0,0
+3120409,Cristiano Otoni,Metropolitana de Belo Horizonte,0,0,0,0,400,0,400,0,312,0,0,0,0,175
+3120508,Cristina,Sul/Sudoeste de Minas,0,0,0,76,3960,1409,0,0,198,0,0,0,0,360
+3120607,Crucilândia,Metropolitana de Belo Horizonte,0,0,0,0,0,0,14768,0,10,0,0,0,0,320
+3120706,Cruzeiro da Fortaleza,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,1200,1448,0,0,0,0,0,0,444,0
+3120805,Cruzília,Sul/Sudoeste de Minas,0,0,0,0,0,72,2270,0,396,0,0,0,0,0
+3120839,Cuparaque,Vale do Rio Doce,0,0,0,0,0,104,9300,0,1,0,5,0,0,0
+3120870,Curral de Dentro,Norte de Minas,0,0,0,0,0,31,96,0,37,0,15,0,23,0
+3120904,Curvelo,Central Mineira,20,0,0,0,0,0,19200,0,125,0,0,0,0,165
+3121001,Datas,Jequitinhonha,0,8,0,0,1950,3,360,0,108,0,7,0,0,0
+3121100,Delfim Moreira,Sul/Sudoeste de Minas,0,0,0,41,1000,0,187,2,16,0,0,0,0,250
+3121209,Delfinópolis,Sul/Sudoeste de Minas,0,0,0,0,0,297,189800,0,862,0,0,0,7252,30
+3121258,Delta,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,419040,0,0,0,0,0,264,0
+3121308,Descoberto,Zona da Mata,0,0,0,0,0,1,2520,0,6,0,0,0,0,0
+3121407,Desterro de Entre Rios,Metropolitana de Belo Horizonte,0,0,0,0,0,312,4606,0,250,0,8,0,0,80
+3121506,Desterro do Melo,Campo das Vertentes,0,0,0,0,0,2,600,0,294,0,0,0,0,50
+3121605,Diamantina,Jequitinhonha,60,11,7,0,0,540,6000,0,189,0,18,0,0,0
+3121704,Diogo de Vasconcelos,Metropolitana de Belo Horizonte,0,0,1,0,0,0,600,0,50,0,0,0,0,0
+3121803,Dionísio,Metropolitana de Belo Horizonte,0,0,1,0,0,3,1950,0,47,0,0,0,0,0
+3121902,Divinésia,Zona da Mata,0,0,0,0,0,230,1650,0,82,0,0,0,0,200
+3122009,Divino,Zona da Mata,0,0,0,0,0,9630,660,0,156,0,0,0,0,0
+3122108,Divino das Laranjeiras,Vale do Rio Doce,0,0,0,0,0,0,4580,0,11,0,0,0,0,0
+3122207,Divinolândia de Minas,Vale do Rio Doce,0,0,1,0,0,30,1575,0,84,0,0,0,0,0
+3122306,Divinópolis,Oeste de Minas,18,0,1,0,0,0,1400,0,30,0,21,0,5,160
+3122355,Divisa Alegre,Norte de Minas,30,0,0,0,0,144,0,0,10,0,0,0,0,0
+3122405,Divisa Nova,Sul/Sudoeste de Minas,0,0,0,0,750,3832,72680,0,258,0,1910,0,0,0
+3122454,Divisópolis,Jequitinhonha,15,0,0,0,0,745,1500,0,94,0,14,0,0,0
+3122470,Dom Bosco,Noroeste de Minas,0,0,0,0,0,0,8350,0,1830,0,0,0,224,0
+3122504,Dom Cavati,Vale do Rio Doce,0,0,1,0,0,14,420,0,11,0,10,0,0,0
+3122603,Dom Joaquim,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2900,0,41,0,0,0,0,0
+3122702,Dom Silvério,Zona da Mata,0,0,0,0,0,0,1180,0,11,0,0,0,0,0
+3122801,Dom Viçoso,Sul/Sudoeste de Minas,0,0,0,0,130,407,160,0,8,0,0,0,0,0
+3122900,Dona Eusébia,Zona da Mata,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+3123007,Dores de Campos,Campo das Vertentes,0,0,0,0,0,0,425,0,87,0,0,0,0,20
+3123106,Dores de Guanhães,Vale do Rio Doce,0,0,0,0,0,0,22400,0,55,0,0,0,0,0
+3123205,Dores do Indaiá,Central Mineira,0,0,0,0,0,0,2200,0,38,0,0,0,120,0
+3123304,Dores do Turvo,Zona da Mata,0,0,0,0,0,38,7836,0,186,0,0,0,0,0
+3123403,Doresópolis,Oeste de Minas,0,0,0,0,0,207,3024,0,28,0,0,0,0,0
+3123502,Douradoquara,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,810,0,0,0,0,0,0,0
+3123528,Durandé,Zona da Mata,0,0,0,0,0,6010,574,0,9,0,0,0,0,0
+3123601,Elói Mendes,Sul/Sudoeste de Minas,0,0,0,0,0,10980,1600,0,248,0,8,0,84,0
+3123700,Engenheiro Caldas,Vale do Rio Doce,0,0,0,0,0,0,0,0,2,0,10,0,0,140
+3123809,Engenheiro Navarro,Norte de Minas,0,0,0,0,0,0,3720,0,216,0,5,0,36,0
+3123858,Entre Folhas,Vale do Rio Doce,0,0,1,0,0,343,300,0,8,0,9,0,0,0
+3123908,Entre Rios de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,365,1184,0,300,0,0,0,0,0
+3124005,Ervália,Zona da Mata,0,0,4,0,0,7800,3768,0,1864,0,0,0,0,1200
+3124104,Esmeraldas,Metropolitana de Belo Horizonte,0,0,0,0,0,91,7200,0,7,0,0,0,0,490
+3124203,Espera Feliz,Zona da Mata,0,0,6,0,0,11880,120,0,280,0,34,0,0,0
+3124302,Espinosa,Norte de Minas,0,0,5,0,0,0,1440,0,156,0,120,0,122,30
+3124401,Espírito Santo do Dourado,Sul/Sudoeste de Minas,0,0,0,0,9936,560,0,0,18,0,0,0,0,0
+3124500,Estiva,Sul/Sudoeste de Minas,0,0,0,0,360,5,0,0,15,0,0,0,0,450
+3124609,Estrela Dalva,Zona da Mata,0,0,0,0,0,0,1380,0,4,0,0,0,0,0
+3124708,Estrela do Indaiá,Central Mineira,0,0,0,0,2600,252,2880,0,365,0,0,0,0,0
+3124807,Estrela do Sul,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,5060,10440,0,390,192,0,0,216,1400
+3124906,Eugenópolis,Zona da Mata,0,0,0,0,0,1500,3515,0,31,0,0,0,0,0
+3125002,Ewbank da Câmara,Zona da Mata,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3125101,Extrema,Sul/Sudoeste de Minas,0,0,0,3,330,4,0,25,15,0,0,0,0,54
+3125200,Fama,Sul/Sudoeste de Minas,0,0,0,0,0,1584,0,0,89,0,0,0,0,0
+3125309,Faria Lemos,Zona da Mata,0,0,0,0,0,690,500,0,6,0,0,0,0,0
+3125408,Felício dos Santos,Jequitinhonha,10,0,4,0,0,300,1200,0,50,0,10,0,0,0
+3125507,São Gonçalo do Rio Preto,Jequitinhonha,0,0,0,0,0,143,1200,0,14,0,0,0,0,0
+3125606,Felisburgo,Jequitinhonha,0,0,0,0,0,18,300,0,105,0,0,0,0,0
+3125705,Felixlândia,Central Mineira,15,0,0,0,0,0,7500,0,254,0,0,0,0,140
+3125804,Fernandes Tourinho,Vale do Rio Doce,0,0,0,0,0,0,450,0,12,0,0,0,0,82
+3125903,Ferros,Metropolitana de Belo Horizonte,0,0,4,0,0,32,21400,0,138,0,0,0,0,0
+3125952,Fervedouro,Zona da Mata,0,0,0,0,0,5010,300,0,118,0,22,0,0,30
+3126000,Florestal,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1400,0,1,0,0,0,0,420
+3126109,Formiga,Oeste de Minas,0,0,0,0,3700,4680,2378,0,1620,0,0,0,0,990
+3126208,Formoso,Noroeste de Minas,0,0,0,0,0,514,2410,0,6390,0,12064,0,420,0
+3126307,Fortaleza de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,1248,13447,0,3,0,6528,0,0,880
+3126406,Fortuna de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,572,0,4,0,0,0,0,0
+3126505,Francisco Badaró,Jequitinhonha,0,6,2,0,0,0,1110,0,66,0,24,0,0,0
+3126604,Francisco Dumont,Norte de Minas,0,3,0,0,0,480,3900,0,26,0,15,0,363,0
+3126703,Francisco Sá,Norte de Minas,0,180,1,0,0,2,3850,0,300,0,0,0,140,0
+3126752,Franciscópolis,Vale do Mucuri,30,0,3,0,0,14,5550,0,125,0,13,0,0,0
+3126802,Frei Gaspar,Vale do Mucuri,0,0,0,0,0,15,2906,0,20,0,6,0,50,180
+3126901,Frei Inocêncio,Vale do Rio Doce,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+3126950,Frei Lagonegro,Vale do Rio Doce,0,0,0,0,0,8,1970,0,45,0,0,0,0,0
+3127008,Fronteira,Triângulo Mineiro/Alto Paranaíba,12720,0,0,0,0,0,41250,0,11,0,0,0,0,0
+3127057,Fronteira dos Vales,Vale do Mucuri,0,0,0,0,0,0,1139,0,7,0,0,0,0,0
+3127073,Fruta de Leite,Norte de Minas,0,0,11,0,0,4,2278,0,120,0,9,0,0,0
+3127107,Frutal,Triângulo Mineiro/Alto Paranaíba,60000,0,3230,0,0,0,5017792,0,65,0,122500,0,15600,0
+3127206,Funilândia,Metropolitana de Belo Horizonte,0,0,0,0,0,0,900,0,26,0,0,0,0,0
+3127305,Galiléia,Vale do Rio Doce,0,0,0,0,0,0,2450,0,2,0,0,0,15,0
+3127339,Gameleiras,Norte de Minas,0,0,0,0,0,0,0,0,63,0,0,0,9,0
+3127354,Glaucilândia,Norte de Minas,0,0,0,0,0,0,1380,0,20,0,0,0,24,0
+3127370,Goiabeira,Vale do Rio Doce,0,0,0,0,0,0,3500,0,1,0,0,0,0,0
+3127388,Goianá,Zona da Mata,0,0,0,0,0,0,120,0,11,0,3,0,0,0
+3127404,Gonçalves,Sul/Sudoeste de Minas,0,0,0,8,200,0,70,3,12,0,10,0,0,130
+3127503,Gonzaga,Vale do Rio Doce,0,0,0,0,0,4,210,0,42,0,0,0,0,0
+3127602,Gouveia,Jequitinhonha,0,90,0,0,0,0,420,0,26,0,15,0,0,30
+3127701,Governador Valadares,Vale do Rio Doce,0,0,0,0,0,4,6660,0,77,0,0,0,0,0
+3127800,Grão Mogol,Norte de Minas,90,0,10,0,0,28,1850,0,145,0,180,0,0,0
+3127909,Grupiara,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3128006,Guanhães,Vale do Rio Doce,0,0,3,0,0,8,2420,0,66,0,12,0,0,0
+3128105,Guapé,Sul/Sudoeste de Minas,0,0,0,0,0,12672,5600,0,855,0,0,0,0,0
+3128204,Guaraciaba,Zona da Mata,0,0,5,0,25,154,6600,0,420,0,0,0,0,0
+3128253,Guaraciama,Norte de Minas,0,3,2,0,0,0,900,0,8,0,0,0,0,0
+3128303,Guaranésia,Sul/Sudoeste de Minas,0,0,0,0,1443,4675,9000,0,347,0,15,0,0,0
+3128402,Guarani,Zona da Mata,0,0,0,0,0,128,60,0,48,0,0,0,0,0
+3128501,Guarará,Zona da Mata,0,0,0,0,0,29,1020,0,12,0,16,0,0,75
+3128600,Guarda-Mor,Noroeste de Minas,0,360,0,0,600,326,150,0,22200,0,0,0,11900,0
+3128709,Guaxupé,Sul/Sudoeste de Minas,0,0,0,0,0,6860,2200,0,95,0,0,0,0,0
+3128808,Guidoval,Zona da Mata,0,0,0,0,0,0,532,0,11,0,52,0,0,400
+3128907,Guimarânia,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,2630,160,0,0,0,214,0,4775,3600
+3129004,Guiricema,Zona da Mata,0,0,0,0,0,381,3840,0,36,0,0,0,0,210
+3129103,Gurinhatã,Triângulo Mineiro/Alto Paranaíba,15,0,0,0,0,0,584800,0,4,0,8908,0,0,0
+3129202,Heliodora,Sul/Sudoeste de Minas,0,0,0,0,1000,3790,900,0,2,0,0,0,0,0
+3129301,Iapu,Vale do Rio Doce,0,0,3,0,0,192,2300,0,14,0,0,0,0,2100
+3129400,Ibertioga,Campo das Vertentes,0,0,0,0,150,0,350,0,1694,0,0,0,0,52
+3129509,Ibiá,Triângulo Mineiro/Alto Paranaíba,0,1545,0,0,13100,8820,1750,0,8150,0,1300,0,5100,55
+3129608,Ibiaí,Norte de Minas,0,0,0,0,0,0,740,0,62,0,0,0,0,0
+3129657,Ibiracatu,Norte de Minas,0,0,0,0,0,0,1180,0,6,0,0,0,0,0
+3129707,Ibiraci,Sul/Sudoeste de Minas,0,0,0,0,0,18050,183,0,5,0,13072,0,960,2520
+3129806,Ibirité,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+3129905,Ibitiúra de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,1910,0,0,0,0,0,0,0,43
+3130002,Ibituruna,Oeste de Minas,0,0,0,0,0,761,2930,0,1,0,0,0,0,0
+3130051,Icaraí de Minas,Norte de Minas,0,0,2,0,0,0,5610,0,36,0,0,0,180,0
+3130101,Igarapé,Metropolitana de Belo Horizonte,0,0,0,0,0,13,1000,0,2,0,30,0,0,1600
+3130200,Igaratinga,Oeste de Minas,0,0,0,0,0,0,150,0,2,0,0,0,0,0
+3130309,Iguatama,Oeste de Minas,0,0,0,0,0,0,238140,0,351,0,0,0,0,0
+3130408,Ijaci,Campo das Vertentes,0,0,0,0,0,125,192,0,7,0,0,0,0,0
+3130507,Ilicínea,Sul/Sudoeste de Minas,0,0,0,0,0,7968,0,0,1260,0,0,0,0,0
+3130556,Imbé de Minas,Vale do Rio Doce,0,0,0,0,0,3360,84,0,66,0,221,0,0,1250
+3130606,Inconfidentes,Sul/Sudoeste de Minas,0,33,0,0,18,1980,145,0,200,0,52,0,0,710
+3130655,Indaiabira,Norte de Minas,0,0,2,0,0,250,7680,0,294,0,0,0,0,482
+3130705,Indianópolis,Triângulo Mineiro/Alto Paranaíba,0,600,0,0,2275,7330,1116,0,1,432,0,0,19110,2200
+3130804,Ingaí,Campo das Vertentes,0,0,0,0,0,934,0,0,520,0,0,0,0,3850
+3130903,Inhapim,Vale do Rio Doce,0,0,6,0,0,3834,1884,0,75,0,166,0,0,2700
+3131000,Inhaúma,Metropolitana de Belo Horizonte,0,0,0,0,0,0,800,0,2,0,0,0,0,0
+3131109,Inimutaba,Central Mineira,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3131158,Ipaba,Vale do Rio Doce,0,0,0,0,0,0,117,0,3,0,0,0,0,0
+3131208,Ipanema,Vale do Rio Doce,0,0,0,0,0,0,560,0,53,0,188,0,0,0
+3131307,Ipatinga,Vale do Rio Doce,0,0,0,0,0,3,37,0,1,0,0,0,0,0
+3131406,Ipiaçu,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,297700,0,0,0,0,0,11876,0
+3131505,Ipuiúna,Sul/Sudoeste de Minas,0,0,0,0,17380,0,0,0,90,0,0,0,0,0
+3131604,Iraí de Minas,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,16800,244,0,0,396,0,0,0,275,0
+3131703,Itabira,Metropolitana de Belo Horizonte,0,0,2,0,0,3,4900,0,12,0,16,0,0,0
+3131802,Itabirinha,Vale do Rio Doce,0,0,1,0,0,42,390,0,60,0,30,0,0,0
+3131901,Itabirito,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1100,0,16,0,10,0,0,0
+3132008,Itacambira,Norte de Minas,15,6,8,0,0,171,990,0,84,0,27,0,0,0
+3132107,Itacarambi,Norte de Minas,0,0,0,0,0,0,1221,0,315,0,0,0,0,0
+3132206,Itaguara,Metropolitana de Belo Horizonte,0,0,0,0,0,0,27840,0,38,0,0,0,0,1200
+3132305,Itaipé,Vale do Mucuri,23,0,4,0,0,421,4500,0,86,0,26,0,0,0
+3132404,Itajubá,Sul/Sudoeste de Minas,0,0,0,0,230,35,950,0,8,0,18,0,0,200
+3132503,Itamarandiba,Jequitinhonha,36,9,6,0,0,757,16500,0,184,0,15,0,0,280
+3132602,Itamarati de Minas,Zona da Mata,0,0,0,0,0,120,1720,0,3,0,0,0,0,0
+3132701,Itambacuri,Vale do Rio Doce,30,0,2,0,0,84,6860,0,79,0,55,0,0,0
+3132800,Itambé do Mato Dentro,Metropolitana de Belo Horizonte,0,0,0,0,0,0,600,0,5,0,0,0,0,0
+3132909,Itamogi,Sul/Sudoeste de Minas,0,0,0,0,0,11360,43024,0,0,0,0,0,0,0
+3133006,Itamonte,Sul/Sudoeste de Minas,0,0,0,0,1080,0,1400,0,216,0,0,0,0,0
+3133105,Itanhandu,Sul/Sudoeste de Minas,0,0,0,8,0,0,135,0,18,0,50,0,0,35
+3133204,Itanhomi,Vale do Rio Doce,0,0,0,0,0,270,51,0,30,0,51,0,0,0
+3133303,Itaobim,Jequitinhonha,0,0,0,0,0,0,1058,0,63,0,0,0,0,0
+3133402,Itapagipe,Triângulo Mineiro/Alto Paranaíba,9000,0,0,0,0,105,1318400,0,0,0,3125,0,0,0
+3133501,Itapecerica,Oeste de Minas,0,0,0,0,0,530,44800,0,171,0,904,0,0,60
+3133600,Itapeva,Sul/Sudoeste de Minas,0,0,0,1,2250,0,0,2,5,0,0,0,0,0
+3133709,Itatiaiuçu,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1040,0,6,0,0,0,0,280
+3133758,Itaú de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,10,27168,0,183,0,0,0,0,0
+3133808,Itaúna,Oeste de Minas,0,0,0,0,0,0,360,0,15,0,0,0,0,320
+3133907,Itaverava,Metropolitana de Belo Horizonte,0,0,0,0,1960,0,3680,0,50,0,0,0,0,0
+3134004,Itinga,Jequitinhonha,0,0,0,0,0,0,3648,0,164,0,12,0,0,0
+3134103,Itueta,Vale do Rio Doce,0,0,0,0,0,451,864,0,64,0,240,0,0,300
+3134202,Ituiutaba,Triângulo Mineiro/Alto Paranaíba,200,0,0,0,0,2,1690000,0,32,0,11944,0,21000,0
+3134301,Itumirim,Campo das Vertentes,0,0,0,0,0,450,1305,0,102,0,0,0,0,0
+3134400,Iturama,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,2171700,0,0,0,0,0,0,0
+3134509,Itutinga,Campo das Vertentes,0,0,0,0,0,150,0,0,1278,0,0,0,0,0
+3134608,Jaboticatubas,Metropolitana de Belo Horizonte,200,22,1,0,0,0,12600,0,30,0,1000,0,0,540
+3134707,Jacinto,Jequitinhonha,15,0,0,0,0,0,0,0,3,0,0,0,0,0
+3134806,Jacuí,Sul/Sudoeste de Minas,0,0,0,0,0,4720,720,0,9,0,0,0,0,1960
+3134905,Jacutinga,Sul/Sudoeste de Minas,0,0,0,0,0,5362,2460,0,39,0,0,0,0,1018
+3135001,Jaguaraçu,Vale do Rio Doce,0,0,0,0,0,0,366,0,1,0,0,0,0,0
+3135050,Jaíba,Norte de Minas,0,0,20,0,0,38,750500,0,544,0,888,0,90,48613
+3135076,Jampruca,Vale do Rio Doce,0,0,0,0,0,0,494,0,8,0,0,0,0,0
+3135100,Janaúba,Norte de Minas,0,0,3,0,0,0,1760,0,108,0,115,0,40,30
+3135209,Januária,Norte de Minas,0,0,0,0,0,0,12500,0,390,0,7,0,280,0
+3135308,Japaraíba,Central Mineira,0,0,0,0,0,0,423242,0,4,0,0,0,0,40
+3135357,Japonvar,Norte de Minas,0,0,1,0,0,0,405,0,35,0,5,0,348,0
+3135407,Jeceaba,Metropolitana de Belo Horizonte,0,0,0,0,0,2,1200,0,54,0,0,0,0,0
+3135456,Jenipapo de Minas,Jequitinhonha,0,0,3,0,0,0,600,0,33,0,5,0,0,0
+3135506,Jequeri,Zona da Mata,0,0,0,0,0,1933,48360,0,91,0,0,0,0,0
+3135605,Jequitaí,Norte de Minas,0,0,0,0,0,0,2500,0,894,0,0,0,15,0
+3135704,Jequitibá,Metropolitana de Belo Horizonte,0,0,0,0,0,0,15030,0,45,0,0,0,0,2500
+3135803,Jequitinhonha,Jequitinhonha,0,0,0,0,0,23,6050,0,105,0,24,0,0,30
+3135902,Jesuânia,Sul/Sudoeste de Minas,0,0,0,0,0,2270,320,0,2,0,0,0,0,0
+3136009,Joaíma,Jequitinhonha,0,0,0,0,0,0,1175,0,56,0,0,0,0,0
+3136108,Joanésia,Vale do Rio Doce,0,0,6,0,0,0,2500,0,28,0,7,0,0,0
+3136207,João Monlevade,Metropolitana de Belo Horizonte,0,0,0,0,0,0,337,0,2,0,0,0,0,0
+3136306,João Pinheiro,Noroeste de Minas,18,0,0,0,0,1510,1813066,0,11218,0,420,0,750,0
+3136405,Joaquim Felício,Central Mineira,0,0,0,0,0,0,4960,0,21,0,8,0,59,0
+3136504,Jordânia,Jequitinhonha,0,0,0,0,0,0,1500,0,70,0,0,0,0,0
+3136520,José Gonçalves de Minas,Jequitinhonha,250,0,2,0,0,54,2400,0,36,0,5,0,0,0
+3136553,José Raydan,Vale do Rio Doce,0,0,0,0,0,0,3500,0,26,0,0,0,0,750
+3136579,Josenópolis,Norte de Minas,15,0,1,0,0,0,240,0,62,0,3,0,0,0
+3136603,Nova União,Metropolitana de Belo Horizonte,0,0,0,0,0,55,2220,0,21,0,0,0,0,0
+3136652,Juatuba,Metropolitana de Belo Horizonte,0,0,0,0,0,0,300,0,0,0,0,0,0,44
+3136702,Juiz de Fora,Zona da Mata,0,0,0,0,0,9,1740,0,66,0,7,0,0,42
+3136801,Juramento,Norte de Minas,0,11,0,0,0,0,420,0,48,0,0,0,0,0
+3136900,Juruaia,Sul/Sudoeste de Minas,0,0,0,0,0,6760,3560,0,22,0,0,0,0,0
+3136959,Juvenília,Norte de Minas,0,0,0,0,0,0,20,0,51,0,0,0,2,6000
+3137007,Ladainha,Vale do Mucuri,206,0,22,0,0,137,10200,0,615,0,58,0,6,0
+3137106,Lagamar,Noroeste de Minas,180,0,0,0,0,18,520,0,2295,0,0,0,200,0
+3137205,Lagoa da Prata,Central Mineira,0,0,0,0,0,0,709485,0,3,0,0,0,0,0
+3137304,Lagoa dos Patos,Norte de Minas,0,0,0,0,0,0,120,0,35,0,0,0,18,0
+3137403,Lagoa Dourada,Campo das Vertentes,0,48,0,0,0,107,280,0,5805,0,0,0,0,9720
+3137502,Lagoa Formosa,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,1360,231,0,1200,0,675,0,9918,8200
+3137536,Lagoa Grande,Noroeste de Minas,0,0,0,0,0,273,3120,0,1866,0,0,0,0,10000
+3137601,Lagoa Santa,Metropolitana de Belo Horizonte,80,0,0,0,0,0,756,0,4,0,1200,0,0,0
+3137700,Lajinha,Zona da Mata,0,0,1,0,0,9600,420,0,128,0,30,0,0,300
+3137809,Lambari,Sul/Sudoeste de Minas,0,0,0,0,0,6520,70,0,4,0,0,0,0,0
+3137908,Lamim,Zona da Mata,0,0,0,0,0,36,4500,0,67,0,0,0,0,0
+3138005,Laranjal,Zona da Mata,0,0,0,0,0,0,60,0,5,0,0,0,0,0
+3138104,Lassance,Norte de Minas,0,0,0,0,0,0,5500,0,212,0,3710,0,0,0
+3138203,Lavras,Campo das Vertentes,0,0,0,0,0,7275,2070,0,380,0,88,0,0,36
+3138302,Leandro Ferreira,Central Mineira,0,0,0,0,0,0,320,0,19,0,0,0,0,0
+3138351,Leme do Prado,Jequitinhonha,69,0,4,0,0,0,1824,0,7,0,8,0,0,0
+3138401,Leopoldina,Zona da Mata,0,0,0,0,0,9,23360,0,37,0,18,0,0,0
+3138500,Liberdade,Sul/Sudoeste de Minas,0,0,0,0,105,0,820,0,15,0,0,0,0,0
+3138609,Lima Duarte,Zona da Mata,0,0,0,0,0,0,504,0,62,0,0,0,0,0
+3138625,Limeira do Oeste,Triângulo Mineiro/Alto Paranaíba,120,0,0,0,0,0,1971008,0,0,0,0,0,0,0
+3138658,Lontra,Norte de Minas,0,0,0,0,0,0,500,0,14,0,0,0,0,0
+3138674,Luisburgo,Zona da Mata,0,0,0,0,0,8874,210,0,126,0,0,0,0,150
+3138682,Luislândia,Norte de Minas,0,0,0,0,0,0,1260,0,74,0,4,0,7,0
+3138708,Luminárias,Campo das Vertentes,0,0,0,0,0,3700,333,0,2740,0,0,0,0,430
+3138807,Luz,Central Mineira,60,0,0,0,0,63,1205400,0,500,0,15,0,0,0
+3138906,Machacalis,Vale do Mucuri,0,0,0,0,0,0,775,0,3,0,0,0,0,0
+3139003,Machado,Sul/Sudoeste de Minas,0,0,0,0,1810,27600,28000,0,900,0,40,0,0,960
+3139102,Madre de Deus de Minas,Campo das Vertentes,0,0,0,0,0,0,183,0,11250,0,10075,0,0,0
+3139201,Malacacheta,Vale do Mucuri,16,3,5,0,0,148,1720,0,218,0,10,0,0,143
+3139250,Mamonas,Norte de Minas,0,6,0,0,0,0,158,0,20,0,0,0,35,0
+3139300,Manga,Norte de Minas,0,9,0,0,0,0,1320,12,130,0,0,0,0,0
+3139409,Manhuaçu,Zona da Mata,0,0,0,0,0,26274,64,0,189,0,0,0,0,425
+3139508,Manhumirim,Zona da Mata,0,0,0,0,0,9203,0,0,18,0,0,0,0,0
+3139607,Mantena,Vale do Rio Doce,0,0,0,0,0,150,8160,0,30,0,0,0,0,0
+3139706,Maravilhas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,920,0,5,0,6,0,0,6650
+3139805,Mar de Espanha,Zona da Mata,0,0,0,0,0,92,6468,0,66,0,15,0,0,0
+3139904,Maria da Fé,Sul/Sudoeste de Minas,0,0,0,22,11720,146,3000,2,26,0,24,0,0,310
+3140001,Mariana,Metropolitana de Belo Horizonte,0,0,0,0,0,50,1284,0,14,0,30,0,0,0
+3140100,Marilac,Vale do Rio Doce,0,0,0,0,0,0,1300,0,44,0,0,0,56,3000
+3140159,Mário Campos,Metropolitana de Belo Horizonte,0,30,0,0,0,0,30,0,1,0,0,0,0,0
+3140209,Maripá de Minas,Zona da Mata,0,0,0,0,0,0,938,0,17,0,10,0,0,0
+3140308,Marliéria,Vale do Rio Doce,0,0,0,0,0,3,1715,0,3,0,0,0,0,0
+3140407,Marmelópolis,Sul/Sudoeste de Minas,0,0,0,0,80,0,120,0,5,0,0,8,0,440
+3140506,Martinho Campos,Central Mineira,0,280,0,0,0,0,2000,0,453,0,0,0,857,0
+3140530,Martins Soares,Zona da Mata,0,0,0,0,0,6900,0,0,21,0,0,0,0,0
+3140555,Mata Verde,Jequitinhonha,0,0,0,0,0,330,60,0,8,0,0,0,0,0
+3140605,Materlândia,Vale do Rio Doce,0,0,0,0,0,1,1306,0,84,0,6,0,0,0
+3140704,Mateus Leme,Metropolitana de Belo Horizonte,0,0,5,0,0,29,1500,0,9,0,0,0,0,1250
+3140803,Matias Barbosa,Zona da Mata,0,0,0,0,0,0,648,0,30,0,0,0,0,0
+3140852,Matias Cardoso,Norte de Minas,0,0,55,0,0,0,30200,0,225,0,672,0,70,9900
+3140902,Matipó,Zona da Mata,0,0,1,0,0,4090,1024,0,92,0,0,0,0,30
+3141009,Mato Verde,Norte de Minas,0,0,0,0,0,0,90,0,29,0,0,0,178,0
+3141108,Matozinhos,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1150,0,18,0,0,0,0,0
+3141207,Matutina,Triângulo Mineiro/Alto Paranaíba,0,30,0,0,120,280,0,0,97,0,0,0,0,0
+3141306,Medeiros,Oeste de Minas,0,0,0,0,120,4798,46847,0,6290,0,9400,0,0,0
+3141405,Medina,Jequitinhonha,0,0,0,0,0,0,1995,0,59,0,10,0,0,180
+3141504,Mendes Pimentel,Vale do Rio Doce,0,0,2,0,0,0,1600,0,9,0,0,0,0,0
+3141603,Mercês,Zona da Mata,0,0,0,0,0,12,2010,0,100,0,0,0,0,0
+3141702,Mesquita,Vale do Rio Doce,0,0,8,0,0,0,1260,0,23,0,12,0,0,0
+3141801,Minas Novas,Jequitinhonha,46,13,15,0,0,244,7020,4,168,0,150,0,0,82
+3141900,Minduri,Sul/Sudoeste de Minas,0,0,0,0,0,3,490,0,506,0,0,0,0,0
+3142007,Mirabela,Norte de Minas,0,0,0,0,0,0,2500,0,53,0,0,0,0,0
+3142106,Miradouro,Zona da Mata,0,0,0,0,0,2014,1475,0,111,0,0,0,0,0
+3142205,Miraí,Zona da Mata,0,0,0,0,0,398,2700,0,9,0,21,0,0,50
+3142254,Miravânia,Norte de Minas,0,0,0,0,0,0,1350,0,15,0,0,0,0,0
+3142304,Moeda,Metropolitana de Belo Horizonte,0,0,0,0,0,4,310,0,54,0,0,0,0,0
+3142403,Moema,Central Mineira,0,0,0,0,0,0,63048,0,0,0,0,0,0,0
+3142502,Monjolos,Central Mineira,0,0,0,0,0,0,2280,0,2,0,0,0,0,0
+3142601,Monsenhor Paulo,Sul/Sudoeste de Minas,0,0,0,0,450,3440,768,0,84,0,0,0,0,0
+3142700,Montalvânia,Norte de Minas,0,0,0,0,0,0,1250,0,105,0,0,0,0,3510
+3142809,Monte Alegre de Minas,Triângulo Mineiro/Alto Paranaíba,54000,0,0,0,0,307,739200,0,1738,2100,54000,0,7500,0
+3142908,Monte Azul,Norte de Minas,0,3,3,0,0,0,105,0,150,0,16,0,114,30
+3143005,Monte Belo,Sul/Sudoeste de Minas,0,0,0,0,0,9460,436990,0,128,0,0,0,0,0
+3143104,Monte Carmelo,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,22430,960,0,875,139,0,0,12120,240
+3143153,Monte Formoso,Jequitinhonha,0,0,0,0,0,20,600,0,20,0,0,0,0,0
+3143203,Monte Santo de Minas,Sul/Sudoeste de Minas,0,0,0,0,2000,10690,90525,0,300,0,3240,0,0,1400
+3143302,Montes Claros,Norte de Minas,0,18,0,0,0,0,13200,0,582,0,36,0,357,380
+3143401,Monte Sião,Sul/Sudoeste de Minas,0,0,0,0,0,2040,57600,0,5,0,56,0,0,0
+3143450,Montezuma,Norte de Minas,0,0,0,0,0,0,1800,0,54,0,3,0,0,0
+3143500,Morada Nova de Minas,Central Mineira,30,0,0,0,180,0,450,0,2400,0,0,0,720,0
+3143609,Morro da Garça,Central Mineira,0,0,0,0,0,0,1450,0,3,0,0,0,0,0
+3143708,Morro do Pilar,Metropolitana de Belo Horizonte,0,0,0,0,0,0,6620,0,15,0,0,0,0,0
+3143807,Munhoz,Sul/Sudoeste de Minas,0,0,0,0,16480,20,174,14,53,0,0,0,0,486
+3143906,Muriaé,Zona da Mata,0,0,5,0,0,1050,3500,0,96,0,7,0,100,0
+3144003,Mutum,Vale do Rio Doce,0,0,0,0,0,9931,2592,0,207,0,420,0,0,350
+3144102,Muzambinho,Sul/Sudoeste de Minas,0,0,0,0,0,11000,600,0,90,0,0,0,0,51
+3144201,Nacip Raydan,Vale do Rio Doce,0,0,0,0,0,0,30,0,9,0,0,0,0,0
+3144300,Nanuque,Vale do Mucuri,0,0,0,0,0,0,45300,0,2,0,0,0,0,0
+3144359,Naque,Vale do Rio Doce,0,0,0,0,0,0,1910,0,4,0,0,0,0,0
+3144375,Natalândia,Noroeste de Minas,0,0,0,0,0,0,2952,0,273,0,0,0,21,0
+3144409,Natércia,Sul/Sudoeste de Minas,0,0,0,0,0,2030,240,0,5,0,0,0,0,0
+3144508,Nazareno,Campo das Vertentes,0,0,0,0,0,1733,100,0,423,0,0,0,0,0
+3144607,Nepomuceno,Campo das Vertentes,0,0,0,0,0,15690,250,0,522,0,17,0,0,0
+3144656,Ninheira,Norte de Minas,0,0,0,0,0,2060,630,0,45,0,0,0,0,0
+3144672,Nova Belém,Vale do Rio Doce,0,0,0,0,0,480,30,0,12,0,20,0,0,0
+3144706,Nova Era,Metropolitana de Belo Horizonte,0,0,0,0,0,5,2700,0,10,0,0,0,0,0
+3144805,Nova Lima,Metropolitana de Belo Horizonte,0,0,0,0,0,1,0,0,2,0,5,0,0,0
+3144904,Nova Módica,Vale do Rio Doce,30,0,0,0,0,0,73,0,2,0,0,0,0,0
+3145000,Nova Ponte,Triângulo Mineiro/Alto Paranaíba,0,180,0,0,5680,274,617500,122,2220,0,0,0,12600,0
+3145059,Nova Porteirinha,Norte de Minas,0,36,0,0,210,3,1800,0,120,0,6,0,0,110
+3145109,Nova Resende,Sul/Sudoeste de Minas,0,0,0,0,2650,23550,208,0,270,0,1700,0,0,0
+3145208,Nova Serrana,Oeste de Minas,0,0,0,0,0,0,260,0,1,0,0,0,0,0
+3145307,Novo Cruzeiro,Jequitinhonha,16,24,32,0,0,625,34000,0,310,0,27,0,0,0
+3145356,Novo Oriente de Minas,Vale do Mucuri,0,0,0,0,0,0,1542,0,13,0,0,0,0,0
+3145372,Novorizonte,Norte de Minas,0,0,0,0,0,15,12600,0,29,0,11,0,0,0
+3145406,Olaria,Zona da Mata,0,0,0,0,0,0,6400,0,5,0,0,0,0,0
+3145455,Olhos-d'Água,Norte de Minas,245,7,4,0,0,0,4590,0,105,0,0,0,25,630
+3145505,Olímpio Noronha,Sul/Sudoeste de Minas,0,0,0,0,0,740,60,0,0,0,0,0,0,0
+3145604,Oliveira,Oeste de Minas,0,0,0,0,0,8100,7000,0,115,0,1870,0,0,4250
+3145703,Oliveira Fortes,Zona da Mata,0,0,0,0,0,0,0,0,33,0,0,0,0,0
+3145802,Onça de Pitangui,Metropolitana de Belo Horizonte,0,0,0,0,0,0,210,0,1,0,0,0,0,5600
+3145851,Oratórios,Zona da Mata,0,0,0,0,0,1,28130,0,9,0,0,0,0,0
+3145877,Orizânia,Zona da Mata,0,0,0,0,0,6280,30,0,150,0,0,0,0,0
+3145901,Ouro Branco,Metropolitana de Belo Horizonte,0,5,0,0,1385,0,600,0,70,0,0,0,0,0
+3146008,Ouro Fino,Sul/Sudoeste de Minas,0,18,0,0,488,7523,1364,0,11,0,10,0,0,110
+3146107,Ouro Preto,Metropolitana de Belo Horizonte,0,0,0,0,240,16,2494,0,35,0,252,0,0,219
+3146206,Ouro Verde de Minas,Vale do Mucuri,0,0,0,0,0,49,1440,0,34,0,8,0,0,0
+3146255,Padre Carvalho,Norte de Minas,0,0,0,0,0,3,960,0,59,0,0,0,0,0
+3146305,Padre Paraíso,Jequitinhonha,15,0,0,0,0,63,4200,0,50,0,44,0,0,0
+3146404,Paineiras,Central Mineira,0,0,0,0,0,0,3350,0,30,0,6,0,800,0
+3146503,Pains,Oeste de Minas,0,0,0,0,0,32,450,0,20,0,0,0,50,30
+3146552,Pai Pedro,Norte de Minas,0,0,0,0,0,0,0,0,38,0,0,0,70,0
+3146602,Paiva,Zona da Mata,0,0,0,0,0,2,3335,0,27,0,0,0,0,0
+3146701,Palma,Zona da Mata,90,0,0,0,56,0,500,0,5,0,200,0,0,0
+3146750,Palmópolis,Jequitinhonha,0,0,0,0,0,0,120,0,30,0,0,0,0,0
+3146909,Papagaios,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1400,0,348,0,0,0,150,500
+3147006,Paracatu,Noroeste de Minas,0,0,0,0,19393,3590,2062500,0,57300,0,72,0,5400,0
+3147105,Pará de Minas,Metropolitana de Belo Horizonte,25,0,0,0,0,0,1710,0,11,0,0,0,0,2450
+3147204,Paraguaçu,Sul/Sudoeste de Minas,0,0,0,0,3500,8580,120,0,1080,0,0,0,95,320
+3147303,Paraisópolis,Sul/Sudoeste de Minas,0,0,0,0,1200,147,10374,0,29,0,0,0,0,480
+3147402,Paraopeba,Metropolitana de Belo Horizonte,0,0,0,0,0,0,4410,0,370,0,0,0,0,280
+3147501,Passabém,Metropolitana de Belo Horizonte,0,0,0,0,0,0,3500,0,4,0,0,0,0,0
+3147600,Passa Quatro,Sul/Sudoeste de Minas,0,12,0,0,792,0,135,0,14,0,0,0,0,0
+3147709,Passa Tempo,Oeste de Minas,0,0,3,0,0,120,900,0,21,0,0,0,0,14240
+3147808,Passa-Vinte,Sul/Sudoeste de Minas,0,0,0,0,500,0,30,0,1,0,0,0,0,0
+3147907,Passos,Sul/Sudoeste de Minas,0,0,0,0,0,4531,738416,0,3750,0,0,0,979,41
+3147956,Patis,Norte de Minas,0,0,1,0,0,63,3600,0,12,0,0,0,0,0
+3148004,Patos de Minas,Triângulo Mineiro/Alto Paranaíba,15,0,4,0,0,10320,17100,0,4740,0,19,0,14688,32900
+3148103,Patrocínio,Triângulo Mineiro/Alto Paranaíba,70,40,21,0,13125,56115,360,0,5910,0,1540,0,14574,3312
+3148202,Patrocínio do Muriaé,Zona da Mata,0,0,0,0,0,0,300,0,6,0,0,0,0,0
+3148301,Paula Cândido,Zona da Mata,0,0,0,0,0,1542,1334,0,666,0,0,0,0,1580
+3148400,Paulistas,Vale do Rio Doce,0,0,0,0,0,0,300,0,63,0,0,0,0,0
+3148509,Pavão,Vale do Mucuri,0,0,0,0,0,0,600,0,6,0,0,0,0,0
+3148608,Peçanha,Vale do Rio Doce,0,5,6,0,0,126,3900,0,159,0,0,0,0,0
+3148707,Pedra Azul,Jequitinhonha,0,0,0,0,0,30,3800,0,40,0,8,0,0,0
+3148756,Pedra Bonita,Zona da Mata,0,0,0,0,48,3820,1210,0,65,0,0,0,0,0
+3148806,Pedra do Anta,Zona da Mata,0,0,1,0,0,237,2676,0,66,0,0,0,0,120
+3148905,Pedra do Indaiá,Oeste de Minas,0,0,0,0,0,0,114,0,19,0,0,0,0,0
+3149002,Pedra Dourada,Zona da Mata,0,0,0,0,0,1740,2400,0,80,0,0,0,0,0
+3149101,Pedralva,Sul/Sudoeste de Minas,0,0,0,0,1036,2440,810,0,25,0,840,0,0,480
+3149150,Pedras de Maria da Cruz,Norte de Minas,0,0,0,0,0,0,532,0,29,0,0,0,0,0
+3149200,Pedrinópolis,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,8980,39,36200,0,0,0,0,0,2889,0
+3149309,Pedro Leopoldo,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+3149408,Pedro Teixeira,Zona da Mata,0,0,0,0,0,0,40,0,26,0,4,0,0,0
+3149507,Pequeri,Zona da Mata,0,0,0,0,0,0,1225,0,46,0,30,0,0,0
+3149606,Pequi,Metropolitana de Belo Horizonte,0,0,2,0,0,0,100,0,127,0,15,0,0,3700
+3149705,Perdigão,Oeste de Minas,0,0,0,0,0,0,1050,0,6,0,0,0,0,0
+3149804,Perdizes,Triângulo Mineiro/Alto Paranaíba,360,0,0,0,177400,13000,1567500,0,733,78,2065,0,15564,0
+3149903,Perdões,Oeste de Minas,0,0,0,0,0,3735,3200,0,655,0,508,0,0,0
+3149952,Periquito,Vale do Rio Doce,0,0,0,0,0,2,1320,0,3,0,0,0,0,0
+3150000,Pescador,Vale do Rio Doce,0,0,0,0,0,0,90,0,2,0,0,0,0,0
+3150109,Piau,Zona da Mata,0,0,0,0,0,0,510,0,10,0,80,0,0,35
+3150158,Piedade de Caratinga,Vale do Rio Doce,0,0,0,0,0,2974,350,0,120,0,140,0,0,2720
+3150208,Piedade de Ponte Nova,Zona da Mata,0,0,0,0,0,0,66080,0,2,0,0,0,0,0
+3150307,Piedade do Rio Grande,Campo das Vertentes,0,0,0,0,0,0,900,0,610,0,0,0,0,0
+3150406,Piedade dos Gerais,Metropolitana de Belo Horizonte,0,0,0,0,310,0,5600,0,14,0,280,0,0,0
+3150505,Pimenta,Oeste de Minas,0,0,0,0,2160,1330,2664,0,564,0,0,0,126,5300
+3150539,Pingo-d'Água,Vale do Rio Doce,0,0,2,0,0,0,546,0,3,0,0,0,0,0
+3150570,Pintópolis,Norte de Minas,0,0,0,0,0,0,750,0,13,0,0,0,0,0
+3150604,Piracema,Oeste de Minas,0,0,0,0,0,8,4560,0,15,0,0,0,0,952
+3150703,Pirajuba,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,980050,0,312,0,0,0,9753,0
+3150802,Piranga,Zona da Mata,0,0,9,0,0,875,9520,0,1007,0,10,0,0,0
+3150901,Piranguçu,Sul/Sudoeste de Minas,0,0,0,0,0,6,943,0,5,0,28,0,0,0
+3151008,Piranguinho,Sul/Sudoeste de Minas,0,0,0,0,0,550,1500,0,24,0,66,0,0,480
+3151107,Pirapetinga,Zona da Mata,0,0,0,0,0,0,1920,0,4,0,70,0,0,0
+3151206,Pirapora,Norte de Minas,0,0,0,0,0,1650,8799,0,280,0,15150,0,0,0
+3151305,Piraúba,Zona da Mata,0,0,0,0,0,0,3318,0,14,0,184,0,0,817
+3151404,Pitangui,Metropolitana de Belo Horizonte,0,0,0,0,0,0,13702,0,19,0,0,0,0,250
+3151503,Piumhi,Oeste de Minas,100,0,0,0,0,14500,3190,0,1575,0,672,0,0,1116
+3151602,Planura,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,0,627714,0,821,0,11424,0,4028,0
+3151701,Poço Fundo,Sul/Sudoeste de Minas,0,0,0,0,770,8517,6060,0,110,0,0,0,0,2340
+3151800,Poços de Caldas,Sul/Sudoeste de Minas,0,0,0,0,6300,4680,300,0,125,0,0,0,0,189
+3151909,Pocrane,Vale do Rio Doce,0,0,0,0,0,165,931,0,72,0,220,0,0,0
+3152006,Pompéu,Central Mineira,50,0,0,0,0,0,1056000,0,1139,0,0,0,0,254
+3152105,Ponte Nova,Zona da Mata,0,0,0,0,110,7,85330,0,57,0,5,0,0,0
+3152131,Ponto Chique,Norte de Minas,0,0,0,0,0,0,924,0,23,0,0,0,0,0
+3152170,Ponto dos Volantes,Jequitinhonha,0,0,0,0,0,28,1776,0,61,0,5,0,0,0
+3152204,Porteirinha,Norte de Minas,0,0,1,0,0,0,120,0,159,0,24,0,32,20
+3152303,Porto Firme,Zona da Mata,0,0,3,0,0,600,3200,0,932,0,0,0,0,0
+3152402,Poté,Vale do Mucuri,0,0,8,0,0,43,3950,0,204,0,94,0,84,0
+3152501,Pouso Alegre,Sul/Sudoeste de Minas,0,0,0,0,7740,90,455,0,1010,0,0,0,0,810
+3152600,Pouso Alto,Sul/Sudoeste de Minas,0,4,0,4,0,165,0,0,104,0,0,0,0,40
+3152709,Prados,Campo das Vertentes,0,0,0,0,0,2,2000,0,351,0,0,0,0,0
+3152808,Prata,Triângulo Mineiro/Alto Paranaíba,750,0,0,0,0,3,617696,0,42,1350,157500,0,4536,0
+3152907,Pratápolis,Sul/Sudoeste de Minas,0,0,0,0,0,390,54684,0,900,0,60,0,0,0
+3153004,Pratinha,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,4320,3275,410,0,1650,0,0,0,39,0
+3153103,Presidente Bernardes,Zona da Mata,0,0,12,0,0,144,2060,0,762,0,0,0,0,0
+3153202,Presidente Juscelino,Central Mineira,0,0,0,0,0,0,2400,0,76,0,0,0,0,0
+3153301,Presidente Kubitschek,Jequitinhonha,0,0,0,0,0,32,400,0,8,0,0,0,0,0
+3153400,Presidente Olegário,Noroeste de Minas,1375,0,0,0,5000,7286,163620,566,3600,0,1050,0,20000,45000
+3153509,Alto Jequitibá,Zona da Mata,0,0,0,0,0,7400,255,0,18,0,0,0,0,0
+3153608,Prudente de Morais,Metropolitana de Belo Horizonte,0,0,0,0,0,0,400,0,17,0,0,0,50,0
+3153707,Quartel Geral,Central Mineira,0,0,0,0,0,552,600,0,0,0,0,0,0,0
+3153806,Queluzito,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,210,0,20,0,0,0
+3153905,Raposos,Metropolitana de Belo Horizonte,0,0,0,0,0,4,30,0,0,0,0,0,0,0
+3154002,Raul Soares,Zona da Mata,0,0,11,0,0,3600,2278,0,159,0,12,0,0,110
+3154101,Recreio,Zona da Mata,0,0,0,0,0,2,115,0,17,0,0,0,0,0
+3154150,Reduto,Zona da Mata,15,0,0,0,0,4590,0,0,2,0,0,0,0,0
+3154200,Resende Costa,Campo das Vertentes,0,0,0,0,0,0,750,0,97,0,0,0,0,400
+3154309,Resplendor,Vale do Rio Doce,0,0,0,0,0,87,2150,0,53,0,125,0,0,0
+3154408,Ressaquinha,Campo das Vertentes,0,0,0,0,36,0,1092,0,330,0,0,0,0,2100
+3154457,Riachinho,Norte de Minas,0,0,0,0,0,0,6300,0,637,0,17000,0,1658,0
+3154507,Riacho dos Machados,Norte de Minas,0,0,0,0,0,0,350,0,38,0,0,0,14,12
+3154606,Ribeirão das Neves,Metropolitana de Belo Horizonte,0,0,0,0,0,0,77,0,2,0,0,0,0,0
+3154705,Ribeirão Vermelho,Campo das Vertentes,0,0,0,0,0,116,462,0,21,0,0,0,0,0
+3154804,Rio Acima,Metropolitana de Belo Horizonte,0,3,0,0,0,0,70,0,3,0,0,0,0,0
+3154903,Rio Casca,Zona da Mata,0,0,0,0,0,5,54150,0,1722,0,0,0,0,0
+3155009,Rio Doce,Zona da Mata,0,0,0,0,0,0,4704,0,4,0,0,0,0,0
+3155108,Rio do Prado,Jequitinhonha,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+3155207,Rio Espera,Zona da Mata,0,0,8,0,0,3,24360,0,153,0,0,0,0,0
+3155306,Rio Manso,Metropolitana de Belo Horizonte,0,0,0,0,0,0,720,0,12,0,0,0,0,420
+3155405,Rio Novo,Zona da Mata,0,0,0,0,0,0,70,0,4,0,0,0,0,0
+3155504,Rio Paranaíba,Triângulo Mineiro/Alto Paranaíba,0,16830,0,0,29930,16320,0,0,2564,0,0,0,1575,1140
+3155603,Rio Pardo de Minas,Norte de Minas,25,7,0,0,0,1220,39570,0,755,0,64,0,0,1060
+3155702,Rio Piracicaba,Metropolitana de Belo Horizonte,0,0,0,0,0,0,4606,0,61,0,0,0,0,0
+3155801,Rio Pomba,Zona da Mata,0,0,0,0,0,0,165,0,63,0,8,0,0,250
+3155900,Rio Preto,Zona da Mata,0,0,0,0,0,0,41,0,1,0,0,0,0,0
+3156007,Rio Vermelho,Metropolitana de Belo Horizonte,0,0,1,0,0,9,4800,0,258,0,0,0,0,0
+3156106,Ritápolis,Campo das Vertentes,0,0,0,0,0,372,3100,0,370,0,0,0,0,0
+3156205,Rochedo de Minas,Zona da Mata,0,0,0,0,0,0,300,0,1,0,0,0,0,0
+3156304,Rodeiro,Zona da Mata,0,0,0,0,0,0,60,0,8,0,0,0,0,50
+3156403,Romaria,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,0,8790,9939,913,114,0,0,0,5700,330
+3156452,Rosário da Limeira,Zona da Mata,0,0,0,0,0,730,150,0,35,0,5,0,0,0
+3156502,Rubelita,Norte de Minas,0,0,1,0,0,0,1166,0,71,0,3,0,0,0
+3156601,Rubim,Jequitinhonha,0,0,0,0,0,13,0,0,10,0,0,0,0,0
+3156700,Sabará,Metropolitana de Belo Horizonte,0,0,0,0,0,7,360,0,3,0,0,0,0,140
+3156809,Sabinópolis,Vale do Rio Doce,0,0,4,0,0,5,8800,0,128,0,36,0,0,120
+3156908,Sacramento,Triângulo Mineiro/Alto Paranaíba,0,308,0,0,96250,2586,1332288,0,12200,0,400,0,50000,3360
+3157005,Salinas,Norte de Minas,0,3,7,0,54,7,7020,0,188,0,57,0,88,1000
+3157104,Salto da Divisa,Jequitinhonha,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+3157203,Santa Bárbara,Metropolitana de Belo Horizonte,11,0,0,0,0,14,1802,0,17,0,0,0,0,0
+3157252,Santa Bárbara do Leste,Vale do Rio Doce,0,0,0,0,0,3100,300,0,82,0,12,0,0,4800
+3157278,Santa Bárbara do Monte Verde,Zona da Mata,0,0,0,0,0,2,204,0,3,0,0,0,0,0
+3157302,Santa Bárbara do Tugúrio,Campo das Vertentes,0,0,0,0,0,10,1060,0,29,0,0,0,0,31
+3157336,Santa Cruz de Minas,Campo das Vertentes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3157377,Santa Cruz de Salinas,Norte de Minas,0,0,0,0,0,2,270,0,70,0,8,0,0,0
+3157401,Santa Cruz do Escalvado,Zona da Mata,0,0,0,0,0,0,45450,0,4,0,0,0,0,0
+3157500,Santa Efigênia de Minas,Vale do Rio Doce,0,0,0,0,0,2,60,0,12,0,0,0,0,0
+3157609,Santa Fé de Minas,Norte de Minas,0,0,0,0,0,0,270,0,240,0,0,0,0,0
+3157658,Santa Helena de Minas,Vale do Mucuri,0,0,0,0,0,0,500,0,30,0,0,0,0,0
+3157708,Santa Juliana,Triângulo Mineiro/Alto Paranaíba,0,1573,0,0,112020,0,1200000,0,380,101,0,0,5145,0
+3157807,Santa Luzia,Metropolitana de Belo Horizonte,0,0,0,0,0,0,190,0,0,0,0,0,0,0
+3157906,Santa Margarida,Zona da Mata,0,0,0,0,0,11760,400,0,147,0,0,0,0,0
+3158003,Santa Maria de Itabira,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2880,0,9,0,0,0,0,0
+3158102,Santa Maria do Salto,Jequitinhonha,0,0,0,0,0,15,720,0,15,0,0,0,0,0
+3158201,Santa Maria do Suaçuí,Vale do Rio Doce,0,0,3,0,0,4,3380,0,80,0,0,0,0,0
+3158300,Santana da Vargem,Sul/Sudoeste de Minas,0,0,0,0,0,6610,62,0,126,0,0,0,0,250
+3158409,Santana de Cataguases,Zona da Mata,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+3158508,Santana de Pirapama,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2840,0,25,0,0,0,0,440
+3158607,Santana do Deserto,Zona da Mata,0,0,0,0,0,0,606,0,4,0,21,0,0,0
+3158706,Santana do Garambéu,Campo das Vertentes,0,0,0,0,0,5,840,0,23,0,0,0,0,0
+3158805,Santana do Jacaré,Oeste de Minas,0,0,0,0,0,576,0,0,27,0,0,0,0,0
+3158904,Santana do Manhuaçu,Zona da Mata,0,0,0,0,0,9030,450,0,8,0,43,0,0,0
+3158953,Santana do Paraíso,Vale do Rio Doce,0,0,0,0,0,6,216,0,2,0,0,0,0,0
+3159001,Santana do Riacho,Metropolitana de Belo Horizonte,0,0,2,0,0,0,150,0,8,0,0,0,0,0
+3159100,Santana dos Montes,Metropolitana de Belo Horizonte,0,0,0,0,0,0,2680,0,77,0,0,0,0,0
+3159209,Santa Rita de Caldas,Sul/Sudoeste de Minas,0,0,0,0,11450,240,930,0,750,0,125,0,0,0
+3159308,Santa Rita de Jacutinga,Zona da Mata,0,0,0,0,0,0,234,0,6,0,0,0,0,0
+3159357,Santa Rita de Minas,Vale do Rio Doce,0,0,0,0,0,1990,0,0,42,0,5,0,0,140
+3159407,Santa Rita de Ibitipoca,Zona da Mata,0,0,0,0,0,0,1700,0,90,0,0,0,0,0
+3159506,Santa Rita do Itueto,Vale do Rio Doce,0,0,0,0,0,3168,648,0,175,0,48,0,0,0
+3159605,Santa Rita do Sapucaí,Sul/Sudoeste de Minas,0,0,0,0,2850,6000,1140,0,97,0,5,0,0,0
+3159704,Santa Rosa da Serra,Triângulo Mineiro/Alto Paranaíba,0,374,0,0,0,4340,1880,0,122,0,0,0,0,0
+3159803,Santa Vitória,Triângulo Mineiro/Alto Paranaíba,0,0,2100,0,0,0,3500000,0,0,0,0,0,2604,0
+3159902,Santo Antônio do Amparo,Oeste de Minas,0,0,0,0,0,8917,770,0,70,0,144,0,0,0
+3160009,Santo Antônio do Aventureiro,Zona da Mata,0,0,0,0,0,0,390,0,5,0,60,0,0,80
+3160108,Santo Antônio do Grama,Zona da Mata,0,0,2,0,0,150,23970,0,3,0,0,0,0,390
+3160207,Santo Antônio do Itambé,Metropolitana de Belo Horizonte,0,0,0,0,0,0,600,0,27,0,0,0,0,0
+3160306,Santo Antônio do Jacinto,Jequitinhonha,0,0,0,0,0,0,1800,0,62,0,0,0,0,0
+3160405,Santo Antônio do Monte,Oeste de Minas,0,0,2,0,0,13,9600,0,37,0,0,0,11,41
+3160454,Santo Antônio do Retiro,Norte de Minas,18,3,0,0,0,28,5200,0,193,0,100,0,0,59
+3160504,Santo Antônio do Rio Abaixo,Metropolitana de Belo Horizonte,0,0,0,0,0,0,4300,0,1,0,0,0,0,0
+3160603,Santo Hipólito,Central Mineira,0,0,0,0,0,0,817,0,4,0,0,0,48,0
+3160702,Santos Dumont,Zona da Mata,0,0,0,0,0,0,1980,0,19,0,0,0,0,30
+3160801,São Bento Abade,Sul/Sudoeste de Minas,0,0,0,0,1200,1520,0,0,714,0,0,0,0,0
+3160900,São Brás do Suaçuí,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,53,0,0,0,0,0
+3160959,São Domingos das Dores,Vale do Rio Doce,0,0,0,0,0,3150,0,0,135,0,30,0,0,270
+3161007,São Domingos do Prata,Metropolitana de Belo Horizonte,15,0,0,0,0,72,10600,0,64,0,6,0,0,82
+3161056,São Félix de Minas,Vale do Rio Doce,0,0,0,0,0,0,2535,0,15,0,8,0,0,0
+3161106,São Francisco,Norte de Minas,0,10,0,0,0,0,18600,0,87,0,8,0,18,0
+3161205,São Francisco de Paula,Oeste de Minas,0,60,0,0,0,4992,2400,0,546,0,720,0,0,0
+3161304,São Francisco de Sales,Triângulo Mineiro/Alto Paranaíba,11600,0,0,0,0,0,1157120,0,0,0,0,0,0,0
+3161403,São Francisco do Glória,Zona da Mata,0,0,0,0,0,1000,50,0,4,0,0,0,0,0
+3161502,São Geraldo,Zona da Mata,0,0,0,0,0,340,1100,0,190,0,210,0,0,752
+3161601,São Geraldo da Piedade,Vale do Rio Doce,0,0,0,0,0,0,2900,0,12,0,0,0,0,0
+3161650,São Geraldo do Baixio,Vale do Rio Doce,0,0,0,0,0,0,3100,0,4,0,0,0,13,0
+3161700,São Gonçalo do Abaeté,Noroeste de Minas,180,0,0,0,0,60,10800,0,2418,0,0,0,0,12000
+3161809,São Gonçalo do Pará,Oeste de Minas,0,0,0,0,0,0,3750,0,3,0,4,0,0,0
+3161908,São Gonçalo do Rio Abaixo,Metropolitana de Belo Horizonte,0,0,0,0,0,4,17710,0,4,0,10,0,0,0
+3162005,São Gonçalo do Sapucaí,Sul/Sudoeste de Minas,0,0,0,0,7570,6900,48,0,850,0,170,0,0,3100
+3162104,São Gotardo,Triângulo Mineiro/Alto Paranaíba,0,5576,0,0,5080,2300,7800,0,940,0,0,0,0,270
+3162203,São João Batista do Glória,Sul/Sudoeste de Minas,0,0,0,0,0,490,55600,0,3416,0,0,0,2886,0
+3162252,São João da Lagoa,Norte de Minas,0,0,1,0,0,0,3250,0,55,0,7,0,100,50
+3162302,São João da Mata,Sul/Sudoeste de Minas,0,0,0,0,1894,1253,1600,0,48,0,0,0,0,660
+3162401,São João da Ponte,Norte de Minas,0,9,1,0,0,0,6000,0,102,0,3,0,196,0
+3162450,São João das Missões,Norte de Minas,0,0,0,0,0,0,1360,0,343,2,0,0,0,0
+3162500,São João del Rei,Campo das Vertentes,0,0,0,0,1050,348,1640,0,9444,0,3360,0,0,100
+3162559,São João do Manhuaçu,Zona da Mata,0,0,0,0,0,7730,0,0,102,0,7,0,0,396
+3162575,São João do Manteninha,Vale do Rio Doce,0,0,0,0,0,26,310,0,1,0,0,0,0,0
+3162609,São João do Oriente,Vale do Rio Doce,0,0,0,0,24,0,0,0,3,0,0,0,0,70
+3162658,São João do Pacuí,Norte de Minas,0,0,1,0,0,0,3900,0,44,0,6,0,165,0
+3162708,São João do Paraíso,Norte de Minas,8,3,0,0,0,130,93640,0,318,0,33,144,0,0
+3162807,São João Evangelista,Vale do Rio Doce,0,0,0,0,0,0,9100,0,120,0,0,0,0,0
+3162906,São João Nepomuceno,Zona da Mata,0,0,0,0,0,0,4180,0,4,0,21,0,0,0
+3162922,São Joaquim de Bicas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,30,0,1,0,0,0,0,360
+3162948,São José da Barra,Sul/Sudoeste de Minas,0,0,0,0,0,4590,33200,0,50,0,0,0,60,0
+3162955,São José da Lapa,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3163003,São José da Safira,Vale do Rio Doce,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+3163102,São José da Varginha,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,1,0,0,0,0,5500
+3163201,São José do Alegre,Sul/Sudoeste de Minas,0,0,0,0,270,220,930,0,7,0,80,0,0,0
+3163300,São José do Divino,Vale do Rio Doce,0,0,0,0,0,0,2200,0,0,0,120,0,0,0
+3163409,São José do Goiabal,Metropolitana de Belo Horizonte,0,0,0,0,0,2,77378,0,19,0,18,0,0,0
+3163508,São José do Jacuri,Vale do Rio Doce,0,0,1,0,0,0,570,0,81,0,0,0,0,300
+3163607,São José do Mantimento,Zona da Mata,0,0,0,0,0,672,960,0,16,0,0,0,0,0
+3163706,São Lourenço,Sul/Sudoeste de Minas,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+3163805,São Miguel do Anta,Zona da Mata,0,0,0,0,0,1561,960,0,207,0,0,0,0,500
+3163904,São Pedro da União,Sul/Sudoeste de Minas,0,0,0,0,0,6780,0,0,200,0,195,0,0,0
+3164001,São Pedro dos Ferros,Zona da Mata,0,0,0,0,0,0,258600,0,8,0,5,0,0,0
+3164100,São Pedro do Suaçuí,Vale do Rio Doce,0,0,0,0,0,0,520,0,61,0,0,0,0,0
+3164209,São Romão,Norte de Minas,0,0,0,0,0,0,2280,0,2360,0,0,0,0,0
+3164308,São Roque de Minas,Oeste de Minas,0,0,0,0,1500,8249,1800,0,510,0,0,0,70,0
+3164407,São Sebastião da Bela Vista,Sul/Sudoeste de Minas,0,0,0,0,2039,1353,378,0,392,0,0,0,0,0
+3164431,São Sebastião da Vargem Alegre,Zona da Mata,0,0,0,0,0,1133,0,0,24,0,0,0,0,80
+3164472,São Sebastião do Anta,Vale do Rio Doce,0,0,0,0,0,5050,60,0,159,0,0,0,0,35
+3164506,São Sebastião do Maranhão,Vale do Rio Doce,0,0,1,0,0,36,6600,0,154,0,0,0,0,0
+3164605,São Sebastião do Oeste,Oeste de Minas,0,0,0,0,0,0,700,0,11,0,0,0,0,0
+3164704,São Sebastião do Paraíso,Sul/Sudoeste de Minas,0,0,0,0,0,20320,480000,0,140,0,28200,0,1225,10400
+3164803,São Sebastião do Rio Preto,Metropolitana de Belo Horizonte,0,0,0,0,0,0,51,0,9,0,0,0,0,0
+3164902,São Sebastião do Rio Verde,Sul/Sudoeste de Minas,0,0,0,0,0,0,0,0,87,0,0,0,0,0
+3165008,São Tiago,Campo das Vertentes,0,0,0,0,0,520,2736,0,129,0,0,0,0,0
+3165107,São Tomás de Aquino,Sul/Sudoeste de Minas,0,0,0,0,0,10400,180000,0,33,0,0,0,0,30
+3165206,São Thomé das Letras,Sul/Sudoeste de Minas,0,0,0,0,0,1030,63,0,20,0,0,0,0,0
+3165305,São Vicente de Minas,Sul/Sudoeste de Minas,0,0,0,0,32,0,730,0,855,0,475,0,0,110
+3165404,Sapucaí-Mirim,Sul/Sudoeste de Minas,0,0,0,0,0,0,0,0,7,0,0,0,0,159
+3165503,Sardoá,Vale do Rio Doce,0,0,4,0,0,16,248,0,105,0,0,0,0,0
+3165537,Sarzedo,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3165552,Setubinha,Vale do Mucuri,15,0,5,0,0,545,2100,0,131,0,5,0,0,23
+3165560,Sem-Peixe,Zona da Mata,0,0,0,0,0,0,15936,0,26,0,0,0,0,0
+3165578,Senador Amaral,Sul/Sudoeste de Minas,0,0,0,0,6025,0,0,13,5,0,0,0,0,0
+3165602,Senador Cortes,Zona da Mata,0,0,0,0,0,0,1512,0,48,0,0,0,0,0
+3165701,Senador Firmino,Zona da Mata,0,4,0,0,0,76,3570,0,81,0,0,0,0,0
+3165800,Senador José Bento,Sul/Sudoeste de Minas,0,0,0,0,750,663,0,0,96,0,0,0,0,0
+3165909,Senador Modestino Gonçalves,Jequitinhonha,10,5,2,0,0,48,3500,0,46,0,6,0,0,0
+3166006,Senhora de Oliveira,Zona da Mata,0,0,0,0,0,220,5650,0,68,0,0,0,0,0
+3166105,Senhora do Porto,Vale do Rio Doce,0,0,0,0,0,0,1420,0,12,0,0,0,0,0
+3166204,Senhora dos Remédios,Campo das Vertentes,0,0,0,0,0,48,9000,0,186,0,0,0,0,150
+3166303,Sericita,Zona da Mata,0,0,0,0,0,3300,300,0,62,0,0,0,0,0
+3166402,Seritinga,Sul/Sudoeste de Minas,0,0,0,2,0,0,810,0,3,0,0,0,0,0
+3166501,Serra Azul de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,4,732,0,22,0,0,0,0,0
+3166600,Serra da Saudade,Central Mineira,15,0,0,0,0,0,0,0,2,0,0,0,0,0
+3166709,Serra dos Aimorés,Vale do Mucuri,0,0,0,0,0,0,99000,0,4,0,0,0,0,0
+3166808,Serra do Salitre,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,5890,15040,0,0,5010,0,1840,0,15444,550
+3166907,Serrania,Sul/Sudoeste de Minas,0,0,0,0,400,5400,97500,0,945,0,0,0,0,600
+3166956,Serranópolis de Minas,Norte de Minas,0,0,0,0,0,7,0,0,85,0,0,0,13,0
+3167004,Serranos,Sul/Sudoeste de Minas,0,0,0,0,0,0,940,0,14,0,0,0,0,0
+3167103,Serro,Metropolitana de Belo Horizonte,0,0,0,0,0,6,2550,0,61,0,6,10,0,0
+3167202,Sete Lagoas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,1435,0,19,0,21,0,60,0
+3167301,Silveirânia,Zona da Mata,0,0,0,0,0,0,1560,0,53,0,0,0,0,0
+3167400,Silvianópolis,Sul/Sudoeste de Minas,0,0,0,0,1740,1600,0,0,32,0,1750,0,0,550
+3167509,Simão Pereira,Zona da Mata,0,0,2,0,0,0,140,0,29,0,0,0,0,0
+3167608,Simonésia,Zona da Mata,0,0,3,0,25,12720,900,0,133,0,55,0,0,930
+3167707,Sobrália,Vale do Rio Doce,0,0,2,0,0,0,90,0,7,0,0,0,0,0
+3167806,Soledade de Minas,Sul/Sudoeste de Minas,0,0,0,0,0,576,0,0,35,0,0,0,0,0
+3167905,Tabuleiro,Zona da Mata,0,0,0,0,0,0,30,0,14,0,6,0,0,0
+3168002,Taiobeiras,Norte de Minas,0,0,7,0,0,920,2150,0,216,0,24,0,100,1650
+3168051,Taparuba,Vale do Rio Doce,0,0,0,0,0,0,1400,0,45,0,175,0,0,0
+3168101,Tapira,Triângulo Mineiro/Alto Paranaíba,0,0,0,0,54000,903,0,0,1950,0,0,0,0,0
+3168200,Tapiraí,Oeste de Minas,20,0,0,0,300,1480,270,0,217,0,15,0,0,0
+3168309,Taquaraçu de Minas,Metropolitana de Belo Horizonte,0,0,0,0,0,0,750,0,6,0,0,0,0,0
+3168408,Tarumirim,Vale do Rio Doce,0,0,4,0,0,12,2100,0,25,0,0,0,0,0
+3168507,Teixeiras,Zona da Mata,0,0,0,0,0,842,960,0,357,0,23,0,0,120
+3168606,Teófilo Otoni,Vale do Mucuri,23,0,0,0,0,18,6660,0,61,0,514,0,0,160
+3168705,Timóteo,Vale do Rio Doce,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3168804,Tiradentes,Campo das Vertentes,0,0,0,0,0,0,200,0,8,0,0,0,0,50
+3168903,Tiros,Triângulo Mineiro/Alto Paranaíba,156,900,0,0,1850,4068,510,0,1820,0,0,0,0,0
+3169000,Tocantins,Zona da Mata,0,0,0,0,0,0,900,0,28,0,187,0,0,940
+3169059,Tocos do Moji,Sul/Sudoeste de Minas,0,0,0,0,1475,587,64,0,23,0,0,0,0,180
+3169109,Toledo,Sul/Sudoeste de Minas,0,0,0,0,1425,0,585,9,6,0,0,0,0,0
+3169208,Tombos,Zona da Mata,0,0,0,0,0,1121,3700,0,46,0,0,0,0,0
+3169307,Três Corações,Sul/Sudoeste de Minas,0,0,0,0,17900,14700,480,0,900,0,4510,0,0,300
+3169356,Três Marias,Central Mineira,30,0,0,0,0,0,21700,0,783,0,20,0,0,0
+3169406,Três Pontas,Sul/Sudoeste de Minas,0,0,0,0,0,26950,235,0,50,0,5,0,518,40
+3169505,Tumiritinga,Vale do Rio Doce,0,0,0,0,0,0,420,0,9,0,0,0,0,0
+3169604,Tupaciguara,Triângulo Mineiro/Alto Paranaíba,1394,0,5508,0,0,487,2073755,0,4860,2475,0,0,15540,0
+3169703,Turmalina,Jequitinhonha,120,6,26,0,0,347,3660,0,109,0,125,0,0,820
+3169802,Turvolândia,Sul/Sudoeste de Minas,0,0,0,0,1080,4320,4000,0,360,0,140,0,0,26000
+3169901,Ubá,Zona da Mata,0,0,1,0,0,0,700,0,90,0,21,0,0,240
+3170008,Ubaí,Norte de Minas,0,0,2,0,0,0,12600,0,66,0,13,0,8,0
+3170057,Ubaporanga,Vale do Rio Doce,0,0,5,0,0,4048,1120,0,243,0,300,0,0,2800
+3170107,Uberaba,Triângulo Mineiro/Alto Paranaíba,0,75,0,0,52500,855,6768000,0,2040,0,10481,0,112500,1720
+3170206,Uberlândia,Triângulo Mineiro/Alto Paranaíba,250,0,0,0,2900,410,716256,0,426,5137,124200,0,9100,2160
+3170305,Umburatiba,Vale do Mucuri,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3170404,Unaí,Noroeste de Minas,0,0,2,0,0,11232,2120415,0,68400,0,0,0,32000,1000
+3170438,União de Minas,Triângulo Mineiro/Alto Paranaíba,0,0,719,0,0,0,1049002,0,0,0,0,0,0,0
+3170479,Uruana de Minas,Noroeste de Minas,80,0,0,0,0,0,9600,0,423,0,0,0,2400,0
+3170503,Urucânia,Zona da Mata,0,0,0,0,0,0,155000,0,12,0,0,0,0,0
+3170529,Urucuia,Norte de Minas,0,0,0,0,0,2023,19500,0,2015,0,0,0,0,0
+3170578,Vargem Alegre,Vale do Rio Doce,0,0,0,0,0,20,180,0,8,0,0,0,0,0
+3170602,Vargem Bonita,Oeste de Minas,0,0,0,0,0,1210,60,0,2,0,0,0,0,0
+3170651,Vargem Grande do Rio Pardo,Norte de Minas,15,0,0,0,0,47,2250,0,80,0,0,0,0,0
+3170701,Varginha,Sul/Sudoeste de Minas,0,0,1,0,0,15740,186,0,116,0,0,0,0,0
+3170750,Varjão de Minas,Noroeste de Minas,54,0,0,0,0,3922,232380,0,5074,0,0,0,1716,11000
+3170800,Várzea da Palma,Norte de Minas,0,0,0,0,0,2178,3600,0,279,0,12400,0,0,50
+3170909,Varzelândia,Norte de Minas,0,5,0,0,0,0,6000,0,117,0,0,0,0,0
+3171006,Vazante,Noroeste de Minas,0,0,0,0,0,0,190,0,2286,0,0,0,960,0
+3171030,Verdelândia,Norte de Minas,0,0,4,0,0,0,0,0,109,0,75,0,17,0
+3171071,Veredinha,Jequitinhonha,40,4,10,0,0,19,2430,0,59,0,55,0,0,23
+3171105,Veríssimo,Triângulo Mineiro/Alto Paranaíba,350,0,0,0,0,0,1147500,0,20,0,0,0,4200,0
+3171154,Vermelho Novo,Zona da Mata,0,0,0,0,0,2150,1260,0,45,0,0,0,0,230
+3171204,Vespasiano,Metropolitana de Belo Horizonte,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+3171303,Viçosa,Zona da Mata,0,0,0,0,0,1280,3660,0,266,0,33,0,0,280
+3171402,Vieiras,Zona da Mata,0,0,0,0,0,870,960,0,20,0,0,0,0,0
+3171501,Mathias Lobato,Vale do Rio Doce,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+3171600,Virgem da Lapa,Jequitinhonha,13,3,1,0,0,0,1200,0,36,0,0,0,0,0
+3171709,Virgínia,Sul/Sudoeste de Minas,0,12,0,0,3600,91,0,0,176,0,0,0,0,0
+3171808,Virginópolis,Vale do Rio Doce,0,0,0,0,0,107,6560,0,74,0,0,0,0,490
+3171907,Virgolândia,Vale do Rio Doce,0,0,3,0,0,39,1100,0,58,0,14,0,0,0
+3172004,Visconde do Rio Branco,Zona da Mata,0,0,0,0,0,7,17560,0,38,0,1725,0,0,0
+3172103,Volta Grande,Zona da Mata,0,0,0,0,0,0,96,0,6,0,50,0,0,0
+3172202,Wenceslau Braz,Sul/Sudoeste de Minas,0,0,0,3,0,0,360,0,8,0,7,0,0,0
