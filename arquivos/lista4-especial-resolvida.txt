@@ -1,0 +1,142 @@
+# Lista 4 - especial
+
+# Questão 1.a) O usuário insere números pares e o algoritmo vai mostrando a 
+# mensagem número par na tela. Assim que o usuário inserir um 
+# número ímpar, o programa deve mostrar a mensagem número ímpar inserido, fim.
+
+n = int(input('insira um número par: '))
+while n % 2 == 0:
+    print('número par')
+    n = int(input('insira outro número: '))
+print('número ímpar inserido, fim')
+
+# Questão 1.b) Dados o número n > 0 de alunos e n notas de uma prova, 
+# em que uma nota é um número real entre 0 e 10, calcule e retorne a 
+# média das notas dos alunos.
+
+n = int(input('n:'))
+soma = 0
+i = 1
+while i <= n:
+    print('insira a nota do aluno ', i)
+    nota = int(input())
+    soma = soma + nota
+    i += 1
+media = soma/n
+print('média:', media)
+
+# Questão 2.a) O usuário insere um número inteiro de qualquer tamanho 
+# e o algoritmo retorna quantos dígitos o número possui.
+# Ex.: Se o usuário inserir 358890, o algoritmo dever retornar 6
+# Se o usuário inserir 153, o algoritmo deve retornar 3
+
+n = int(input('Digite um número: '))
+i = 0
+while n != 0:
+    n = n // 10  # o que sobrou do número
+    i = i + 1
+        
+print('Número de dígitos:', i)
+
+# Questão 2. b) Dados um número inteiro n, n > 0, e uma sequência com n notas finais, determinar quantos alunos:
+# - estão de final: média maior ou igual a 4 e menor do que 6;
+# - foram reprovados: nota final menor do que 4;
+# - foram aprovados: nota final maior ou igual a 6;
+# - tiveram um desempenho muito bom: nota maior que 8
+
+n = int(input("Notas de quantos alunos? "))
+rep = 0
+fin = 0
+apr = 0
+bom = 0
+i = 0
+while i < n:
+    nota = float(input("nota: "))
+    if nota < 4:
+        rep += 1
+    else:
+        if nota < 6:
+            fin += 1
+        else:
+            if nota <= 8:
+                apr += 1
+            else:
+                apr += 1
+                bom += 1
+    i += 1
+print('Total de alunos =', n)
+print('Número de alunos reprovados =', rep)
+print('Número de alunos de final =', fin)
+print('Número de alunos aprovados =', apr)
+print('Dos aprovados, número de alunos com desempenho muito bom =', bom)
+
+# Questão 2.c) O usuário insere o número de termos da sequência de Fibonacci 
+# que ele deseja que sejam apresentados.
+# Se ele inserir 7, o algoritmo retorna: 
+# 0, 1, 1, 2, 3, 5, 8
+# Se ele inserir 10, o algoritmo retorna: 
+# 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+n = int(input('Quantos termos da sequência de Fibonacci?'))
+a = 0
+b = 1
+while n > 0:
+    print(a)
+    c = a + b
+    a = b
+    b = c
+    n = n - 1
+
+a = 0
+b = 1
+n = int(input('digite a quantidade de termos:'))
+while n > 0:
+    print(a)
+    c = a + b
+    a = b
+    b = c
+    n = n - 1
+
+# Questão 3 - Parte 2 
+# O usuário insere um número inteiro x e o algoritmo 
+# retorna todos os números primos entre 1 e x.
+# Ex.: Se o usuário inserir 10, o algoritmo deve retornar 
+# 2, 3, 5, 7
+# Se o usuário inserir 30, o algoritmo deve retornar 
+# 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
+
+x = int(input('Digite um número: '))
+i = 1
+while i <= x:
+    j = 1
+    div = 0
+    while j <= i:
+        if i % j == 0:
+            div = div + 1
+        j = j + 1
+    if div == 2:
+        print(i)
+    i = i + 1
+
+# Questão 4 - Parte 2 
+# O usuário insere os termos a, b e c de uma equação de 2. grau do tipo
+# ax^2 + bx + c = 0
+# e o algoritmo retorna as raízes da equação utilizando a fórmula de Bhaskara.
+
+# Bhaskara
+a = float(input("Qual o valor de a? "))
+b = float(input("Qual o valor de b? "))
+c = float(input("Qual o valor de c? "))
+print("Sua equação é", a, "x2 +", b, "x +",c)
+delta = b**2 - 4 * a * c
+print('delta = ', delta)
+if delta < 0:
+    print("não há raízes")
+else:
+    if delta == 0:
+        x = -b/(2*a)
+        print("só há uma raiz: x =",x)
+    else:
+        x1 = (-b - delta ** 0.5)/(2 * a)
+        x2 = (-b + delta ** 0.5)/(2 * a)
+        print("as raízes são: x1 = ", x1, "e x2 = ", x2)
