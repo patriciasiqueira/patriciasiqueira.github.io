@@ -394,6 +394,14 @@ ggplot(data=se, aes(x=log(RDPC))) +
   ggtitle('Histograma - renda per capita') + # adiciona título
   theme_bw() # adiciona tema 'Black and White'
 
+# tirar títulos, rótulos e marcações dos eixos
+grafico = ggplot(data=atlas, aes(x=ESPVIDA, y=RDPC, color=as.factor(UF))) + 
+  geom_point(alpha=0.5)
+grafico
+grafico + theme(axis.ticks=element_blank(), 
+                axis.text.x = element_blank(), axis.text.y=element_blank(), 
+                axis.title.x = element_blank(), axis.title.y=element_blank()) 
+
 # ggthemes
 # install.packages('ggthemes')
 library(ggthemes)
