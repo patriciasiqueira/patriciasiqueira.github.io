@@ -109,7 +109,7 @@ rest[rest$mes == 'agosto',]
 
 # atlas
 atlas = read.csv('atlas.csv', encoding='latin1')
-
+# tipos de dados
 str(atlas)
 # para que os nomes dos municípios não sejam factors
 atlas = read.csv('atlas.csv', encoding='latin1', stringsAsFactors=F)
