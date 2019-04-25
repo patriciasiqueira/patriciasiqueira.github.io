@@ -2,6 +2,17 @@
 ##### R para usuários de python ################
 ################################################
 
+
+
+
+#  Se estiver com problemas nos acentos
+#  das palavras desse arquivo, tente:
+#  - ir File > Reopen with Encoding
+#  - tentar a UTF-8 e ver se resolve o problema dos caracteres
+#  - se não resolver, tentar reabrir com outras codificações
+
+
+
 ###########################################
 ### Apresentação do R #####################
 ###########################################
@@ -14,6 +25,9 @@ b = 6
 a + b
 c = a + b
 c
+print(c)
+cat('c é', c)
+
 # vetores, matrizes e dataframes
 peso = c(55, 60, 78, 44, 56)
 peso
@@ -69,6 +83,7 @@ if (x >= 0){
 
 # definir a pasta de trabalho - ou CTRL+SHIFT+H
 # setwd(' ')
+getwd()
 
 # carregar pacotes
 library(dplyr)
@@ -99,6 +114,7 @@ read.csv(file.choose())
 # selecionar parte do dataframe
 # ler arquivo
 rest = read.csv('restaurante1.csv')
+rest
 # usando subset
 subset(rest, mes == 'agosto')  # é preciso usar dois sinais de igual
 # usando dplyr
@@ -106,6 +122,9 @@ rest %>% filter(mes == 'agosto')
 # usando apenas índices
 rest$mes == 'agosto'
 rest[rest$mes == 'agosto',]
+
+# selecionar apenas despesas maiores do que 10000
+subset(rest, despesas > 10000)
 
 # atlas
 atlas = read.csv('atlas.csv', encoding='latin1')
@@ -152,6 +171,9 @@ dim(mg)
 # salvar conjunto de dados na pasta de trabalho
 # ou redefinir com setwd() ou CTRL SHIFT H
 save(mg, file='mg.RData')
+
+
+
 
 # diagrama de dispersão: esperança de vida e renda per capita
 plot(atlas$FECTOT ~ atlas$RDPC)
