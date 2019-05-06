@@ -1,0 +1,854 @@
+mun,nome_mun,uf,nome_uf,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_regiao,algodao_arb,algodao_herb,banana,batata,cafe_arab,cana,feijao,laranja,limao,manga,milho,soja,sorgo,tangerina,tomate,trigo,cod_rgi,nome_rgi,cod_rgint,nome_rgint
+3100104,Abadia dos Dourados,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,310010,3,Sudeste,0,0,9400,0,833,46000,1800,0,0,0,6981,4100,3030,0,50000,0,310061,Monte Carmelo,3111,Uberlândia
+3100203,Abaeté,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,310020,3,Sudeste,0,0,7000,0,0,50000,0,0,0,5000,3900,3600,0,0,0,0,310070,Abaeté,3113,Divinópolis
+3100302,Abre Campo,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,310030,3,Sudeste,0,0,5000,0,960,30000,301,0,0,0,2000,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3100401,Acaiaca,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,310040,3,Sudeste,0,0,7000,0,750,31905,569,7000,0,0,2196,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3100500,Açucena,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,310050,3,Sudeste,0,0,8500,0,769,30000,503,0,0,0,4958,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3100609,Água Boa,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,310060,3,Sudeste,0,0,8896,0,1108,42000,634,8625,5000,0,2600,0,0,8000,66200,0,310014,Capelinha,3103,Teófilo Otoni
+3100708,Água Comprida,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,310070,3,Sudeste,0,0,0,0,0,68000,0,0,0,0,7235,3060,4300,0,0,0,310055,Uberaba,3110,Uberaba
+3100807,Aguanil,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,310080,3,Sudeste,0,0,11000,0,1847,40000,940,24000,0,7500,6000,0,0,10000,50000,0,310048,Campo Belo,3108,Varginha
+3100906,Águas Formosas,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,310090,3,Sudeste,0,0,9000,0,0,30000,600,0,0,0,1050,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3101003,Águas Vermelhas,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,310100,3,Sudeste,0,0,17672,0,2597,37500,459,3000,0,0,710,0,0,5000,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3101102,Aimorés,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,310110,3,Sudeste,0,0,10000,0,1230,52000,1452,13000,15000,8000,3000,0,0,14000,54000,0,310023,Aimorés - Resplendor,3104,Governador Valadares
+3101201,Aiuruoca,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,310120,3,Sudeste,0,0,0,0,1500,40000,1811,0,0,0,6800,2600,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3101300,Alagoa,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,310130,3,Sudeste,0,0,0,0,0,0,800,0,0,0,2500,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3101409,Albertina,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,310140,3,Sudeste,0,0,0,0,1826,0,0,0,0,0,3500,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3101508,Além Paraíba,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,310150,3,Sudeste,0,0,10000,0,0,30000,1029,0,0,0,6000,0,0,0,0,0,310036,Além Paraíba,3106,Juíz de Fora
+3101607,Alfenas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,310160,3,Sudeste,0,0,20000,25000,1680,88000,1073,20000,30000,0,6805,3180,0,30000,50000,0,310042,Alfenas,3108,Varginha
+3101631,Alfredo Vasconcelos,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,310163,3,Sudeste,0,0,0,28000,0,0,686,0,0,13000,3600,0,0,0,51000,0,310037,Barbacena,3107,Barbacena
+3101706,Almenara,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,310170,3,Sudeste,0,0,8000,0,1000,30000,685,8000,0,9000,1200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3101805,Alpercata,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,310180,3,Sudeste,0,0,5000,0,0,31200,1000,15000,0,0,8659,0,0,0,60000,0,310020,Governador Valadares,3104,Governador Valadares
+3101904,Alpinópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,310190,3,Sudeste,0,0,0,0,2056,80000,1488,0,0,0,6500,4401,3655,0,60000,0,310041,Passos,3108,Varginha
+3102001,Alterosa,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,310200,3,Sudeste,0,0,0,0,1800,75000,1178,30600,0,0,6600,3000,0,0,0,0,310042,Alfenas,3108,Varginha
+3102050,Alto Caparaó,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,310205,3,Sudeste,0,0,5000,0,1366,30000,429,0,0,0,1900,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3102100,Alto Rio Doce,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,310210,3,Sudeste,0,0,0,0,0,30000,550,0,0,0,2100,0,0,0,0,0,310037,Barbacena,3107,Barbacena
+3102209,Alvarenga,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,310220,3,Sudeste,0,0,3000,0,634,24706,725,13000,0,0,1313,0,0,0,0,0,310025,Caratinga,3105,Ipatinga
+3102308,Alvinópolis,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,310230,3,Sudeste,0,0,11000,0,600,33412,400,0,0,0,3600,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3102407,Alvorada de Minas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,310240,3,Sudeste,0,0,3000,0,1250,21000,476,0,0,0,2700,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3102506,Amparo do Serra,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,310250,3,Sudeste,0,0,4000,0,1289,40000,477,0,0,0,3119,0,0,0,70000,0,310030,Ponte Nova,3106,Juíz de Fora
+3102605,Andradas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,310260,3,Sudeste,0,0,8200,22000,1343,51000,833,0,0,0,6070,1840,0,6500,62500,4110,310051,Poços de Caldas,3109,Pouso Alegre
+3102704,Cachoeira de Pajeú,31,Minas Gerais,,3103,Jequitinhonha,31013,Pedra Azul,310270,3,Sudeste,0,0,7000,0,556,30000,418,7000,0,9000,625,0,0,0,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3102803,Andrelândia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,310280,3,Sudeste,0,0,0,0,1400,32207,1819,36769,0,0,8060,3800,0,0,0,4090,310027,Juiz de Fora,3106,Juíz de Fora
+3102852,Angelândia,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,310285,3,Sudeste,0,0,8667,0,940,32000,600,6000,0,0,1610,0,0,0,50000,0,310014,Capelinha,3103,Teófilo Otoni
+3102902,Antônio Carlos,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,310290,3,Sudeste,0,0,0,20000,0,50000,971,13000,0,0,7500,0,0,0,72000,0,310037,Barbacena,3107,Barbacena
+3103009,Antônio Dias,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,310300,3,Sudeste,0,0,10333,0,1000,35000,600,0,0,0,1200,0,0,0,40000,0,310024,Ipatinga,3105,Ipatinga
+3103108,Antônio Prado de Minas,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,310310,3,Sudeste,0,0,5500,0,854,35000,1000,0,0,0,7000,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3103207,Araçaí,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,310320,3,Sudeste,0,0,12500,0,0,0,1000,0,29000,0,3111,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3103306,Aracitaba,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,310330,3,Sudeste,0,0,10000,0,0,54000,821,0,0,0,4500,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3103405,Araçuaí,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,310340,3,Sudeste,0,0,29701,0,600,30000,213,7500,0,24000,441,0,0,0,40000,0,310017,Araçuaí,3103,Teófilo Otoni
+3103504,Araguari,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,310350,3,Sudeste,0,0,15000,35000,2761,80000,1500,0,22500,0,6655,3900,3600,0,80000,2316,310059,Uberlândia,3111,Uberlândia
+3103603,Arantina,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,310360,3,Sudeste,0,0,0,0,0,70000,333,0,0,0,1875,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3103702,Araponga,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,310370,3,Sudeste,0,0,10000,0,1500,40119,845,0,0,0,3600,0,0,0,0,0,310033,Viçosa,3106,Juíz de Fora
+3103751,Araporã,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,310375,3,Sudeste,0,0,17882,0,0,80000,2136,0,0,0,7400,3540,4100,0,0,0,310059,Uberlândia,3111,Uberlândia
+3103801,Arapuá,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,310380,3,Sudeste,0,0,0,0,1719,0,0,0,0,0,4000,0,0,0,60000,0,310062,Patos de Minas,3112,Patos de Minas
+3103900,Araújos,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,310390,3,Sudeste,0,0,6000,0,0,80000,1000,0,0,4000,5385,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3104007,Araxá,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,310400,3,Sudeste,0,0,0,21739,1757,80000,2534,0,0,0,8773,3250,3800,0,0,1600,310056,Araxá,3110,Uberaba
+3104106,Arceburgo,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,310410,3,Sudeste,0,0,9000,0,1018,72000,1746,25500,0,0,6000,0,0,0,0,0,310044,Guaxupé,3108,Varginha
+3104205,Arcos,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,310420,3,Sudeste,0,0,31250,0,0,78000,1050,0,0,0,7417,3400,4000,0,52500,0,310066,Formiga,3113,Divinópolis
+3104304,Areado,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,310430,3,Sudeste,0,0,10000,0,1680,82000,1259,0,0,0,7072,4095,0,0,0,0,310042,Alfenas,3108,Varginha
+3104403,Argirita,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,310440,3,Sudeste,0,0,7400,0,0,0,786,0,0,0,3500,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3104452,Aricanduva,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,310445,3,Sudeste,0,0,11000,0,874,30000,362,0,0,0,1500,0,0,0,0,0,310014,Capelinha,3103,Teófilo Otoni
+3104502,Arinos,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,310450,3,Sudeste,0,0,10000,0,0,33250,1886,0,0,0,6000,3510,1900,0,0,0,310063,Unaí,3112,Patos de Minas
+3104601,Astolfo Dutra,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,310460,3,Sudeste,0,0,0,0,2667,52313,1571,3000,0,15842,3167,0,0,11505,45000,0,310032,Cataguases,3106,Juíz de Fora
+3104700,Ataléia,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,310470,3,Sudeste,0,0,20000,0,651,30000,773,6000,0,0,3737,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3104809,Augusto de Lima,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,310480,3,Sudeste,0,0,10000,0,0,50000,1295,10000,0,11000,4000,0,5125,7000,0,0,310004,Curvelo,3101,Belo Horizonte
+3104908,Baependi,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,310490,3,Sudeste,0,0,9333,0,1560,0,600,10000,0,0,6400,3200,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3105004,Baldim,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,310500,3,Sudeste,0,0,8000,0,0,31600,2387,4000,4000,11603,5242,3120,6000,4000,60000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3105103,Bambuí,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,310510,3,Sudeste,0,0,9000,0,1500,70000,1514,9000,0,0,6640,3480,4500,11000,54000,2283,310066,Formiga,3113,Divinópolis
+3105202,Bandeira,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,310520,3,Sudeste,0,0,10000,0,900,36000,800,0,0,0,1200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3105301,Bandeira do Sul,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,310530,3,Sudeste,0,0,12667,0,1763,0,762,0,0,0,2611,3893,0,0,0,0,310051,Poços de Caldas,3109,Pouso Alegre
+3105400,Barão de Cocais,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,310540,3,Sudeste,0,0,10000,0,1000,35065,1000,0,0,0,5556,0,0,0,0,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3105509,Barão de Monte Alto,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,310550,3,Sudeste,0,0,0,0,0,35250,556,0,0,0,2000,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3105608,Barbacena,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,310560,3,Sudeste,0,0,9730,29000,0,30000,1524,25500,15000,21500,7200,0,0,16875,74000,0,310037,Barbacena,3107,Barbacena
+3105707,Barra Longa,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,310570,3,Sudeste,0,0,9000,0,0,109875,670,0,0,0,3760,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3105905,Barroso,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,310590,3,Sudeste,0,0,10545,0,0,77500,1200,0,0,0,3708,0,0,0,0,0,310037,Barbacena,3107,Barbacena
+3106002,Bela Vista de Minas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,310600,3,Sudeste,0,0,0,0,0,70500,667,0,0,0,0,0,0,0,0,0,310026,João Monlevade,3105,Ipatinga
+3106101,Belmiro Braga,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,310610,3,Sudeste,0,0,10000,0,0,41000,1000,10000,0,7000,5533,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3106200,Belo Horizonte,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,310620,3,Sudeste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3106309,Belo Oriente,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,310630,3,Sudeste,0,0,6500,0,0,35526,514,2000,12500,0,2100,0,0,16000,0,0,310024,Ipatinga,3105,Ipatinga
+3106408,Belo Vale,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,310640,3,Sudeste,0,0,10000,0,0,50000,771,8000,0,0,4404,0,0,14100,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3106507,Berilo,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,310650,3,Sudeste,0,0,4400,0,1000,35000,253,6167,0,0,600,0,0,3000,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3106606,Bertópolis,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,310660,3,Sudeste,0,0,5000,0,0,35000,1625,0,0,0,2808,0,0,5000,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3106655,Berizal,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,310665,3,Sudeste,0,0,17000,0,552,80000,565,10000,0,0,630,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3106705,Betim,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,310670,3,Sudeste,0,0,12000,0,0,46000,1000,0,7000,0,2300,0,0,0,75000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3106804,Bias Fortes,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,310680,3,Sudeste,0,0,0,0,0,40000,500,0,0,0,2267,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3106903,Bicas,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,310690,3,Sudeste,0,0,0,0,0,77143,308,0,0,0,2000,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3107000,Biquinhas,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,310700,3,Sudeste,0,0,7000,0,0,40000,0,10000,0,8000,7500,0,0,9000,0,0,310070,Abaeté,3113,Divinópolis
+3107109,Boa Esperança,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,310710,3,Sudeste,0,0,10000,0,2530,30000,1680,0,0,0,7141,3500,0,28000,0,2700,310046,Três Pontas - Boa Esperança,3108,Varginha
+3107208,Bocaina de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,310720,3,Sudeste,0,0,0,0,0,57600,600,0,0,0,3800,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3107307,Bocaiúva,31,Minas Gerais,,3102,Norte de Minas,31009,Bocaiúva,310730,3,Sudeste,0,0,15151,0,1620,30000,284,5000,5000,10000,1980,0,0,9000,50000,0,310006,Montes Claros,3102,Montes Claros
+3107406,Bom Despacho,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,310740,3,Sudeste,0,0,24000,0,0,56000,2550,30000,15000,0,5710,2630,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3107505,Bom Jardim de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,310750,3,Sudeste,0,0,0,0,0,30000,600,0,0,0,3000,0,0,0,72000,0,310027,Juiz de Fora,3106,Juíz de Fora
+3107604,Bom Jesus da Penha,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,310760,3,Sudeste,0,0,0,30000,2222,0,600,0,0,0,7066,3300,5000,0,41000,1200,310041,Passos,3108,Varginha
+3107703,Bom Jesus do Amparo,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,310770,3,Sudeste,0,0,30000,0,1000,61000,1000,0,5000,0,5100,0,0,29000,0,0,310005,Itabira,3101,Belo Horizonte
+3107802,Bom Jesus do Galho,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,310780,3,Sudeste,0,0,7800,0,824,30000,322,6500,5000,0,2500,0,0,16000,0,0,310025,Caratinga,3105,Ipatinga
+3107901,Bom Repouso,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,310790,3,Sudeste,0,0,0,29410,680,0,1167,0,0,0,5600,0,0,0,50000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3108008,Bom Sucesso,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,310800,3,Sudeste,0,0,0,0,1482,50000,600,9000,0,0,3300,0,0,0,0,0,310043,Lavras,3108,Varginha
+3108107,Bonfim,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,310810,3,Sudeste,0,0,9000,18000,0,48333,321,14000,10000,0,4026,0,0,14237,0,0,310069,Oliveira,3113,Divinópolis
+3108206,Bonfinópolis de Minas,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,310820,3,Sudeste,0,0,3000,0,2000,30000,2076,0,0,0,7590,3240,0,0,0,0,310063,Unaí,3112,Patos de Minas
+3108255,Bonito de Minas,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,310825,3,Sudeste,0,0,4000,0,0,20000,373,0,0,0,595,0,0,0,0,0,310009,Januária,3102,Montes Claros
+3108305,Borda da Mata,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,310830,3,Sudeste,0,0,31000,0,1674,53000,1100,10000,0,0,5527,3600,0,5000,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3108404,Botelhos,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,310840,3,Sudeste,0,0,10000,0,1881,73000,614,0,29333,0,7320,0,0,0,0,0,310051,Poços de Caldas,3109,Pouso Alegre
+3108503,Botumirim,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,310850,3,Sudeste,0,0,11571,0,857,30000,431,13000,0,6000,1652,0,0,0,30000,0,310006,Montes Claros,3102,Montes Claros
+3108552,Brasilândia de Minas,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,310855,3,Sudeste,0,0,0,0,0,98000,2622,0,0,0,10500,4240,0,0,0,0,310062,Patos de Minas,3112,Patos de Minas
+3108602,Brasília de Minas,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,310860,3,Sudeste,0,0,0,0,0,20000,194,4000,0,0,643,0,4533,0,0,0,310006,Montes Claros,3102,Montes Claros
+3108701,Brás Pires,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,310870,3,Sudeste,0,0,0,30000,0,50000,890,0,0,0,3200,0,0,0,0,0,310029,Ubá,3106,Juíz de Fora
+3108800,Braúnas,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31035,Guanhães,310880,3,Sudeste,0,0,6250,0,714,30000,450,0,0,0,1000,0,0,0,30000,0,310024,Ipatinga,3105,Ipatinga
+3108909,Brazópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,310890,3,Sudeste,0,0,6825,0,634,35000,750,6789,0,0,2400,0,0,8000,30000,0,310052,Itajubá,3109,Pouso Alegre
+3109006,Brumadinho,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,310900,3,Sudeste,0,0,10000,0,0,38690,420,27353,14000,0,3833,0,0,15909,48200,0,310001,Belo Horizonte,3101,Belo Horizonte
+3109105,Bueno Brandão,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,310910,3,Sudeste,0,0,12069,29700,1200,66000,1200,0,0,0,5300,0,0,11000,0,1000,310050,Pouso Alegre,3109,Pouso Alegre
+3109204,Buenópolis,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,310920,3,Sudeste,0,0,5000,0,0,40000,764,12000,0,9000,3000,0,3200,0,71000,0,310004,Curvelo,3101,Belo Horizonte
+3109253,Bugre,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,310925,3,Sudeste,0,0,14923,0,0,35500,0,0,10000,0,4400,0,0,0,54625,0,310024,Ipatinga,3105,Ipatinga
+3109303,Buritis,31,Minas Gerais,RIDE - Região Integrada de Desenvolvimento do Distrito Federal e Entorno,3101,Noroeste de Minas,31001,Unaí,310930,3,Sudeste,0,4200,30000,0,1372,55000,2369,26601,0,0,5489,3470,3715,0,30000,5861,310063,Unaí,3112,Patos de Minas
+3109402,Buritizeiro,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,310940,3,Sudeste,0,3000,29000,0,1974,26154,2312,23333,8000,15000,9528,3803,0,0,0,0,310010,Pirapora,3102,Montes Claros
+3109451,Cabeceira Grande,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,310945,3,Sudeste,0,0,0,0,0,30000,1689,0,0,0,6578,3500,1200,0,0,0,310063,Unaí,3112,Patos de Minas
+3109501,Cabo Verde,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,310950,3,Sudeste,0,0,16000,30000,1814,80000,1900,0,0,0,7234,2760,0,0,0,4302,310044,Guaxupé,3108,Varginha
+3109600,Cachoeira da Prata,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,310960,3,Sudeste,0,0,0,0,0,120000,0,0,0,0,2000,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3109709,Cachoeira de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,310970,3,Sudeste,0,0,6000,31250,2276,70000,1100,0,0,0,5600,0,0,7000,62000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3109808,Cachoeira Dourada,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,310980,3,Sudeste,0,0,12000,0,0,0,0,0,0,0,6019,3600,3500,0,0,0,310060,Ituiutaba,3111,Uberlândia
+3109907,Caetanópolis,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,310990,3,Sudeste,0,0,24000,0,0,43000,625,0,0,0,5143,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3110004,Caeté,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,311000,3,Sudeste,0,0,10130,0,1526,35714,1097,16000,8000,0,4000,0,0,10000,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3110103,Caiana,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,311010,3,Sudeste,0,0,5781,0,1200,30000,331,0,0,0,1619,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3110202,Cajuri,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,311020,3,Sudeste,0,0,18000,0,1200,40000,1050,15000,0,0,6000,0,0,30000,60000,0,310033,Viçosa,3106,Juíz de Fora
+3110301,Caldas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,311030,3,Sudeste,0,0,26000,25200,1860,0,2000,0,0,0,6830,4141,0,0,41000,2200,310051,Poços de Caldas,3109,Pouso Alegre
+3110400,Camacho,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,311040,3,Sudeste,0,0,24000,0,1726,40000,533,0,0,0,4800,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3110509,Camanducaia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,311050,3,Sudeste,0,0,17000,40206,0,30000,900,0,0,0,4400,0,0,0,50000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3110608,Cambuí,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,311060,3,Sudeste,0,0,7400,34556,2667,73909,800,0,0,0,4800,0,0,0,50000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3110707,Cambuquira,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,311070,3,Sudeste,0,0,4000,0,1822,32000,1519,29792,0,0,8840,3960,0,16328,76000,2850,310045,Três Corações,3108,Varginha
+3110806,Campanário,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,311080,3,Sudeste,0,0,6000,0,0,50000,583,0,0,0,1600,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3110905,Campanha,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,311090,3,Sudeste,0,0,4000,25000,1884,50000,758,19432,5000,0,7860,3480,0,18477,0,1800,310045,Três Corações,3108,Varginha
+3111002,Campestre,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,311100,3,Sudeste,0,0,13478,26000,2106,70833,1114,14839,0,0,6519,2952,0,0,66500,0,310051,Poços de Caldas,3109,Pouso Alegre
+3111101,Campina Verde,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,311110,3,Sudeste,0,0,8500,0,0,76000,0,27740,11250,0,6363,3487,2800,6250,0,0,310059,Uberlândia,3111,Uberlândia
+3111150,Campo Azul,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,311115,3,Sudeste,0,0,0,0,0,18000,338,0,0,0,758,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3111200,Campo Belo,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,311120,3,Sudeste,0,0,20000,0,1320,60000,972,12000,0,0,6000,0,0,12000,55000,0,310048,Campo Belo,3108,Varginha
+3111309,Campo do Meio,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,311130,3,Sudeste,0,0,8900,0,2084,0,1388,0,0,0,5707,3065,0,0,0,2125,310042,Alfenas,3108,Varginha
+3111408,Campo Florido,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,311140,3,Sudeste,0,0,0,0,0,90000,2450,18000,0,0,5644,3200,3250,0,0,0,310055,Uberaba,3110,Uberaba
+3111507,Campos Altos,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,311150,3,Sudeste,0,0,0,43000,1992,75000,2160,0,0,0,6865,3300,0,0,0,4160,310056,Araxá,3110,Uberaba
+3111606,Campos Gerais,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,311160,3,Sudeste,0,0,12250,26667,1807,40000,1374,6000,0,0,6000,3300,0,12000,56667,1800,310042,Alfenas,3108,Varginha
+3111705,Canaã,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,311170,3,Sudeste,0,0,20000,0,1500,40000,1488,0,0,0,4427,0,0,7000,60000,0,310033,Viçosa,3106,Juíz de Fora
+3111804,Canápolis,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,311180,3,Sudeste,0,0,10601,0,0,70000,3000,24000,0,0,6420,3400,3090,0,0,0,310059,Uberlândia,3111,Uberlândia
+3111903,Cana Verde,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,311190,3,Sudeste,0,0,10000,0,1340,66667,633,0,0,0,5800,0,0,8286,0,0,310043,Lavras,3108,Varginha
+3112000,Candeias,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,311200,3,Sudeste,0,0,8750,0,1380,50000,1356,15000,0,0,5400,0,0,0,0,0,310048,Campo Belo,3108,Varginha
+3112059,Cantagalo,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,311205,3,Sudeste,0,0,9500,0,0,30000,300,0,0,0,1267,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3112109,Caparaó,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,311210,3,Sudeste,0,0,0,0,1452,50000,400,0,0,0,2400,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3112208,Capela Nova,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,311220,3,Sudeste,0,0,0,0,1837,45000,1000,0,0,0,6000,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3112307,Capelinha,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,311230,3,Sudeste,0,0,18087,0,1164,31667,486,13909,9000,15000,2400,0,0,13500,58711,0,310014,Capelinha,3103,Teófilo Otoni
+3112406,Capetinga,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,311240,3,Sudeste,0,0,4000,0,2091,40000,1576,0,0,0,7488,3520,0,0,0,0,310041,Passos,3108,Varginha
+3112505,Capim Branco,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,311250,3,Sudeste,0,0,0,0,0,0,1000,0,0,0,4800,0,0,0,80000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3112604,Capinópolis,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,311260,3,Sudeste,0,0,14000,0,0,80000,2357,0,0,0,5205,3609,4200,0,0,0,310060,Ituiutaba,3111,Uberlândia
+3112653,Capitão Andrade,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,311265,3,Sudeste,0,0,0,0,0,31500,500,0,0,0,1579,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3112703,Capitão Enéas,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,311270,3,Sudeste,0,0,24250,0,500,50000,1075,15000,20000,14000,1367,0,1000,0,0,0,310006,Montes Claros,3102,Montes Claros
+3112802,Capitólio,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,311280,3,Sudeste,0,0,6000,0,1466,30000,2400,25500,0,0,8281,3948,0,1000,0,0,310049,Piumhi,3108,Varginha
+3112901,Caputira,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,311290,3,Sudeste,0,0,5500,0,767,36250,360,0,0,0,1800,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3113008,Caraí,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,311300,3,Sudeste,0,0,6389,0,536,30000,375,5375,0,0,748,0,0,7000,45000,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3113107,Caranaíba,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,311310,3,Sudeste,0,0,22000,0,450,46667,891,12000,0,0,6333,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3113206,Carandaí,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,311320,3,Sudeste,0,0,16000,31667,0,50417,1664,0,0,0,8831,2830,0,5500,63750,2530,310038,Conselheiro Lafaiete,3107,Barbacena
+3113305,Carangola,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,311330,3,Sudeste,0,0,11933,0,1098,31852,330,0,0,0,1580,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3113404,Caratinga,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,311340,3,Sudeste,0,0,14109,0,1463,30000,573,4000,10900,11700,5700,0,0,3000,72000,0,310025,Caratinga,3105,Ipatinga
+3113503,Carbonita,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,311350,3,Sudeste,0,0,5200,0,0,25030,300,9000,0,0,1200,0,0,0,55500,0,310016,Diamantina,3103,Teófilo Otoni
+3113602,Careaçu,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,311360,3,Sudeste,0,0,12000,28182,1666,45000,2057,0,0,0,7967,2000,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3113701,Carlos Chagas,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,311370,3,Sudeste,0,0,5000,0,0,44500,900,14000,0,9000,1800,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3113800,Carmésia,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,311380,3,Sudeste,0,0,0,0,0,30000,800,0,0,0,1356,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3113909,Carmo da Cachoeira,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,311390,3,Sudeste,0,0,0,30000,1735,0,1400,22000,0,0,9200,2200,0,15000,0,0,310045,Três Corações,3108,Varginha
+3114006,Carmo da Mata,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,311400,3,Sudeste,0,0,6000,0,1235,46000,860,0,0,0,6320,3603,0,33889,0,0,310065,Divinópolis,3113,Divinópolis
+3114105,Carmo de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,311410,3,Sudeste,0,0,12000,0,1380,35000,1050,0,0,0,7500,2556,0,0,0,2000,310053,São Lourenço,3109,Pouso Alegre
+3114204,Carmo do Cajuru,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,311420,3,Sudeste,0,0,8000,0,0,36000,1080,4000,0,0,5000,0,0,7000,81000,0,310065,Divinópolis,3113,Divinópolis
+3114303,Carmo do Paranaíba,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,311430,3,Sudeste,0,0,11000,0,1750,38000,2119,0,0,0,6840,3420,4000,0,60000,0,310062,Patos de Minas,3112,Patos de Minas
+3114402,Carmo do Rio Claro,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,311440,3,Sudeste,0,0,8000,0,1815,80000,1620,25237,0,0,6815,3752,4500,0,0,0,310041,Passos,3108,Varginha
+3114501,Carmópolis de Minas,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,311450,3,Sudeste,0,0,10667,0,1875,70000,2389,17000,15000,0,3000,0,0,10000,81429,0,310069,Oliveira,3113,Divinópolis
+3114550,Carneirinho,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,311455,3,Sudeste,0,0,10000,0,0,80000,0,0,0,0,4200,0,0,0,0,0,310058,Iturama,3110,Uberaba
+3114600,Carrancas,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,311460,3,Sudeste,0,0,0,46667,1958,30400,1860,0,0,0,5789,3200,0,0,0,2400,310043,Lavras,3108,Varginha
+3114709,Carvalhópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,311470,3,Sudeste,0,0,0,0,1440,60000,1048,0,0,0,4900,2750,0,0,53000,0,310042,Alfenas,3108,Varginha
+3114808,Carvalhos,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,311480,3,Sudeste,0,0,0,0,0,32500,800,0,0,0,2400,0,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3114907,Casa Grande,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,311490,3,Sudeste,0,0,0,0,708,0,1240,0,0,0,7850,2757,0,0,81500,3240,310038,Conselheiro Lafaiete,3107,Barbacena
+3115003,Cascalho Rico,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,311500,3,Sudeste,0,0,0,0,1689,76000,0,0,0,0,4800,3500,7200,0,77000,0,310059,Uberlândia,3111,Uberlândia
+3115102,Cássia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,311510,3,Sudeste,0,0,10000,0,1598,80025,1455,0,0,0,7009,3550,3900,0,0,0,310041,Passos,3108,Varginha
+3115201,Conceição da Barra de Minas,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,311520,3,Sudeste,0,0,0,0,2629,53000,767,0,0,0,3591,4181,0,0,0,3000,310039,São João del Rei,3107,Barbacena
+3115300,Cataguases,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,311530,3,Sudeste,0,0,7444,0,2000,35150,400,5000,0,0,4600,0,0,5000,0,0,310032,Cataguases,3106,Juíz de Fora
+3115359,Catas Altas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,311535,3,Sudeste,0,0,12250,0,0,41000,714,6000,20000,0,1257,0,0,0,0,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3115409,Catas Altas da Noruega,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,311540,3,Sudeste,0,0,15000,0,875,50000,817,10000,12000,0,4800,0,0,12000,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3115458,Catuji,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,311545,3,Sudeste,0,0,4529,0,471,48125,306,6000,0,0,2815,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3115474,Catuti,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,311547,3,Sudeste,0,583,0,0,0,10000,267,0,0,0,1920,0,2833,0,0,0,310012,Espinosa,3102,Montes Claros
+3115508,Caxambu,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,311550,3,Sudeste,0,0,0,0,593,37000,667,0,0,0,6268,0,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3115607,Cedro do Abaeté,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,311560,3,Sudeste,0,0,0,0,0,61533,500,0,0,0,5000,0,0,0,0,0,310070,Abaeté,3113,Divinópolis
+3115706,Central de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,311570,3,Sudeste,0,0,8000,0,600,65000,813,0,0,0,2000,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3115805,Centralina,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,311580,3,Sudeste,0,0,13000,0,0,80000,2701,0,0,0,4947,3600,4500,0,0,0,310059,Uberlândia,3111,Uberlândia
+3115904,Chácara,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,311590,3,Sudeste,0,0,18500,0,0,0,750,0,0,0,3500,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3116001,Chalé,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,311600,3,Sudeste,0,0,16000,0,926,36667,333,0,0,0,2400,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3116100,Chapada do Norte,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,311610,3,Sudeste,0,0,20000,0,1000,45000,354,5000,0,0,1222,0,0,0,0,0,310014,Capelinha,3103,Teófilo Otoni
+3116159,Chapada Gaúcha,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,311615,3,Sudeste,0,0,10000,0,0,60000,520,0,0,0,4500,2130,2400,0,0,0,310011,São Francisco,3102,Montes Claros
+3116209,Chiador,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,311620,3,Sudeste,0,0,0,0,0,31429,500,0,0,0,1250,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3116308,Cipotânea,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,311630,3,Sudeste,0,0,31375,0,0,30000,380,0,0,0,1520,0,0,0,0,0,310037,Barbacena,3107,Barbacena
+3116407,Claraval,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,311640,3,Sudeste,0,0,7700,0,1225,60179,500,0,0,0,5600,0,0,0,0,0,310041,Passos,3108,Varginha
+3116506,Claro dos Poções,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,311650,3,Sudeste,0,0,27527,0,600,35500,600,0,0,5000,2050,0,5200,7000,30000,0,310006,Montes Claros,3102,Montes Claros
+3116605,Cláudio,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,311660,3,Sudeste,0,0,5000,0,1417,57533,1583,0,0,0,6635,3800,0,0,70000,0,310065,Divinópolis,3113,Divinópolis
+3116704,Coimbra,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,311670,3,Sudeste,0,0,30000,0,1859,58154,1224,10000,0,0,7600,0,0,7000,80000,0,310033,Viçosa,3106,Juíz de Fora
+3116803,Coluna,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,311680,3,Sudeste,0,0,21333,0,500,33125,300,0,0,0,1200,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3116902,Comendador Gomes,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,311690,3,Sudeste,0,0,0,0,0,79470,0,22000,0,11000,6400,2800,2400,0,0,0,310057,Frutal,3110,Uberaba
+3117009,Comercinho,31,Minas Gerais,,3103,Jequitinhonha,31013,Pedra Azul,311700,3,Sudeste,0,0,12000,0,750,52000,122,13000,0,0,306,0,0,0,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3117108,Conceição da Aparecida,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,311710,3,Sudeste,0,0,0,0,1854,51000,368,0,0,0,4891,2830,0,0,31000,0,310042,Alfenas,3108,Varginha
+3117207,Conceição das Pedras,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,311720,3,Sudeste,0,0,5504,27800,1469,30000,0,9000,0,0,6767,0,0,0,62000,0,310052,Itajubá,3109,Pouso Alegre
+3117306,Conceição das Alagoas,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,311730,3,Sudeste,0,0,0,0,3063,80000,2389,25000,0,13725,5333,3240,2500,5000,0,0,310055,Uberaba,3110,Uberaba
+3117405,Conceição de Ipanema,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,311740,3,Sudeste,0,0,10533,0,1441,56000,633,20000,11000,0,2000,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3117504,Conceição do Mato Dentro,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,311750,3,Sudeste,0,0,28000,0,800,30833,814,0,0,0,2300,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3117603,Conceição do Pará,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,311760,3,Sudeste,0,0,4000,0,0,38000,1100,0,0,0,4348,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3117702,Conceição do Rio Verde,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,311770,3,Sudeste,0,0,0,0,2040,60000,1250,0,0,0,8052,4140,0,12970,60000,2840,310053,São Lourenço,3109,Pouso Alegre
+3117801,Conceição dos Ouros,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,311780,3,Sudeste,0,0,11000,0,1517,30000,1385,0,0,0,6000,4200,0,0,70000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3117836,Cônego Marinho,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,311783,3,Sudeste,0,0,0,0,0,23600,320,0,0,0,356,0,0,0,0,0,310009,Januária,3102,Montes Claros
+3117876,Confins,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,311787,3,Sudeste,0,0,0,0,0,0,0,0,0,0,4000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3117900,Congonhal,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,311790,3,Sudeste,0,0,6000,30000,2102,70000,1396,0,0,0,3996,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3118007,Congonhas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,311800,3,Sudeste,0,0,0,0,933,52000,927,5000,0,0,4800,0,0,5000,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3118106,Congonhas do Norte,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,311810,3,Sudeste,0,0,8000,0,692,30000,680,0,0,0,1600,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3118205,Conquista,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,311820,3,Sudeste,0,0,0,0,0,87000,1745,0,0,0,6600,3000,4000,0,0,0,310055,Uberaba,3110,Uberaba
+3118304,Conselheiro Lafaiete,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,311830,3,Sudeste,0,0,0,23000,0,50000,950,0,4000,0,7060,0,0,0,70000,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3118403,Conselheiro Pena,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,311840,3,Sudeste,0,0,11000,0,1290,49000,600,13000,13500,9500,2500,0,0,14500,0,0,310020,Governador Valadares,3104,Governador Valadares
+3118502,Consolação,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,311850,3,Sudeste,0,0,10000,0,750,0,1000,0,0,0,4500,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3118601,Contagem,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,311860,3,Sudeste,0,0,5000,0,0,30000,0,0,0,0,7000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3118700,Coqueiral,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,311870,3,Sudeste,0,0,5000,0,1751,43000,1800,0,0,0,7000,4091,0,0,0,2060,310046,Três Pontas - Boa Esperança,3108,Varginha
+3118809,Coração de Jesus,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,311880,3,Sudeste,0,0,5500,0,0,22000,529,6500,5000,0,1300,0,1400,26000,52000,0,310006,Montes Claros,3102,Montes Claros
+3118908,Cordisburgo,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,311890,3,Sudeste,0,0,14000,0,0,54000,429,0,0,6000,3067,0,0,0,64000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3119005,Cordislândia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,311900,3,Sudeste,0,0,9000,25000,2100,30000,1533,0,0,0,4185,3960,0,0,0,0,310040,Varginha,3108,Varginha
+3119104,Corinto,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,311910,3,Sudeste,0,0,10000,0,0,30000,543,0,0,0,2701,0,1702,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3119203,Coroaci,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,311920,3,Sudeste,0,0,7000,0,1733,31089,300,0,0,0,1714,0,6400,0,40000,0,310020,Governador Valadares,3104,Governador Valadares
+3119302,Coromandel,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,311930,3,Sudeste,0,3660,5000,34000,1814,42750,2046,0,0,0,6488,3437,3120,3000,106000,2150,310064,Patrocínio,3112,Patos de Minas
+3119401,Coronel Fabriciano,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,311940,3,Sudeste,0,0,5000,0,0,45000,2000,0,0,11333,2000,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3119500,Coronel Murta,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,311950,3,Sudeste,0,0,18000,0,0,30000,391,8000,15000,15000,1126,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3119609,Coronel Pacheco,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,311960,3,Sudeste,0,0,5699,0,0,0,625,0,0,0,3667,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3119708,Coronel Xavier Chaves,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,311970,3,Sudeste,0,0,8000,0,0,76000,2567,0,0,0,11000,3600,0,15533,55000,1800,310039,São João del Rei,3107,Barbacena
+3119807,Córrego Danta,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,311980,3,Sudeste,0,0,4000,0,1440,41400,400,10500,8000,0,4063,2000,0,0,0,0,310066,Formiga,3113,Divinópolis
+3119906,Córrego do Bom Jesus,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,311990,3,Sudeste,0,0,5000,40000,0,0,500,4000,0,0,1804,0,0,0,76000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3119955,Córrego Fundo,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,311995,3,Sudeste,0,0,0,0,1471,51500,1400,0,0,0,6240,2730,0,0,64000,0,310066,Formiga,3113,Divinópolis
+3120003,Córrego Novo,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,312000,3,Sudeste,0,0,3000,0,500,35000,450,0,0,0,1600,0,0,5000,0,0,310025,Caratinga,3105,Ipatinga
+3120102,Couto de Magalhães de Minas,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312010,3,Sudeste,0,0,3000,0,0,38500,476,11000,0,0,2293,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3120151,Crisólita,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,312015,3,Sudeste,0,0,5000,0,0,30000,1733,0,0,0,2500,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3120201,Cristais,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,312020,3,Sudeste,0,0,0,0,2395,100000,1200,10000,9000,0,7002,3880,5700,19000,0,0,310048,Campo Belo,3108,Varginha
+3120300,Cristália,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,312030,3,Sudeste,0,0,11000,0,333,30000,344,7000,0,7000,581,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3120409,Cristiano Otoni,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,312040,3,Sudeste,0,0,14000,20000,0,80000,1560,0,0,0,6704,1880,0,6000,87500,3000,310038,Conselheiro Lafaiete,3107,Barbacena
+3120508,Cristina,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,312050,3,Sudeste,0,0,12000,18000,1620,0,900,0,0,0,6000,0,0,8000,30000,0,310053,São Lourenço,3109,Pouso Alegre
+3120607,Crucilândia,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31032,Itaguara,312060,3,Sudeste,0,0,0,0,0,52000,385,0,6000,0,4000,0,0,24000,64000,0,310069,Oliveira,3113,Divinópolis
+3120706,Cruzeiro da Fortaleza,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,312070,3,Sudeste,0,0,0,40000,2328,0,0,0,0,0,9300,3400,2400,0,0,900,310064,Patrocínio,3112,Patos de Minas
+3120805,Cruzília,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,312080,3,Sudeste,0,0,0,0,900,45400,1980,0,0,0,8214,3900,0,10127,0,4909,310054,Caxambu - Baependi,3109,Pouso Alegre
+3120839,Cuparaque,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,312083,3,Sudeste,0,0,13000,0,738,43868,500,5000,0,11182,2000,0,0,0,0,0,310023,Aimorés - Resplendor,3104,Governador Valadares
+3120870,Curral de Dentro,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,312087,3,Sudeste,0,0,30000,0,3875,16000,569,15000,0,8000,1197,0,3833,5000,0,0,310008,Salinas,3102,Montes Claros
+3120904,Curvelo,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,312090,3,Sudeste,0,0,20000,0,0,30000,1000,0,9500,10000,2300,2000,0,22500,41250,0,310004,Curvelo,3101,Belo Horizonte
+3121001,Datas,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312100,3,Sudeste,0,0,5500,32500,1500,30000,1080,7000,0,0,6300,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3121100,Delfim Moreira,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,312110,3,Sudeste,0,0,0,20000,0,37400,667,0,0,0,3300,0,0,0,50000,0,310052,Itajubá,3109,Pouso Alegre
+3121209,Delfinópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,312120,3,Sudeste,0,0,23000,0,1238,65000,2652,0,0,8000,6021,3940,5180,0,30000,0,310041,Passos,3108,Varginha
+3121258,Delta,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,312125,3,Sudeste,0,0,20000,0,0,80000,0,0,0,0,4917,3000,3300,0,0,0,310055,Uberaba,3110,Uberaba
+3121308,Descoberto,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,312130,3,Sudeste,0,0,6000,0,1000,42000,750,0,0,0,5464,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3121407,Desterro de Entre Rios,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,312140,3,Sudeste,0,0,7000,0,2080,47000,714,8000,0,0,4000,0,0,0,40000,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3121506,Desterro do Melo,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,312150,3,Sudeste,0,0,7500,0,1000,30000,891,0,10000,0,4500,0,0,0,50000,0,310037,Barbacena,3107,Barbacena
+3121605,Diamantina,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312160,3,Sudeste,0,0,6000,0,1421,30000,900,4500,0,14000,2280,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3121704,Diogo de Vasconcelos,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31033,Ouro Preto,312170,3,Sudeste,0,0,0,0,0,30000,714,0,0,0,6900,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3121803,Dionísio,31,Minas Gerais,RM Vale do Aço,3107,Metropolitana de Belo Horizonte,31031,Itabira,312180,3,Sudeste,0,0,11783,0,500,30000,671,0,0,0,2400,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3121902,Divinésia,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,312190,3,Sudeste,0,0,8000,0,2035,48529,820,0,0,0,4638,0,0,0,66667,0,310029,Ubá,3106,Juíz de Fora
+3122009,Divino,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,312200,3,Sudeste,0,0,7688,0,1192,33000,300,0,0,0,1820,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3122108,Divino das Laranjeiras,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312210,3,Sudeste,0,0,7000,0,0,32714,733,0,0,0,2000,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3122207,Divinolândia de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,312220,3,Sudeste,0,0,8000,0,1111,35000,600,0,0,0,2577,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3122306,Divinópolis,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,312230,3,Sudeste,0,0,24800,0,0,46667,750,7000,15000,6000,6730,2000,5000,16800,40000,0,310065,Divinópolis,3113,Divinópolis
+3122355,Divisa Alegre,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,312235,3,Sudeste,0,0,6333,0,3692,0,500,0,0,0,1800,0,0,0,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3122405,Divisa Nova,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,312240,3,Sudeste,0,0,10333,30000,2281,92000,1323,38200,0,0,5480,2889,0,0,0,0,310042,Alfenas,3108,Varginha
+3122454,Divisópolis,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,312245,3,Sudeste,0,0,15000,0,1080,30000,752,7000,7000,0,1505,0,0,0,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3122470,Dom Bosco,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,312247,3,Sudeste,0,0,0,0,0,50000,2614,0,7200,4051,6780,3160,7000,0,0,0,310063,Unaí,3112,Patos de Minas
+3122504,Dom Cavati,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,312250,3,Sudeste,0,0,10500,0,1273,30000,500,10000,0,0,1308,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3122603,Dom Joaquim,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,312260,3,Sudeste,0,0,5143,0,0,46774,328,0,0,0,1600,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3122702,Dom Silvério,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,312270,3,Sudeste,0,0,23000,0,0,59000,478,0,0,0,3100,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3122801,Dom Viçoso,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,312280,3,Sudeste,0,0,5241,26000,1163,40000,444,0,0,0,1805,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3122900,Dona Eusébia,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,312290,3,Sudeste,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3123007,Dores de Campos,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,312300,3,Sudeste,0,0,0,0,0,47222,870,0,0,0,4840,3000,0,0,20000,2118,310037,Barbacena,3107,Barbacena
+3123106,Dores de Guanhães,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,312310,3,Sudeste,0,0,0,0,0,70000,478,0,0,0,2800,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3123205,Dores do Indaiá,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,312320,3,Sudeste,0,0,0,0,0,50000,1188,0,0,0,6452,0,5000,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3123304,Dores do Turvo,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,312330,3,Sudeste,0,0,0,0,603,30372,1500,0,0,0,4231,0,0,0,0,0,310029,Ubá,3106,Juíz de Fora
+3123403,Doresópolis,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,312340,3,Sudeste,0,0,0,0,1428,72000,1217,0,0,0,7963,0,0,0,0,0,310049,Piumhi,3108,Varginha
+3123502,Douradoquara,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,312350,3,Sudeste,0,0,6000,0,0,45000,0,0,0,0,5308,3300,0,0,0,0,310061,Monte Carmelo,3111,Uberlândia
+3123528,Durandé,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,312352,3,Sudeste,0,0,0,0,1327,31889,900,0,0,0,3194,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3123601,Elói Mendes,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,312360,3,Sudeste,0,0,10000,0,1830,40000,1033,8000,0,0,5400,0,4200,0,0,0,310040,Varginha,3108,Varginha
+3123700,Engenheiro Caldas,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312370,3,Sudeste,0,0,4000,0,0,0,1000,5000,0,18000,2300,0,0,0,70000,0,310020,Governador Valadares,3104,Governador Valadares
+3123809,Engenheiro Navarro,31,Minas Gerais,,3102,Norte de Minas,31009,Bocaiúva,312380,3,Sudeste,0,0,13500,0,0,30000,1800,5000,11000,0,1502,0,6000,11000,0,0,310006,Montes Claros,3102,Montes Claros
+3123858,Entre Folhas,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,312385,3,Sudeste,0,0,16333,0,858,30000,1143,9000,0,0,2375,0,0,4000,0,0,310025,Caratinga,3105,Ipatinga
+3123908,Entre Rios de Minas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,312390,3,Sudeste,0,0,0,0,2281,37000,1200,0,0,0,5820,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3124005,Ervália,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,312400,3,Sudeste,0,0,15600,0,1357,59810,1096,0,0,0,4491,0,0,0,60000,0,310033,Viçosa,3106,Juíz de Fora
+3124104,Esmeraldas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,312410,3,Sudeste,0,0,16909,0,2275,55385,700,0,7000,0,6756,0,0,11000,70000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3124203,Espera Feliz,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,312420,3,Sudeste,0,0,12036,0,1210,30000,400,17000,0,0,2300,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3124302,Espinosa,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,312430,3,Sudeste,0,0,22552,0,0,32000,422,30000,0,20556,401,0,803,20000,30000,0,310012,Espinosa,3102,Montes Claros
+3124401,Espírito Santo do Dourado,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,312440,3,Sudeste,0,0,8438,27000,1436,0,720,0,0,0,6792,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3124500,Estiva,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,312450,3,Sudeste,0,0,12500,20000,1667,0,1000,0,0,0,4600,0,0,0,56250,0,310050,Pouso Alegre,3109,Pouso Alegre
+3124609,Estrela Dalva,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,312460,3,Sudeste,0,0,20000,0,0,30000,1000,0,0,0,6600,0,0,0,0,0,310036,Além Paraíba,3106,Juíz de Fora
+3124708,Estrela do Indaiá,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,312470,3,Sudeste,0,0,7000,40000,1200,90000,1921,0,0,0,6420,3900,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3124807,Estrela do Sul,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,312480,3,Sudeste,0,0,21231,0,2376,90000,2229,0,20400,0,7429,3370,3086,0,70000,2500,310061,Monte Carmelo,3111,Uberlândia
+3124906,Eugenópolis,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,312490,3,Sudeste,0,0,14214,0,1020,37000,477,0,0,0,2000,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3125002,Ewbank da Câmara,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,312500,3,Sudeste,0,0,0,0,0,0,1000,0,0,0,2000,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3125101,Extrema,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,312510,3,Sudeste,0,0,22500,33000,2000,0,1250,0,0,0,5397,0,0,0,54000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3125200,Fama,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,312520,3,Sudeste,0,0,0,0,1320,0,937,0,0,0,6600,0,0,0,0,0,310042,Alfenas,3108,Varginha
+3125309,Faria Lemos,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,312530,3,Sudeste,0,0,6300,0,972,41667,857,0,0,0,3933,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3125408,Felício dos Santos,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312540,3,Sudeste,0,0,4333,0,1250,20000,200,5000,0,0,1000,0,0,3000,0,0,310016,Diamantina,3103,Teófilo Otoni
+3125507,São Gonçalo do Rio Preto,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312550,3,Sudeste,0,0,7667,0,4767,30000,400,0,0,0,1694,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3125606,Felisburgo,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,312560,3,Sudeste,0,0,8500,0,750,30000,525,0,0,0,1500,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3125705,Felixlândia,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,312570,3,Sudeste,0,0,4000,0,0,30000,1954,0,0,8000,2729,1210,0,0,70000,0,310004,Curvelo,3101,Belo Horizonte
+3125804,Fernandes Tourinho,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312580,3,Sudeste,0,0,0,0,0,30000,1200,0,0,0,3000,0,0,0,41000,0,310020,Governador Valadares,3104,Governador Valadares
+3125903,Ferros,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,312590,3,Sudeste,0,0,8750,0,593,47033,690,0,0,0,3900,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3125952,Fervedouro,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,312595,3,Sudeste,0,0,13875,0,1057,37500,472,22000,6000,0,2100,0,0,0,30000,0,310031,Muriaé,3106,Juíz de Fora
+3126000,Florestal,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31029,Pará de Minas,312600,3,Sudeste,0,0,0,0,0,63636,1000,0,0,0,4500,0,0,0,60000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3126109,Formiga,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,312610,3,Sudeste,0,0,10000,37000,1800,41000,1473,0,20000,0,7800,3746,0,22000,66000,0,310066,Formiga,3113,Divinópolis
+3126208,Formoso,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,312620,3,Sudeste,0,0,0,0,2448,33472,1879,23200,0,0,6502,2980,3000,0,0,0,310063,Unaí,3112,Patos de Minas
+3126307,Fortaleza de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,312630,3,Sudeste,0,0,10000,0,1280,85108,600,39564,0,0,6400,3000,0,0,73333,0,310041,Passos,3108,Varginha
+3126406,Fortuna de Minas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,312640,3,Sudeste,0,0,0,0,0,52000,500,0,0,0,4000,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3126505,Francisco Badaró,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,312650,3,Sudeste,0,0,13600,0,0,30000,431,12000,0,0,1147,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3126604,Francisco Dumont,31,Minas Gerais,,3102,Norte de Minas,31009,Bocaiúva,312660,3,Sudeste,0,0,4571,0,1412,30000,406,15000,0,7000,1901,0,5500,0,0,0,310006,Montes Claros,3102,Montes Claros
+3126703,Francisco Sá,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,312670,3,Sudeste,0,0,19447,0,1000,35000,789,0,5000,5000,1200,0,2500,0,0,0,310006,Montes Claros,3102,Montes Claros
+3126752,Franciscópolis,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,312675,3,Sudeste,0,0,10000,0,519,37000,396,13000,0,0,3561,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3126802,Frei Gaspar,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,312680,3,Sudeste,0,0,9000,0,395,45406,645,6000,0,0,1200,0,2500,0,60000,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3126901,Frei Inocêncio,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312690,3,Sudeste,0,0,22167,0,0,0,429,0,0,0,898,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3126950,Frei Lagonegro,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,312695,3,Sudeste,0,0,14600,0,1600,39400,549,0,0,0,1800,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3127008,Fronteira,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,312700,3,Sudeste,0,0,0,0,0,82500,1222,0,0,0,3702,2917,0,0,0,0,310057,Frutal,3110,Uberaba
+3127057,Fronteira dos Vales,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,312705,3,Sudeste,0,0,8000,0,0,67000,318,0,0,0,1000,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3127073,Fruta de Leite,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,312707,3,Sudeste,0,0,4333,0,800,34000,226,9000,0,6333,1030,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3127107,Frutal,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,312710,3,Sudeste,0,0,0,0,0,80924,722,25000,12000,36000,6592,3500,3900,0,0,0,310057,Frutal,3110,Uberaba
+3127206,Funilândia,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,312720,3,Sudeste,0,0,20211,0,0,30000,2000,0,0,10000,1714,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3127305,Galiléia,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312730,3,Sudeste,0,0,12000,0,0,49000,1000,0,0,0,2850,0,7500,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3127339,Gameleiras,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,312733,3,Sudeste,0,0,10000,0,0,0,485,0,0,0,1200,0,3000,0,0,0,310012,Espinosa,3102,Montes Claros
+3127354,Glaucilândia,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,312735,3,Sudeste,0,0,0,0,0,32093,500,0,8000,12000,1408,0,4800,0,0,0,310006,Montes Claros,3102,Montes Claros
+3127370,Goiabeira,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,312737,3,Sudeste,0,0,8000,0,0,43750,500,0,0,4000,2125,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3127388,Goianá,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,312738,3,Sudeste,0,0,4000,0,0,30000,407,3000,0,0,1400,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3127404,Gonçalves,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,312740,3,Sudeste,0,0,5300,20000,0,35000,800,10000,0,0,4079,0,0,0,65000,0,310052,Itajubá,3109,Pouso Alegre
+3127503,Gonzaga,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,312750,3,Sudeste,0,0,5700,0,1000,30000,600,0,0,0,1909,0,0,4000,0,0,310020,Governador Valadares,3104,Governador Valadares
+3127602,Gouveia,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,312760,3,Sudeste,0,0,11500,0,0,30000,765,15000,0,16000,3500,0,0,5000,30000,0,310016,Diamantina,3103,Teófilo Otoni
+3127701,Governador Valadares,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,312770,3,Sudeste,0,0,5000,0,667,30000,856,0,0,12000,2400,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3127800,Grão Mogol,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,312780,3,Sudeste,0,0,7000,0,3500,19072,272,18000,3000,4000,900,0,0,5000,0,0,310006,Montes Claros,3102,Montes Claros
+3127909,Grupiara,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,312790,3,Sudeste,0,0,0,0,0,0,0,0,11000,0,6651,3600,0,7000,0,0,310061,Monte Carmelo,3111,Uberlândia
+3128006,Guanhães,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,312800,3,Sudeste,0,0,7000,0,1600,34571,660,6000,0,0,3400,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3128105,Guapé,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,312810,3,Sudeste,0,0,0,0,1920,70000,900,0,0,0,6000,2520,0,0,0,0,310041,Passos,3108,Varginha
+3128204,Guaraciaba,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,312820,3,Sudeste,0,0,6500,25000,1141,40000,553,0,0,10000,2000,0,0,8000,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3128253,Guaraciama,31,Minas Gerais,,3102,Norte de Minas,31009,Bocaiúva,312825,3,Sudeste,0,0,5000,0,0,30000,400,0,0,0,1197,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3128303,Guaranésia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,312830,3,Sudeste,0,0,0,39000,1361,50000,2103,15000,22500,0,6359,2300,0,0,0,1184,310044,Guaxupé,3108,Varginha
+3128402,Guarani,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,312840,3,Sudeste,0,0,7000,0,2977,30000,857,0,0,12700,4800,0,0,20167,0,0,310029,Ubá,3106,Juíz de Fora
+3128501,Guarará,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,312850,3,Sudeste,0,0,10000,0,2071,51000,632,8000,8000,0,5000,0,0,0,75000,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3128600,Guarda-Mor,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,312860,3,Sudeste,0,0,16133,30000,1831,30000,2775,0,0,0,6718,3800,3400,0,0,2431,310062,Patos de Minas,3112,Patos de Minas
+3128709,Guaxupé,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,312870,3,Sudeste,0,0,34000,0,1511,20000,1462,0,0,0,4629,3119,0,0,0,1156,310044,Guaxupé,3108,Varginha
+3128808,Guidoval,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,312880,3,Sudeste,0,0,10000,0,0,76000,550,10400,0,27500,3400,0,0,14000,40000,0,310029,Ubá,3106,Juíz de Fora
+3128907,Guimarânia,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,312890,3,Sudeste,0,0,9000,0,1449,32000,0,26750,12000,0,5147,2900,3760,17000,60000,3000,310064,Patrocínio,3112,Patos de Minas
+3129004,Guiricema,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,312900,3,Sudeste,0,0,23833,0,1905,48000,514,0,5000,20800,4392,0,0,0,70000,0,310029,Ubá,3106,Juíz de Fora
+3129103,Gurinhatã,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,312910,3,Sudeste,0,0,15000,0,0,68000,1333,30299,0,0,5700,3305,0,0,0,0,310060,Ituiutaba,3111,Uberlândia
+3129202,Heliodora,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,312920,3,Sudeste,0,0,5000,25000,1573,60000,2000,0,0,0,6300,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3129301,Iapu,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,312930,3,Sudeste,0,0,19910,0,1280,32857,609,0,8000,0,2880,0,0,10000,70000,0,310024,Ipatinga,3105,Ipatinga
+3129400,Ibertioga,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,312940,3,Sudeste,0,0,0,25000,0,43750,1645,0,0,0,10800,3119,0,0,52000,3000,310037,Barbacena,3107,Barbacena
+3129509,Ibiá,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,312950,3,Sudeste,0,0,3400,24259,1589,50000,2277,19403,9000,0,8183,3620,3400,0,55000,2440,310056,Araxá,3110,Uberaba
+3129608,Ibiaí,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,312960,3,Sudeste,0,0,0,0,0,37000,729,0,0,0,4500,0,0,0,0,0,310010,Pirapora,3102,Montes Claros
+3129657,Ibiracatu,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,312965,3,Sudeste,0,0,0,0,0,23600,176,0,0,0,299,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3129707,Ibiraci,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,312970,3,Sudeste,0,0,11000,0,1612,61000,1000,34400,0,0,10000,3580,4800,7385,120000,0,310041,Passos,3108,Varginha
+3129806,Ibirité,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,312980,3,Sudeste,0,0,0,0,0,0,0,0,13333,0,3000,0,0,0,50000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3129905,Ibitiúra de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,312990,3,Sudeste,0,0,27273,0,1299,0,0,0,0,0,4400,0,0,0,43000,0,310051,Poços de Caldas,3109,Pouso Alegre
+3130002,Ibituruna,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,313000,3,Sudeste,0,0,0,0,1619,75128,500,0,0,0,7195,0,0,7000,0,0,310043,Lavras,3108,Varginha
+3130051,Icaraí de Minas,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,313005,3,Sudeste,0,0,0,0,0,30000,474,0,0,0,2080,0,3000,0,0,0,310011,São Francisco,3102,Montes Claros
+3130101,Igarapé,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,313010,3,Sudeste,0,0,12000,0,565,50000,667,15000,7500,0,3000,0,0,6000,80000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3130200,Igaratinga,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,313020,3,Sudeste,0,0,0,0,0,30000,1000,0,0,0,6500,0,0,0,0,0,310068,Pará de Minas,3113,Divinópolis
+3130309,Iguatama,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,313030,3,Sudeste,0,0,30000,0,0,81000,2700,0,0,0,7406,3200,0,0,0,0,310066,Formiga,3113,Divinópolis
+3130408,Ijaci,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313040,3,Sudeste,0,0,0,0,1250,32000,1000,0,0,0,7399,0,0,0,0,0,310043,Lavras,3108,Varginha
+3130507,Ilicínea,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,313050,3,Sudeste,0,0,0,0,1920,0,1050,0,0,0,6600,0,0,0,0,0,310046,Três Pontas - Boa Esperança,3108,Varginha
+3130556,Imbé de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,313055,3,Sudeste,0,0,22097,0,1287,42000,440,14733,9000,0,2201,0,0,20393,62500,0,310025,Caratinga,3105,Ipatinga
+3130606,Inconfidentes,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,313060,3,Sudeste,0,0,7000,18000,1303,36250,2000,17333,0,0,4800,0,0,15000,71000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3130655,Indaiabira,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,313065,3,Sudeste,0,0,8200,0,2941,24000,488,0,0,4250,680,0,0,14000,60250,0,310008,Salinas,3102,Montes Claros
+3130705,Indianópolis,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,313070,3,Sudeste,0,0,18636,35000,1666,93000,1000,0,9000,0,8365,3700,6000,8000,88000,1200,310059,Uberlândia,3111,Uberlândia
+3130804,Ingaí,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313080,3,Sudeste,0,0,0,0,2224,0,1333,0,0,0,7020,3600,0,0,70000,1500,310043,Lavras,3108,Varginha
+3130903,Inhapim,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,313090,3,Sudeste,0,0,9985,0,1124,31400,568,20750,17000,8000,2300,0,0,30833,60000,0,310025,Caratinga,3105,Ipatinga
+3131000,Inhaúma,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,313100,3,Sudeste,0,0,13167,0,0,50000,500,0,19500,0,2000,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3131109,Inimutaba,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,313110,3,Sudeste,0,0,0,0,0,0,0,0,0,0,1000,0,0,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3131158,Ipaba,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,313115,3,Sudeste,0,0,10000,0,0,39000,750,0,0,0,1182,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3131208,Ipanema,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,313120,3,Sudeste,0,0,11000,0,0,56000,1178,12533,11000,0,4000,0,0,15000,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3131307,Ipatinga,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,313130,3,Sudeste,0,0,11500,0,1000,37000,500,0,0,0,3000,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3131406,Ipiaçu,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,313140,3,Sudeste,0,0,0,0,0,65000,0,0,0,0,6219,3350,2610,0,0,0,310060,Ituiutaba,3111,Uberlândia
+3131505,Ipuiúna,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,313150,3,Sudeste,0,0,0,41381,0,0,2250,0,0,0,5200,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3131604,Iraí de Minas,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,313160,3,Sudeste,0,0,2000,42000,871,0,2400,0,0,0,7850,3660,3235,0,0,4500,310061,Monte Carmelo,3111,Uberlândia
+3131703,Itabira,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,313170,3,Sudeste,0,0,11000,0,1500,61250,1333,8000,0,0,5000,0,0,16000,0,0,310005,Itabira,3101,Belo Horizonte
+3131802,Itabirinha,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,313180,3,Sudeste,0,0,7750,0,568,39000,1091,10000,0,16000,2111,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3131901,Itabirito,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31033,Ouro Preto,313190,3,Sudeste,0,0,9000,0,0,34375,571,5000,0,0,1507,0,0,0,0,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3132008,Itacambira,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,313200,3,Sudeste,0,0,0,0,1800,30000,382,13500,0,12000,840,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3132107,Itacarambi,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,313210,3,Sudeste,0,0,19050,0,0,37000,1853,0,0,0,9060,4200,0,0,0,0,310009,Januária,3102,Montes Claros
+3132206,Itaguara,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,313220,3,Sudeste,0,0,18000,0,0,96000,905,0,0,0,2500,0,0,20000,80000,0,310069,Oliveira,3113,Divinópolis
+3132305,Itaipé,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,313230,3,Sudeste,0,0,7105,0,690,30000,483,13000,0,0,950,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3132404,Itajubá,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,313240,3,Sudeste,0,0,1000,23000,2333,73077,800,18000,0,0,4180,0,0,0,50000,0,310052,Itajubá,3109,Pouso Alegre
+3132503,Itamarandiba,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,313250,3,Sudeste,0,0,9296,0,1639,30000,359,5000,10000,0,1650,0,0,0,56000,0,310014,Capelinha,3103,Teófilo Otoni
+3132602,Itamarati de Minas,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,313260,3,Sudeste,0,0,7571,0,736,63704,600,0,0,8000,0,0,0,8000,0,0,310032,Cataguases,3106,Juíz de Fora
+3132701,Itambacuri,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,313270,3,Sudeste,0,0,4340,0,840,49000,439,5000,0,7000,1800,0,0,4000,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3132800,Itambé do Mato Dentro,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,313280,3,Sudeste,0,0,16500,0,0,46154,1250,0,0,0,3000,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3132909,Itamogi,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,313290,3,Sudeste,0,0,3000,0,1424,79970,0,0,0,0,4355,0,0,0,0,0,310047,São Sebastião do Paraíso,3108,Varginha
+3133006,Itamonte,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,313300,3,Sudeste,0,0,0,18000,0,35000,1137,0,0,0,5788,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3133105,Itanhandu,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,313310,3,Sudeste,0,0,8000,0,0,45000,900,10000,12000,0,4500,0,0,10000,35000,0,310053,São Lourenço,3109,Pouso Alegre
+3133204,Itanhomi,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,313320,3,Sudeste,0,0,2500,0,1000,25500,750,17000,0,0,2000,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3133303,Itaobim,31,Minas Gerais,,3103,Jequitinhonha,31013,Pedra Azul,313330,3,Sudeste,0,0,12200,0,0,23000,300,0,0,14500,987,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3133402,Itapagipe,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,313340,3,Sudeste,0,0,0,0,2100,80000,0,25000,20000,0,6900,3900,0,0,0,0,310057,Frutal,3110,Uberaba
+3133501,Itapecerica,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,313350,3,Sudeste,0,0,23500,0,1559,80000,1315,22600,0,0,6000,0,0,30000,60000,0,310065,Divinópolis,3113,Divinópolis
+3133600,Itapeva,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,313360,3,Sudeste,0,0,0,28125,0,0,1000,0,0,0,4455,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3133709,Itatiaiuçu,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,313370,3,Sudeste,0,0,5000,0,0,52000,667,0,0,0,5200,0,0,19000,70000,0,310065,Divinópolis,3113,Divinópolis
+3133758,Itaú de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,313375,3,Sudeste,0,0,0,0,1429,79906,1289,0,0,0,8512,3900,0,0,0,0,310041,Passos,3108,Varginha
+3133808,Itaúna,31,Minas Gerais,RM Belo Horizonte,3109,Oeste de Minas,31043,Divinópolis,313380,3,Sudeste,0,0,8000,0,0,30000,1500,0,0,0,5500,0,0,0,64000,0,310065,Divinópolis,3113,Divinópolis
+3133907,Itaverava,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,313390,3,Sudeste,0,0,5500,28000,0,32000,303,0,0,0,5200,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3134004,Itinga,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,313400,3,Sudeste,0,0,21794,0,0,48000,547,3000,0,5000,1200,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3134103,Itueta,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,313410,3,Sudeste,0,0,9514,0,930,48000,753,12000,15000,8000,3000,0,0,16000,50000,0,310023,Aimorés - Resplendor,3104,Governador Valadares
+3134202,Ituiutaba,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,313420,3,Sudeste,0,0,12000,0,2000,65000,2667,22201,0,0,5588,3600,3000,22000,0,0,310060,Ituiutaba,3111,Uberlândia
+3134301,Itumirim,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313430,3,Sudeste,0,0,0,0,1320,87000,1569,0,0,0,6750,3840,0,0,0,2400,310043,Lavras,3108,Varginha
+3134400,Iturama,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,313440,3,Sudeste,0,0,0,0,0,75000,0,0,27000,0,6000,3120,0,10000,0,0,310058,Iturama,3110,Uberaba
+3134509,Itutinga,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313450,3,Sudeste,0,0,0,0,1485,0,2367,0,0,0,7375,3900,0,0,0,4000,310043,Lavras,3108,Varginha
+3134608,Jaboticatubas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,313460,3,Sudeste,0,0,15000,0,0,60000,1000,20000,0,16545,3500,0,0,8000,60000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3134707,Jacinto,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,313470,3,Sudeste,0,0,7000,0,0,0,300,0,0,0,800,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3134806,Jacuí,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,313480,3,Sudeste,0,0,0,0,1729,36000,429,0,10000,0,4465,3909,0,0,72593,0,310047,São Sebastião do Paraíso,3108,Varginha
+3134905,Jacutinga,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,313490,3,Sudeste,0,0,18500,0,1375,68333,1560,0,0,5000,5923,0,0,0,72714,0,310050,Pouso Alegre,3109,Pouso Alegre
+3135001,Jaguaraçu,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,313500,3,Sudeste,0,0,0,0,0,45750,500,0,0,0,4000,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3135050,Jaíba,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,313505,3,Sudeste,0,1000,21852,0,4750,79000,2159,14323,13429,15120,7000,3333,1500,30000,71701,0,310007,Janaúba,3102,Montes Claros
+3135076,Jampruca,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,313507,3,Sudeste,0,0,0,0,0,38000,286,0,0,0,1000,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3135100,Janaúba,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,313510,3,Sudeste,0,0,18307,0,0,80000,617,23000,23143,25000,2625,0,800,10000,30000,0,310007,Janaúba,3102,Montes Claros
+3135209,Januária,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,313520,3,Sudeste,0,0,20500,0,0,25000,260,7000,15000,0,1580,1090,2000,0,0,0,310009,Januária,3102,Montes Claros
+3135308,Japaraíba,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,313530,3,Sudeste,0,0,11000,0,0,98200,800,0,4000,0,4350,2553,0,0,40000,0,310065,Divinópolis,3113,Divinópolis
+3135357,Japonvar,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,313535,3,Sudeste,0,0,5000,0,0,15000,230,5000,0,0,548,0,2740,0,0,0,310006,Montes Claros,3102,Montes Claros
+3135407,Jeceaba,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31032,Itaguara,313540,3,Sudeste,0,0,14000,0,500,60000,1200,0,0,0,4000,0,0,23000,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3135456,Jenipapo de Minas,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,313545,3,Sudeste,0,0,14000,0,0,30000,825,2500,0,0,1609,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3135506,Jequeri,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,313550,3,Sudeste,0,0,5000,0,1280,62000,364,0,0,0,2400,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3135605,Jequitaí,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,313560,3,Sudeste,0,0,39000,0,0,25000,2235,0,0,0,1700,4250,1000,0,0,0,310006,Montes Claros,3102,Montes Claros
+3135704,Jequitibá,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,313570,3,Sudeste,0,0,12000,0,0,83500,1500,0,2000,12333,5308,0,0,12000,50000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3135803,Jequitinhonha,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,313580,3,Sudeste,0,0,19702,0,1438,55000,500,8000,0,16000,1292,0,0,9000,30000,0,310015,Almenara,3103,Teófilo Otoni
+3135902,Jesuânia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,313590,3,Sudeste,0,0,6000,0,1523,32000,2000,0,0,0,6200,3250,0,5000,0,0,310053,São Lourenço,3109,Pouso Alegre
+3136009,Joaíma,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,313600,3,Sudeste,0,0,9000,0,0,47000,386,0,0,0,1120,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3136108,Joanésia,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,313610,3,Sudeste,0,0,11000,0,0,35714,431,7000,0,0,1200,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3136207,João Monlevade,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,313620,3,Sudeste,0,0,0,0,0,48143,1000,0,0,0,1500,0,0,0,0,0,310026,João Monlevade,3105,Ipatinga
+3136306,João Pinheiro,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,313630,3,Sudeste,0,0,8500,0,1911,62000,2805,7000,5000,11051,4267,3460,2419,0,0,0,310062,Patos de Minas,3112,Patos de Minas
+3136405,Joaquim Felício,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,313640,3,Sudeste,0,0,18500,0,0,31000,350,4000,0,0,2500,0,4917,0,0,0,310006,Montes Claros,3102,Montes Claros
+3136504,Jordânia,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,313650,3,Sudeste,0,0,21600,0,0,30000,700,0,0,0,1200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3136520,José Gonçalves de Minas,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,313652,3,Sudeste,0,0,8167,0,600,30000,409,5000,0,0,711,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3136553,José Raydan,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,313655,3,Sudeste,0,0,18182,0,0,38889,553,0,0,0,2400,0,0,0,62500,0,310021,Guanhães,3104,Governador Valadares
+3136579,Josenópolis,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,313657,3,Sudeste,0,0,7000,0,0,30000,231,3000,0,4000,272,0,0,3000,0,0,310006,Montes Claros,3102,Montes Claros
+3136603,Nova União,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,313660,3,Sudeste,0,0,25253,0,3438,52857,600,0,0,5000,5120,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3136652,Juatuba,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,313665,3,Sudeste,0,0,19786,0,0,75000,0,0,0,0,4667,0,0,20000,44000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3136702,Juiz de Fora,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,313670,3,Sudeste,0,0,7000,0,1000,34800,1269,7000,5000,0,4871,0,0,0,42000,0,310027,Juiz de Fora,3106,Juíz de Fora
+3136801,Juramento,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,313680,3,Sudeste,0,0,0,0,0,30000,960,0,0,0,1500,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3136900,Juruaia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,313690,3,Sudeste,0,0,0,0,1694,31504,667,0,0,0,4311,0,0,0,0,0,310044,Guaxupé,3108,Varginha
+3136959,Juvenília,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,313695,3,Sudeste,0,0,0,0,0,20000,425,0,0,0,2861,0,500,0,120000,0,310009,Januária,3102,Montes Claros
+3137007,Ladainha,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,313700,3,Sudeste,0,0,11254,0,557,30000,769,11600,0,0,1980,0,6000,10000,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3137106,Lagamar,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,313710,3,Sudeste,0,0,0,0,2250,65000,2700,0,0,0,8183,3330,4000,0,0,0,310062,Patos de Minas,3112,Patos de Minas
+3137205,Lagoa da Prata,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,313720,3,Sudeste,0,0,7500,0,0,67997,600,0,0,0,6000,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3137304,Lagoa dos Patos,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,313730,3,Sudeste,0,0,0,0,0,24000,250,0,0,0,940,0,2250,0,0,0,310006,Montes Claros,3102,Montes Claros
+3137403,Lagoa Dourada,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,313740,3,Sudeste,0,0,0,0,1754,56000,1599,0,0,0,7766,3360,0,2000,81000,2400,310039,São João del Rei,3107,Barbacena
+3137502,Lagoa Formosa,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,313750,3,Sudeste,0,0,8169,0,1924,33000,2000,22500,0,7000,5571,3500,3800,23667,68333,0,310062,Patos de Minas,3112,Patos de Minas
+3137536,Lagoa Grande,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,313753,3,Sudeste,0,3220,0,0,2100,65000,2556,0,0,0,7784,3000,0,0,100000,0,310062,Patos de Minas,3112,Patos de Minas
+3137601,Lagoa Santa,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,313760,3,Sudeste,0,0,0,0,0,58154,1000,48000,10000,10000,5000,0,0,20000,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3137700,Lajinha,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,313770,3,Sudeste,0,0,5500,0,1045,30000,376,10000,0,0,2300,0,0,0,60000,0,310028,Manhuaçu,3106,Juíz de Fora
+3137809,Lambari,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,313780,3,Sudeste,0,0,10833,0,1439,35000,667,0,0,0,1905,0,0,13529,0,0,310053,São Lourenço,3109,Pouso Alegre
+3137908,Lamim,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,313790,3,Sudeste,0,0,0,0,1200,30000,838,0,0,0,3000,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3138005,Laranjal,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,313800,3,Sudeste,0,0,5000,0,0,30000,1250,0,9000,0,3000,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3138104,Lassance,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,313810,3,Sudeste,0,0,37227,0,0,50000,1432,43647,0,17000,2921,3600,0,25077,0,0,310010,Pirapora,3102,Montes Claros
+3138203,Lavras,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313820,3,Sudeste,0,0,6512,0,2252,45000,1520,12571,0,0,6900,3700,0,0,36000,1000,310043,Lavras,3108,Varginha
+3138302,Leandro Ferreira,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,313830,3,Sudeste,0,0,0,0,0,80000,864,0,0,0,3579,3250,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3138351,Leme do Prado,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,313835,3,Sudeste,0,0,4667,0,0,32000,333,4000,0,0,619,0,0,0,0,0,310014,Capelinha,3103,Teófilo Otoni
+3138401,Leopoldina,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,313840,3,Sudeste,0,0,8000,0,1000,80000,925,9000,0,7000,4500,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3138500,Liberdade,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,313850,3,Sudeste,0,0,0,21000,0,63077,469,0,0,0,5228,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3138609,Lima Duarte,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,313860,3,Sudeste,0,0,0,0,0,42000,838,0,0,0,5044,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3138625,Limeira do Oeste,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,313862,3,Sudeste,0,0,15000,0,0,79999,0,0,0,0,4200,0,0,37500,0,0,310058,Iturama,3110,Uberaba
+3138658,Lontra,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,313865,3,Sudeste,0,0,0,0,0,15625,200,0,0,0,667,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3138674,Luisburgo,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,313867,3,Sudeste,0,0,0,0,1530,30000,300,0,0,0,1503,0,0,0,50000,0,310028,Manhuaçu,3106,Juíz de Fora
+3138682,Luislândia,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,313868,3,Sudeste,0,0,3000,0,0,21000,740,4000,0,0,840,0,1000,0,0,0,310006,Montes Claros,3102,Montes Claros
+3138708,Luminárias,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,313870,3,Sudeste,0,0,0,0,2331,37000,2610,0,0,0,10160,4040,0,0,71667,2930,310043,Lavras,3108,Varginha
+3138807,Luz,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,313880,3,Sudeste,0,0,3000,0,420,82000,2273,7500,26200,0,8025,2960,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3138906,Machacalis,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,313890,3,Sudeste,0,0,0,0,0,31000,300,0,0,0,750,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3139003,Machado,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,313900,3,Sudeste,0,0,6471,30167,1506,80000,1000,20000,12000,0,6000,2620,0,0,60000,0,310042,Alfenas,3108,Varginha
+3139102,Madre de Deus de Minas,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,313910,3,Sudeste,0,0,0,0,0,36600,2045,49146,0,0,10491,3460,0,0,0,3570,310039,São João del Rei,3107,Barbacena
+3139201,Malacacheta,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,313920,3,Sudeste,0,0,8182,0,1370,34400,928,10000,0,0,3378,0,0,0,47667,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3139250,Mamonas,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,313925,3,Sudeste,0,0,0,0,0,10533,125,0,0,0,200,0,2917,0,0,0,310012,Espinosa,3102,Montes Claros
+3139300,Manga,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,313930,3,Sudeste,0,0,15000,0,0,30000,250,0,0,10000,1220,3000,0,0,0,0,310007,Janaúba,3102,Montes Claros
+3139409,Manhuaçu,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,313940,3,Sudeste,0,0,5111,0,1433,32000,300,0,5000,0,2567,0,0,5000,60714,0,310028,Manhuaçu,3106,Juíz de Fora
+3139508,Manhumirim,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,313950,3,Sudeste,0,0,5200,0,1623,0,300,0,0,0,1800,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3139607,Mantena,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,313960,3,Sudeste,0,0,7733,0,638,37953,857,0,0,20000,2742,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3139706,Maravilhas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,313970,3,Sudeste,0,0,16000,0,0,40000,1250,6000,0,0,2197,0,0,0,95000,0,310068,Pará de Minas,3113,Divinópolis
+3139805,Mar de Espanha,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,313980,3,Sudeste,0,0,12000,0,2190,70304,1200,7500,0,0,4200,0,0,10000,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3139904,Maria da Fé,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,313990,3,Sudeste,0,0,8746,26636,1505,30000,1000,6000,0,0,3600,0,0,0,62000,0,310052,Itajubá,3109,Pouso Alegre
+3140001,Mariana,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31033,Ouro Preto,314000,3,Sudeste,0,0,6000,0,2941,42800,412,10000,0,8000,1509,0,0,0,0,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3140100,Marilac,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,314010,3,Sudeste,0,0,14097,0,0,48148,411,0,0,0,6012,0,4000,0,60000,0,310020,Governador Valadares,3104,Governador Valadares
+3140159,Mário Campos,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,314015,3,Sudeste,0,0,0,0,0,30000,1000,0,0,0,6667,0,0,12000,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3140209,Maripá de Minas,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314020,3,Sudeste,0,0,11000,0,0,40783,944,10000,0,0,5100,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3140308,Marliéria,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,314030,3,Sudeste,0,0,3750,0,1500,35000,300,0,15000,0,1650,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3140407,Marmelópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,314040,3,Sudeste,0,0,0,20000,0,30000,714,0,0,0,2000,0,0,0,55000,0,310052,Itajubá,3109,Pouso Alegre
+3140506,Martinho Campos,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,314050,3,Sudeste,0,0,0,0,0,50000,2831,0,0,0,6300,3060,1260,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3140530,Martins Soares,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,314053,3,Sudeste,0,0,0,0,1445,0,808,0,0,0,2889,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3140555,Mata Verde,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,314055,3,Sudeste,0,0,10143,0,600,30000,500,0,0,0,1200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3140605,Materlândia,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,314060,3,Sudeste,0,0,10000,0,1000,32650,613,6000,0,0,2014,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3140704,Mateus Leme,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,314070,3,Sudeste,0,0,5600,0,1036,30000,600,0,4000,0,5800,0,0,31000,62500,0,310001,Belo Horizonte,3101,Belo Horizonte
+3140803,Matias Barbosa,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314080,3,Sudeste,0,0,9000,0,0,72000,3000,0,0,0,1333,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3140852,Matias Cardoso,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,314085,3,Sudeste,0,1500,21000,0,0,68636,1364,39529,25000,15800,7691,3600,3500,49600,110000,0,310007,Janaúba,3102,Montes Claros
+3140902,Matipó,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,314090,3,Sudeste,0,0,8533,0,901,32000,681,0,0,0,2800,0,0,0,30000,0,310028,Manhuaçu,3106,Juíz de Fora
+3141009,Mato Verde,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,314100,3,Sudeste,0,723,14000,0,0,30000,276,0,0,0,900,0,2618,0,0,0,310012,Espinosa,3102,Montes Claros
+3141108,Matozinhos,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,314110,3,Sudeste,0,0,0,0,0,50000,900,0,0,0,6600,3000,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3141207,Matutina,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,314120,3,Sudeste,0,0,0,30000,1750,0,1940,0,0,0,5250,0,0,0,0,0,310062,Patos de Minas,3112,Patos de Minas
+3141306,Medeiros,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,314130,3,Sudeste,0,0,7000,30000,1790,77051,2013,32302,0,0,7665,3700,0,0,0,2230,310066,Formiga,3113,Divinópolis
+3141405,Medina,31,Minas Gerais,,3103,Jequitinhonha,31013,Pedra Azul,314140,3,Sudeste,0,0,4000,0,0,21000,253,10000,0,5000,1045,0,0,0,60000,0,310018,Pedra Azul,3103,Teófilo Otoni
+3141504,Mendes Pimentel,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,314150,3,Sudeste,0,0,11000,0,0,40000,529,0,0,0,2080,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3141603,Mercês,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,314160,3,Sudeste,0,0,7818,0,706,30000,813,0,12000,0,5399,0,0,0,0,0,310029,Ubá,3106,Juíz de Fora
+3141702,Mesquita,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,314170,3,Sudeste,0,0,15000,0,0,31500,561,12000,0,0,2700,0,0,22000,0,0,310024,Ipatinga,3105,Ipatinga
+3141801,Minas Novas,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,314180,3,Sudeste,0,0,7100,0,689,18000,260,7895,0,15500,870,0,0,0,41000,0,310014,Capelinha,3103,Teófilo Otoni
+3141900,Minduri,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,314190,3,Sudeste,0,0,19000,0,3000,35000,1533,0,0,0,8900,2500,0,10000,0,3000,310054,Caxambu - Baependi,3109,Pouso Alegre
+3142007,Mirabela,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,314200,3,Sudeste,0,0,0,0,0,25000,679,0,0,0,2425,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3142106,Miradouro,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314210,3,Sudeste,0,0,7500,0,1157,32065,600,0,0,16000,6000,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3142205,Miraí,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314220,3,Sudeste,0,0,10600,0,1021,30000,360,10500,0,0,3000,0,0,0,50000,0,310031,Muriaé,3106,Juíz de Fora
+3142254,Miravânia,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,314225,3,Sudeste,0,0,0,0,0,30000,136,0,0,0,201,0,0,0,0,0,310007,Janaúba,3102,Montes Claros
+3142304,Moeda,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,314230,3,Sudeste,0,0,8000,0,2000,62000,900,0,0,0,3833,0,0,12381,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3142403,Moema,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,314240,3,Sudeste,0,0,0,0,0,74000,0,0,0,0,4512,0,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3142502,Monjolos,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,314250,3,Sudeste,0,0,0,0,0,49565,500,0,0,20000,1200,0,0,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3142601,Monsenhor Paulo,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,314260,3,Sudeste,0,0,0,25000,1720,32000,1200,0,0,0,7020,0,0,43175,0,600,310040,Varginha,3108,Varginha
+3142700,Montalvânia,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,314270,3,Sudeste,0,0,9000,0,0,50000,553,0,0,0,1450,0,0,0,130000,0,310009,Januária,3102,Montes Claros
+3142809,Monte Alegre de Minas,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,314280,3,Sudeste,0,0,15000,0,3266,88000,2183,18000,5000,16000,5784,3000,3000,30000,0,3000,310059,Uberlândia,3111,Uberlândia
+3142908,Monte Azul,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,314290,3,Sudeste,0,613,6200,0,0,17500,241,4000,0,0,672,0,1606,0,30000,0,310012,Espinosa,3102,Montes Claros
+3143005,Monte Belo,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,314300,3,Sudeste,0,0,12000,0,2426,89000,883,0,0,0,4200,0,0,0,0,0,310044,Guaxupé,3108,Varginha
+3143104,Monte Carmelo,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,314310,3,Sudeste,0,0,10000,0,1845,40000,2134,0,0,0,7015,3300,4000,7500,40000,3600,310061,Monte Carmelo,3111,Uberlândia
+3143153,Monte Formoso,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,314315,3,Sudeste,0,0,0,0,1333,20000,333,0,0,0,425,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3143203,Monte Santo de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,314320,3,Sudeste,0,0,11500,20000,1075,85000,2000,29455,0,0,8438,3000,0,40000,70000,0,310047,São Sebastião do Paraíso,3108,Varginha
+3143302,Montes Claros,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,314330,3,Sudeste,0,0,21485,0,0,33000,797,6000,0,7000,1700,2000,5950,11000,54286,0,310006,Montes Claros,3102,Montes Claros
+3143401,Monte Sião,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,314340,3,Sudeste,0,0,7000,0,1200,120000,833,6222,0,0,6095,3800,0,11429,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3143450,Montezuma,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,314345,3,Sudeste,0,0,8000,0,0,10588,163,3000,0,0,300,0,0,0,0,0,310012,Espinosa,3102,Montes Claros
+3143500,Morada Nova de Minas,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,314350,3,Sudeste,0,0,0,30000,0,30000,1714,0,0,0,6718,4089,4000,0,0,0,310070,Abaeté,3113,Divinópolis
+3143609,Morro da Garça,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,314360,3,Sudeste,0,0,0,0,0,32222,1000,0,0,0,4056,4322,0,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3143708,Morro do Pilar,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,314370,3,Sudeste,0,0,0,0,0,105079,1500,0,0,0,7300,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3143807,Munhoz,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,314380,3,Sudeste,0,0,0,29429,1538,34800,1205,0,20000,0,9600,0,0,0,81000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3143906,Muriaé,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314390,3,Sudeste,0,0,9385,0,1438,43750,1200,7000,0,0,4200,0,3704,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3144003,Mutum,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,314400,3,Sudeste,0,0,10500,0,1445,54000,767,12000,14600,7514,3600,0,0,15000,50000,0,310028,Manhuaçu,3106,Juíz de Fora
+3144102,Muzambinho,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,314410,3,Sudeste,0,0,18000,0,1625,30000,1286,0,0,0,7200,0,0,0,51000,0,310044,Guaxupé,3108,Varginha
+3144201,Nacip Raydan,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,314420,3,Sudeste,0,0,10000,0,0,30000,600,0,0,0,1435,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3144300,Nanuque,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,314430,3,Sudeste,0,0,0,0,0,36240,1000,0,0,0,5000,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3144359,Naque,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,314435,3,Sudeste,0,0,6000,0,0,34727,571,0,0,0,3654,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3144375,Natalândia,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,314437,3,Sudeste,0,0,0,0,0,41000,2100,0,0,0,3600,3091,5250,0,0,0,310063,Unaí,3112,Patos de Minas
+3144409,Natércia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,314440,3,Sudeste,0,0,6000,0,1598,60000,833,0,0,0,4304,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3144508,Nazareno,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,314450,3,Sudeste,0,0,0,0,1590,50000,1459,0,0,0,6630,3300,0,0,0,3420,310039,São João del Rei,3107,Barbacena
+3144607,Nepomuceno,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,314460,3,Sudeste,0,0,14667,0,1694,35714,1004,17000,0,0,7280,2600,0,0,0,0,310043,Lavras,3108,Varginha
+3144656,Ninheira,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,314465,3,Sudeste,0,0,14500,0,2341,21000,300,0,0,0,500,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3144672,Nova Belém,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,314467,3,Sudeste,0,0,13538,0,479,30000,600,10000,0,0,2033,0,0,5250,0,0,310022,Mantena,3104,Governador Valadares
+3144706,Nova Era,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,314470,3,Sudeste,0,0,7500,0,1667,30000,556,0,0,0,4800,0,0,0,0,0,310026,João Monlevade,3105,Ipatinga
+3144805,Nova Lima,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,314480,3,Sudeste,0,0,9000,0,1000,0,1000,5000,0,0,7000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3144904,Nova Módica,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,314490,3,Sudeste,0,0,0,0,0,36500,667,0,0,0,2000,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3145000,Nova Ponte,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,314500,3,Sudeste,0,0,8000,40000,1070,95000,2775,0,0,0,6300,3720,4200,0,0,1612,310055,Uberaba,3110,Uberaba
+3145059,Nova Porteirinha,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,314505,3,Sudeste,0,0,17500,30000,3000,90000,1500,6000,0,14063,1188,0,0,0,36667,0,310007,Janaúba,3102,Montes Claros
+3145109,Nova Resende,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,314510,3,Sudeste,0,0,7000,26500,1757,52000,1227,17000,0,0,8029,3620,0,5538,0,2560,310044,Guaxupé,3108,Varginha
+3145208,Nova Serrana,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,314520,3,Sudeste,0,0,0,0,0,32500,1000,0,0,0,1200,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3145307,Novo Cruzeiro,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,314530,3,Sudeste,0,0,7308,0,1050,82126,326,3000,0,0,1260,0,0,17000,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3145356,Novo Oriente de Minas,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,314535,3,Sudeste,0,0,4000,0,0,61680,325,0,0,0,1688,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3145372,Novorizonte,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,314537,3,Sudeste,0,0,5778,0,714,60000,238,5500,5000,24000,982,0,0,9250,0,0,310008,Salinas,3102,Montes Claros
+3145406,Olaria,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314540,3,Sudeste,0,0,4000,0,0,80000,455,0,0,0,1500,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3145455,Olhos-d'Água,31,Minas Gerais,,3102,Norte de Minas,31009,Bocaiúva,314545,3,Sudeste,0,0,0,0,0,30000,275,0,0,10000,1589,0,6250,0,63000,0,310006,Montes Claros,3102,Montes Claros
+3145505,Olímpio Noronha,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,314550,3,Sudeste,0,0,5000,0,1233,60000,0,0,0,0,1429,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3145604,Oliveira,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,314560,3,Sudeste,0,0,12000,0,1397,70000,719,17000,0,0,4200,0,0,0,50000,0,310069,Oliveira,3113,Divinópolis
+3145703,Oliveira Fortes,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314570,3,Sudeste,0,0,12000,0,0,0,600,0,0,0,2519,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3145802,Onça de Pitangui,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31029,Pará de Minas,314580,3,Sudeste,0,0,11500,0,0,70000,1000,0,0,0,5300,0,0,0,80000,0,310068,Pará de Minas,3113,Divinópolis
+3145851,Oratórios,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,314585,3,Sudeste,0,0,21333,0,1000,48500,563,0,0,0,3000,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3145877,Orizânia,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314587,3,Sudeste,0,0,8400,0,1467,30000,300,0,0,0,1290,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3145901,Ouro Branco,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,314590,3,Sudeste,0,0,7400,23083,0,30000,1167,0,0,0,7000,0,0,10000,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3146008,Ouro Fino,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,314600,3,Sudeste,0,0,5000,27111,1415,68200,647,10000,10000,0,5591,0,0,0,55000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3146107,Ouro Preto,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31033,Ouro Preto,314610,3,Sudeste,0,0,6000,20000,4000,58000,350,36000,0,4000,2300,0,0,0,73000,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3146206,Ouro Verde de Minas,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,314620,3,Sudeste,0,0,8316,0,860,43636,680,8000,0,0,1600,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3146255,Padre Carvalho,31,Minas Gerais,,3102,Norte de Minas,31008,Grão Mogol,314625,3,Sudeste,0,0,0,0,1000,30000,303,0,0,0,600,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3146305,Padre Paraíso,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,314630,3,Sudeste,0,0,5364,0,600,42000,625,4000,0,0,1200,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3146404,Paineiras,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,314640,3,Sudeste,0,0,6000,0,0,41875,1200,6000,0,0,6000,2520,5000,0,0,0,310070,Abaeté,3113,Divinópolis
+3146503,Pains,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,314650,3,Sudeste,0,0,0,0,3200,56250,1538,0,0,0,5589,3750,2000,0,30000,0,310066,Formiga,3113,Divinópolis
+3146552,Pai Pedro,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,314655,3,Sudeste,0,500,0,0,0,0,119,0,0,0,256,0,1077,0,0,0,310007,Janaúba,3102,Montes Claros
+3146602,Paiva,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314660,3,Sudeste,0,0,13333,0,1000,72500,1000,0,0,0,4200,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3146701,Palma,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,314670,3,Sudeste,0,0,20000,28000,0,25000,625,8000,10000,10000,4200,0,0,8000,0,0,310032,Cataguases,3106,Juíz de Fora
+3146750,Palmópolis,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,314675,3,Sudeste,0,0,0,0,0,40000,500,0,0,0,1167,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3146909,Papagaios,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,314690,3,Sudeste,0,0,4000,0,0,31818,2900,0,0,0,5702,2704,3000,0,62500,0,310068,Pará de Minas,3113,Divinópolis
+3147006,Paracatu,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,314700,3,Sudeste,0,0,8000,47300,2400,75000,2865,14400,0,0,5868,3800,3000,0,0,5100,310062,Patos de Minas,3112,Patos de Minas
+3147105,Pará de Minas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31029,Pará de Minas,314710,3,Sudeste,0,0,11500,0,0,42750,688,0,0,0,3125,0,0,0,70000,0,310068,Pará de Minas,3113,Divinópolis
+3147204,Paraguaçu,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,314720,3,Sudeste,0,0,29000,33333,1560,30000,1800,0,0,0,6750,3830,2111,5000,80000,0,310042,Alfenas,3108,Varginha
+3147303,Paraisópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,314730,3,Sudeste,0,0,9000,20000,2100,64838,906,0,0,0,5000,0,0,0,60000,0,310052,Itajubá,3109,Pouso Alegre
+3147402,Paraopeba,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,314740,3,Sudeste,0,0,24101,0,0,45464,1088,0,0,9000,4200,0,0,22571,70000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3147501,Passabém,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,314750,3,Sudeste,0,0,7000,0,0,43750,800,0,0,0,2000,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3147600,Passa Quatro,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,314760,3,Sudeste,0,0,11000,22000,0,45000,1400,0,0,0,5000,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3147709,Passa Tempo,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,314770,3,Sudeste,0,0,6000,0,1714,30000,525,0,0,0,5400,0,0,0,71200,0,310069,Oliveira,3113,Divinópolis
+3147808,Passa-Vinte,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,314780,3,Sudeste,0,0,0,25000,0,30000,333,0,0,0,2000,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3147907,Passos,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,314790,3,Sudeste,0,0,3500,0,1920,69400,1500,0,0,0,6857,3520,4220,0,41000,2000,310041,Passos,3108,Varginha
+3147956,Patis,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,314795,3,Sudeste,0,0,0,0,1800,30000,480,0,0,0,725,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3148004,Patos de Minas,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,314800,3,Sudeste,0,0,13037,0,1700,90000,2495,9500,0,0,7737,3273,3060,18750,86579,2158,310062,Patos de Minas,3112,Patos de Minas
+3148103,Patrocínio,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,314810,3,Sudeste,0,4950,9000,25000,1450,30000,2463,38500,11250,15000,6009,3560,3470,20000,73600,2800,310064,Patrocínio,3112,Patos de Minas
+3148202,Patrocínio do Muriaé,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314820,3,Sudeste,0,0,6500,0,0,37500,545,0,0,0,5000,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3148301,Paula Cândido,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,314830,3,Sudeste,0,0,7000,0,1371,33350,830,0,0,0,3900,0,0,0,63200,0,310033,Viçosa,3106,Juíz de Fora
+3148400,Paulistas,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,314840,3,Sudeste,0,0,8500,0,0,30000,350,0,0,0,2100,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3148509,Pavão,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,314850,3,Sudeste,0,0,10000,0,0,30000,400,0,0,0,1833,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3148608,Peçanha,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,314860,3,Sudeste,0,0,10500,0,1326,30000,338,0,0,0,1200,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3148707,Pedra Azul,31,Minas Gerais,,3103,Jequitinhonha,31013,Pedra Azul,314870,3,Sudeste,0,0,8000,0,1500,34545,333,8000,0,22500,958,0,0,0,0,0,310018,Pedra Azul,3103,Teófilo Otoni
+3148756,Pedra Bonita,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,314875,3,Sudeste,0,0,6000,24000,858,48400,302,0,0,0,1500,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3148806,Pedra do Anta,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,314880,3,Sudeste,0,0,7000,0,1185,53520,943,0,0,0,4046,0,0,6000,60000,0,310033,Viçosa,3106,Juíz de Fora
+3148905,Pedra do Indaiá,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,314890,3,Sudeste,0,0,8000,0,0,38000,452,0,0,0,6400,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3149002,Pedra Dourada,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,314900,3,Sudeste,0,0,9000,0,1338,60000,800,0,0,0,4500,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3149101,Pedralva,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,314910,3,Sudeste,0,0,7500,20720,1427,30000,1000,8000,0,0,5259,0,0,13200,60000,0,310052,Itajubá,3109,Pouso Alegre
+3149150,Pedras de Maria da Cruz,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,314915,3,Sudeste,0,0,25019,0,0,33250,302,0,0,0,275,0,0,0,0,0,310009,Januária,3102,Montes Claros
+3149200,Pedrinópolis,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,314920,3,Sudeste,0,0,11000,47263,419,72400,0,0,0,0,7950,3696,4660,0,0,2040,310056,Araxá,3110,Uberaba
+3149309,Pedro Leopoldo,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,314930,3,Sudeste,0,0,10000,0,0,0,1400,0,0,0,3000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3149408,Pedro Teixeira,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314940,3,Sudeste,0,0,0,0,0,40000,788,4000,0,0,2038,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3149507,Pequeri,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,314950,3,Sudeste,0,0,12000,0,0,61250,1150,10000,0,0,4200,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3149606,Pequi,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,314960,3,Sudeste,0,0,14000,0,0,50000,2702,7500,0,6000,4000,0,0,0,61667,0,310068,Pará de Minas,3113,Divinópolis
+3149705,Perdigão,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,314970,3,Sudeste,0,0,8000,0,0,30000,545,0,0,0,3404,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3149804,Perdizes,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,314980,3,Sudeste,0,0,11000,41256,2067,82500,2618,11800,11000,0,8432,3420,2330,0,0,2330,310056,Araxá,3110,Uberaba
+3149903,Perdões,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,314990,3,Sudeste,0,0,10667,0,1840,64000,2047,15875,0,0,8121,0,0,14645,0,0,310043,Lavras,3108,Varginha
+3149952,Periquito,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,314995,3,Sudeste,0,0,5000,0,1000,33000,250,0,0,0,4367,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3150000,Pescador,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,315000,3,Sudeste,0,0,0,0,0,30000,1000,0,0,0,1200,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3150109,Piau,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315010,3,Sudeste,0,0,6500,0,0,34000,455,16000,4667,0,2824,0,0,14259,35000,0,310027,Juiz de Fora,3106,Juíz de Fora
+3150158,Piedade de Caratinga,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,315015,3,Sudeste,0,0,11000,0,1590,50000,800,14000,10000,0,2280,0,0,15000,68000,0,310025,Caratinga,3105,Ipatinga
+3150208,Piedade de Ponte Nova,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315020,3,Sudeste,0,0,5000,0,0,56000,667,0,0,0,2813,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3150307,Piedade do Rio Grande,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315030,3,Sudeste,0,0,0,0,0,30000,1151,0,0,0,8260,3660,0,0,0,2150,310039,São João del Rei,3107,Barbacena
+3150406,Piedade dos Gerais,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31032,Itaguara,315040,3,Sudeste,0,0,16000,31000,0,80000,311,28000,10000,10000,9273,0,0,14500,0,0,310069,Oliveira,3113,Divinópolis
+3150505,Pimenta,31,Minas Gerais,,3109,Oeste de Minas,31044,Formiga,315050,3,Sudeste,0,0,5000,36000,1727,36000,2169,0,0,0,7364,3640,4200,0,66250,0,310066,Formiga,3113,Divinópolis
+3150539,Pingo-d'Água,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,315053,3,Sudeste,0,0,8000,0,0,39000,750,0,0,0,3364,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3150570,Pintópolis,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,315057,3,Sudeste,0,0,0,0,0,25000,481,0,0,0,1532,0,0,0,0,0,310011,São Francisco,3102,Montes Claros
+3150604,Piracema,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,315060,3,Sudeste,0,0,15000,0,1333,38000,500,0,0,0,4300,0,0,15000,56000,0,310069,Oliveira,3113,Divinópolis
+3150703,Pirajuba,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,315070,3,Sudeste,0,0,0,0,0,85000,2600,0,0,0,6559,3350,4150,0,0,0,310057,Frutal,3110,Uberaba
+3150802,Piranga,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,315080,3,Sudeste,0,0,7000,0,2500,56000,1007,5000,0,0,4500,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3150901,Piranguçu,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,315090,3,Sudeste,0,0,7755,0,1200,41000,714,5600,0,0,3911,0,0,0,0,0,310052,Itajubá,3109,Pouso Alegre
+3151008,Piranguinho,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,315100,3,Sudeste,0,0,5500,0,1410,50000,1333,33000,0,0,6667,0,0,0,60000,0,310052,Itajubá,3109,Pouso Alegre
+3151107,Pirapetinga,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,315110,3,Sudeste,0,0,20000,0,0,49231,1000,14000,0,0,2500,0,0,0,0,0,310036,Além Paraíba,3106,Juíz de Fora
+3151206,Pirapora,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,315120,3,Sudeste,0,0,24600,0,1941,68209,2154,37315,0,27500,3680,3750,0,29605,0,0,310010,Pirapora,3102,Montes Claros
+3151305,Piraúba,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,315130,3,Sudeste,0,0,7000,0,0,73733,933,15333,3688,10408,3698,0,0,11724,81700,0,310029,Ubá,3106,Juíz de Fora
+3151404,Pitangui,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31029,Pará de Minas,315140,3,Sudeste,0,0,0,0,0,62000,422,0,0,0,3700,0,0,0,62500,0,310065,Divinópolis,3113,Divinópolis
+3151503,Piumhi,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,315150,3,Sudeste,0,0,0,0,1362,58000,1537,24000,0,0,7030,3200,0,0,62000,0,310049,Piumhi,3108,Varginha
+3151602,Planura,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,315160,3,Sudeste,0,0,0,0,0,81100,2401,40084,0,0,5757,3405,3800,0,0,0,310057,Frutal,3110,Uberaba
+3151701,Poço Fundo,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,315170,3,Sudeste,0,0,9000,25667,1200,60000,827,0,0,0,6021,0,0,0,65000,0,310042,Alfenas,3108,Varginha
+3151800,Poços de Caldas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,315180,3,Sudeste,0,0,14000,20000,1766,60000,1563,0,0,0,7200,3714,0,26500,63000,0,310051,Poços de Caldas,3109,Pouso Alegre
+3151909,Pocrane,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,315190,3,Sudeste,0,0,10500,0,1320,49000,900,11000,14000,8000,3000,0,0,14500,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3152006,Pompéu,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,315200,3,Sudeste,0,0,6000,0,0,60000,2398,0,0,15000,8646,3120,0,10000,63500,0,310067,Dores do Indaiá,3113,Divinópolis
+3152105,Ponte Nova,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315210,3,Sudeste,0,0,5000,27500,1167,53000,671,5000,28000,30000,4400,0,0,20000,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3152131,Ponto Chique,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,315213,3,Sudeste,0,0,5000,0,0,44000,177,0,0,0,571,0,0,0,0,0,310010,Pirapora,3102,Montes Claros
+3152170,Ponto dos Volantes,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,315217,3,Sudeste,0,0,20000,0,384,24000,210,5000,0,0,1180,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3152204,Porteirinha,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,315220,3,Sudeste,0,0,12875,0,0,30000,209,4000,3000,2000,151,0,640,4000,20000,0,310007,Janaúba,3102,Montes Claros
+3152303,Porto Firme,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,315230,3,Sudeste,0,0,8000,0,1200,40000,1165,0,10000,0,4800,0,0,0,0,0,310033,Viçosa,3106,Juíz de Fora
+3152402,Poté,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,315240,3,Sudeste,0,0,4579,0,597,31855,680,7231,0,0,2320,0,4667,7000,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3152501,Pouso Alegre,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,315250,3,Sudeste,0,0,0,28667,1406,35000,1492,0,0,0,6900,3036,0,12222,67500,0,310050,Pouso Alegre,3109,Pouso Alegre
+3152600,Pouso Alto,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,315260,3,Sudeste,0,0,12000,0,1500,0,1387,0,0,0,6000,0,0,0,40000,0,310053,São Lourenço,3109,Pouso Alegre
+3152709,Prados,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315270,3,Sudeste,0,0,0,0,1000,50000,1232,0,0,0,5746,0,0,0,0,3000,310039,São João del Rei,3107,Barbacena
+3152808,Prata,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,315280,3,Sudeste,0,0,12000,0,1000,80002,2100,25000,12000,10000,5095,3300,2700,15000,0,0,310059,Uberlândia,3111,Uberlândia
+3152907,Pratápolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,315290,3,Sudeste,0,0,25179,0,1625,89941,1488,12000,0,10000,8440,4417,0,0,0,0,310041,Passos,3108,Varginha
+3153004,Pratinha,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,315300,3,Sudeste,0,0,0,38919,1724,37273,2200,0,0,0,8370,2970,1444,0,0,3000,310056,Araxá,3110,Uberaba
+3153103,Presidente Bernardes,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,315310,3,Sudeste,0,0,0,0,1200,41200,1044,0,0,0,4200,0,0,0,0,0,310033,Viçosa,3106,Juíz de Fora
+3153202,Presidente Juscelino,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,315320,3,Sudeste,0,0,0,0,0,30000,1900,0,0,10000,2700,0,0,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3153301,Presidente Kubitschek,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,315330,3,Sudeste,0,0,5000,0,2133,20000,320,0,0,0,1815,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3153400,Presidente Olegário,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,315340,3,Sudeste,0,3900,5400,25000,1840,90000,2571,15000,0,0,8644,3450,4000,0,100000,5400,310062,Patos de Minas,3112,Patos de Minas
+3153509,Alto Jequitibá,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,315350,3,Sudeste,0,0,0,0,1532,31875,360,0,0,0,2100,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3153608,Prudente de Morais,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,315360,3,Sudeste,0,0,0,0,0,50000,1308,0,0,0,3500,0,7143,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3153707,Quartel Geral,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,315370,3,Sudeste,0,0,0,0,4119,50000,0,0,0,0,6000,4800,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3153806,Queluzito,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,315380,3,Sudeste,0,0,0,0,0,0,1615,10000,0,0,8313,0,0,10000,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3153905,Raposos,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,315390,3,Sudeste,0,0,0,0,2000,30000,0,0,0,0,0,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3154002,Raul Soares,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315400,3,Sudeste,0,0,5000,0,857,34000,300,12000,9000,6000,1200,0,0,9000,55000,0,310025,Caratinga,3105,Ipatinga
+3154101,Recreio,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,315410,3,Sudeste,0,0,0,0,1000,57500,1214,0,0,0,4800,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3154150,Reduto,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,315415,3,Sudeste,0,0,0,0,1258,0,1000,0,0,0,4000,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3154200,Resende Costa,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315420,3,Sudeste,0,0,0,0,0,30000,874,0,0,0,5878,3350,0,0,80000,2800,310039,São João del Rei,3107,Barbacena
+3154309,Resplendor,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,315430,3,Sudeste,0,0,10000,0,897,50000,609,12500,12000,8000,2964,0,0,14000,0,0,310023,Aimorés - Resplendor,3104,Governador Valadares
+3154408,Ressaquinha,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,315440,3,Sudeste,0,0,0,36000,0,78000,1500,0,16000,0,9200,2938,0,0,70000,3352,310037,Barbacena,3107,Barbacena
+3154457,Riachinho,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,315445,3,Sudeste,0,0,17000,0,0,30000,786,48571,3000,0,4200,2800,6632,40000,0,0,310063,Unaí,3112,Patos de Minas
+3154507,Riacho dos Machados,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,315450,3,Sudeste,0,0,9000,0,0,17500,226,0,0,0,500,0,2000,0,12000,0,310007,Janaúba,3102,Montes Claros
+3154606,Ribeirão das Neves,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,315460,3,Sudeste,0,0,0,0,0,77000,1000,0,0,0,4000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3154705,Ribeirão Vermelho,31,Minas Gerais,,3111,Campo das Vertentes,31057,Lavras,315470,3,Sudeste,0,0,5000,0,1506,66000,1500,0,0,0,6296,0,0,0,0,0,310043,Lavras,3108,Varginha
+3154804,Rio Acima,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,315480,3,Sudeste,0,0,5000,0,0,35000,1500,0,0,0,5000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3154903,Rio Casca,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315490,3,Sudeste,0,0,5000,0,500,57000,1367,0,0,0,1600,0,0,9000,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3155009,Rio Doce,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315500,3,Sudeste,0,0,0,0,0,70209,333,0,0,0,3111,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3155108,Rio do Prado,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,315510,3,Sudeste,0,0,0,0,0,0,300,0,0,0,900,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3155207,Rio Espera,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,315520,3,Sudeste,0,0,10000,0,1000,42000,900,0,0,0,4200,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3155306,Rio Manso,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31032,Itaguara,315530,3,Sudeste,0,0,0,0,0,40000,1000,0,0,0,4000,0,0,15000,60000,0,310069,Oliveira,3113,Divinópolis
+3155405,Rio Novo,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315540,3,Sudeste,0,0,0,0,0,70000,667,0,0,0,6250,0,0,10000,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3155504,Rio Paranaíba,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,315550,3,Sudeste,0,0,0,36500,1395,0,1845,0,0,0,9770,3720,2500,0,76000,3800,310062,Patos de Minas,3112,Patos de Minas
+3155603,Rio Pardo de Minas,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,315560,3,Sudeste,0,0,10533,0,2179,56128,778,9143,0,6000,600,0,0,12111,53000,0,310008,Salinas,3102,Montes Claros
+3155702,Rio Piracicaba,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,315570,3,Sudeste,0,0,7500,0,0,47000,1000,0,0,0,3298,0,0,0,0,0,310026,João Monlevade,3105,Ipatinga
+3155801,Rio Pomba,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,315580,3,Sudeste,0,0,5000,0,0,33000,1260,8000,0,28125,4500,0,0,22333,50000,0,310029,Ubá,3106,Juíz de Fora
+3155900,Rio Preto,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315590,3,Sudeste,0,0,12000,0,0,41000,500,0,0,0,5286,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3156007,Rio Vermelho,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,315600,3,Sudeste,0,0,9000,0,900,80000,645,0,0,0,1900,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3156106,Ritápolis,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315610,3,Sudeste,0,0,0,0,1815,77500,925,0,0,0,5000,0,0,0,0,3600,310039,São João del Rei,3107,Barbacena
+3156205,Rochedo de Minas,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315620,3,Sudeste,0,0,0,0,0,50000,500,0,0,0,0,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3156304,Rodeiro,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,315630,3,Sudeste,0,0,0,0,0,30000,533,0,0,8824,3000,0,0,19200,50000,0,310029,Ubá,3106,Juíz de Fora
+3156403,Romaria,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,315640,3,Sudeste,0,0,9000,0,1526,89541,1629,0,18000,0,8843,3760,3800,0,55000,3568,310061,Monte Carmelo,3111,Uberlândia
+3156452,Rosário da Limeira,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,315645,3,Sudeste,0,0,5000,0,783,30000,700,5000,0,0,3500,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3156502,Rubelita,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,315650,3,Sudeste,0,0,10500,0,0,53000,338,3000,0,0,699,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3156601,Rubim,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,315660,3,Sudeste,0,0,9000,0,1083,0,286,0,0,0,597,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3156700,Sabará,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,315670,3,Sudeste,0,0,10000,0,1400,40000,600,0,0,0,1167,0,0,0,70000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3156809,Sabinópolis,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,315680,3,Sudeste,0,0,12250,0,1250,40000,346,18000,24000,0,2520,0,0,23000,60000,0,310021,Guanhães,3104,Governador Valadares
+3156908,Sacramento,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,315690,3,Sudeste,0,0,0,34375,1313,81000,2033,20000,20000,19000,8862,3500,5000,0,80000,1904,310055,Uberaba,3110,Uberaba
+3157005,Salinas,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,315700,3,Sudeste,0,0,14581,18000,1167,30000,288,7125,8000,15000,1170,0,3826,12000,50000,0,310008,Salinas,3102,Montes Claros
+3157104,Salto da Divisa,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,315710,3,Sudeste,0,0,10000,0,0,0,400,0,0,0,600,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3157203,Santa Bárbara,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,315720,3,Sudeste,0,0,6500,0,1167,34000,944,0,0,0,3000,0,0,0,0,0,310003,Santa Bárbara - Ouro Preto,3101,Belo Horizonte
+3157252,Santa Bárbara do Leste,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,315725,3,Sudeste,0,0,6267,0,908,60000,547,6000,11000,12800,4503,0,0,30000,68571,0,310025,Caratinga,3105,Ipatinga
+3157278,Santa Bárbara do Monte Verde,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315727,3,Sudeste,0,0,0,0,667,34000,600,0,0,0,1500,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3157302,Santa Bárbara do Tugúrio,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,315730,3,Sudeste,0,0,6000,0,400,62353,527,0,0,0,2200,0,0,0,31000,0,310037,Barbacena,3107,Barbacena
+3157336,Santa Cruz de Minas,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315733,3,Sudeste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310039,São João del Rei,3107,Barbacena
+3157377,Santa Cruz de Salinas,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,315737,3,Sudeste,0,0,5000,0,500,18000,108,8000,0,0,166,0,0,0,0,0,310008,Salinas,3102,Montes Claros
+3157401,Santa Cruz do Escalvado,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,315740,3,Sudeste,0,0,11000,0,0,45000,308,0,0,0,1200,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3157500,Santa Efigênia de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,315750,3,Sudeste,0,0,14333,0,667,30000,400,0,0,0,2455,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3157609,Santa Fé de Minas,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,315760,3,Sudeste,0,0,0,0,0,30000,2400,0,0,0,1600,0,0,0,0,0,310010,Pirapora,3102,Montes Claros
+3157658,Santa Helena de Minas,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,315765,3,Sudeste,0,0,5136,0,0,50000,545,0,0,0,2184,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3157708,Santa Juliana,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,315770,3,Sudeste,0,0,0,42432,0,80000,3455,0,0,0,9970,3420,4900,0,0,3733,310055,Uberaba,3110,Uberaba
+3157807,Santa Luzia,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,315780,3,Sudeste,0,0,12500,0,0,95000,0,0,0,0,0,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3157906,Santa Margarida,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,315790,3,Sudeste,0,0,18000,0,1200,33333,507,0,0,0,2800,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3158003,Santa Maria de Itabira,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,315800,3,Sudeste,0,0,17500,0,0,60000,1800,0,0,0,5857,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3158102,Santa Maria do Salto,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,315810,3,Sudeste,0,0,7000,0,1154,30000,500,0,0,0,2200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3158201,Santa Maria do Suaçuí,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,315820,3,Sudeste,0,0,9000,0,667,26000,400,0,0,0,2600,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3158300,Santana da Vargem,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,315830,3,Sudeste,0,0,13500,0,2092,31000,969,0,0,0,7081,3500,0,0,50000,3000,310046,Três Pontas - Boa Esperança,3108,Varginha
+3158409,Santana de Cataguases,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,315840,3,Sudeste,0,0,6000,0,0,0,1000,0,0,20000,3000,0,0,0,0,0,310032,Cataguases,3106,Juíz de Fora
+3158508,Santana de Pirapama,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,315850,3,Sudeste,0,0,11067,0,0,35500,694,0,11000,22000,1703,0,0,14000,55000,0,310002,Sete Lagoas,3101,Belo Horizonte
+3158607,Santana do Deserto,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315860,3,Sudeste,0,0,0,0,0,40400,444,10500,0,0,11846,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3158706,Santana do Garambéu,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,315870,3,Sudeste,0,0,20500,0,1667,42000,307,0,0,0,3033,0,0,0,0,0,310037,Barbacena,3107,Barbacena
+3158805,Santana do Jacaré,31,Minas Gerais,,3109,Oeste de Minas,31045,Campo Belo,315880,3,Sudeste,0,0,0,0,1200,0,900,0,0,0,4200,0,0,0,0,0,310048,Campo Belo,3108,Varginha
+3158904,Santana do Manhuaçu,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,315890,3,Sudeste,0,0,10000,0,1283,30000,400,6143,0,0,1320,0,0,5000,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3158953,Santana do Paraíso,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,315895,3,Sudeste,0,0,7000,0,545,30857,1000,0,0,0,1250,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3159001,Santana do Riacho,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,315900,3,Sudeste,0,0,6000,0,0,30000,615,0,0,0,2000,0,0,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3159100,Santana dos Montes,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,315910,3,Sudeste,0,0,0,0,0,40000,906,0,0,0,4200,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3159209,Santa Rita de Caldas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31051,Poços de Caldas,315920,3,Sudeste,0,0,0,28625,2182,66429,2679,4032,0,0,7300,0,0,0,0,0,310051,Poços de Caldas,3109,Pouso Alegre
+3159308,Santa Rita de Jacutinga,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315930,3,Sudeste,0,0,7000,0,0,78000,2000,0,0,0,4400,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3159357,Santa Rita de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,315935,3,Sudeste,0,0,7000,0,1252,0,323,5000,0,0,1329,0,0,10000,70000,0,310025,Caratinga,3105,Ipatinga
+3159407,Santa Rita de Ibitipoca,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,315940,3,Sudeste,0,0,0,0,0,94444,857,0,0,0,6194,0,0,0,0,0,310037,Barbacena,3107,Barbacena
+3159506,Santa Rita do Itueto,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,315950,3,Sudeste,0,0,11000,0,1320,54000,700,12000,13000,8500,2500,0,0,20000,0,0,310023,Aimorés - Resplendor,3104,Governador Valadares
+3159605,Santa Rita do Sapucaí,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,315960,3,Sudeste,0,0,8571,28500,1786,38000,1276,5000,0,0,6788,3402,0,5000,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3159704,Santa Rosa da Serra,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,315970,3,Sudeste,0,0,0,0,1625,44762,2711,0,0,0,4500,0,0,0,0,0,310056,Araxá,3110,Uberaba
+3159803,Santa Vitória,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31017,Ituiutaba,315980,3,Sudeste,0,0,10000,0,0,70000,0,0,0,0,6751,3270,4200,0,0,0,310060,Ituiutaba,3111,Uberlândia
+3159902,Santo Antônio do Amparo,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,315990,3,Sudeste,0,0,0,0,1341,55000,1556,8000,0,0,7200,0,0,25714,0,0,310043,Lavras,3108,Varginha
+3160009,Santo Antônio do Aventureiro,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,316000,3,Sudeste,0,0,4000,0,0,39000,1250,10000,0,0,2000,0,0,0,40000,0,310036,Além Paraíba,3106,Juíz de Fora
+3160108,Santo Antônio do Grama,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,316010,3,Sudeste,0,0,0,0,3333,51000,429,0,0,0,2692,0,0,0,65000,0,310030,Ponte Nova,3106,Juíz de Fora
+3160207,Santo Antônio do Itambé,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,316020,3,Sudeste,0,0,22000,0,0,30000,1688,0,0,0,3000,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3160306,Santo Antônio do Jacinto,31,Minas Gerais,,3103,Jequitinhonha,31014,Almenara,316030,3,Sudeste,0,0,7000,0,0,30000,443,0,0,0,1200,0,0,0,0,0,310015,Almenara,3103,Teófilo Otoni
+3160405,Santo Antônio do Monte,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,316040,3,Sudeste,0,0,3500,0,1083,80000,463,0,18000,0,4200,0,1833,0,41000,0,310065,Divinópolis,3113,Divinópolis
+3160454,Santo Antônio do Retiro,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,316045,3,Sudeste,0,0,10341,0,933,26000,623,16667,0,4000,833,0,0,13750,59000,0,310012,Espinosa,3102,Montes Claros
+3160504,Santo Antônio do Rio Abaixo,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,316050,3,Sudeste,0,0,5000,0,0,71667,500,0,0,0,1857,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3160603,Santo Hipólito,31,Minas Gerais,,3106,Central Mineira,31025,Curvelo,316060,3,Sudeste,0,0,0,0,0,43000,308,0,0,12500,2900,0,1000,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3160702,Santos Dumont,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,316070,3,Sudeste,0,0,4314,0,0,58235,760,0,0,0,5500,0,0,0,30000,0,310027,Juiz de Fora,3106,Juíz de Fora
+3160801,São Bento Abade,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,316080,3,Sudeste,0,0,0,40000,2413,0,2100,0,0,0,10420,3800,0,0,0,3421,310045,Três Corações,3108,Varginha
+3160900,São Brás do Suaçuí,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31034,Conselheiro Lafaiete,316090,3,Sudeste,0,0,0,0,0,0,1606,0,0,14800,3000,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3160959,São Domingos das Dores,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,316095,3,Sudeste,0,0,12000,0,1684,0,900,10000,10000,0,7875,0,0,12000,54000,0,310025,Caratinga,3105,Ipatinga
+3161007,São Domingos do Prata,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31031,Itabira,316100,3,Sudeste,0,0,7389,0,699,42063,753,6000,0,0,2155,0,0,0,41000,0,310026,João Monlevade,3105,Ipatinga
+3161056,São Félix de Minas,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,316105,3,Sudeste,0,0,9000,0,0,32500,789,8000,0,0,2000,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3161106,São Francisco,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,316110,3,Sudeste,0,0,36471,0,0,30000,370,8000,0,4000,590,0,900,0,0,0,310011,São Francisco,3102,Montes Claros
+3161205,São Francisco de Paula,31,Minas Gerais,,3109,Oeste de Minas,31046,Oliveira,316120,3,Sudeste,0,0,0,0,1560,60000,1300,15000,0,0,5400,3000,0,30000,0,0,310069,Oliveira,3113,Divinópolis
+3161304,São Francisco de Sales,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,316130,3,Sudeste,0,0,0,0,0,80000,0,0,0,21500,2400,3650,0,0,0,0,310058,Iturama,3110,Uberaba
+3161403,São Francisco do Glória,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,316140,3,Sudeste,0,0,0,0,800,50000,364,0,0,0,3615,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3161502,São Geraldo,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316150,3,Sudeste,0,0,5000,0,586,30556,1000,16154,0,0,3600,0,0,22000,75200,0,310029,Ubá,3106,Juíz de Fora
+3161601,São Geraldo da Piedade,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,316160,3,Sudeste,0,0,4079,0,0,58000,400,0,0,0,1792,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3161650,São Geraldo do Baixio,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,316165,3,Sudeste,0,0,7000,0,0,42466,1333,0,0,5000,3000,0,2600,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3161700,São Gonçalo do Abaeté,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,316170,3,Sudeste,0,4050,12000,0,2000,90000,2218,0,0,0,7980,2900,0,0,100000,3700,310062,Patos de Minas,3112,Patos de Minas
+3161809,São Gonçalo do Pará,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,316180,3,Sudeste,0,0,0,0,0,50000,375,4000,0,0,3000,0,0,12000,0,0,310065,Divinópolis,3113,Divinópolis
+3161908,São Gonçalo do Rio Abaixo,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,316190,3,Sudeste,0,0,15235,0,4000,55000,1000,10000,0,0,5429,0,0,0,0,0,310026,João Monlevade,3105,Ipatinga
+3162005,São Gonçalo do Sapucaí,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316200,3,Sudeste,0,0,12125,32350,2041,48000,1545,8500,10000,0,8510,3520,0,16303,77500,2250,310040,Varginha,3108,Varginha
+3162104,São Gotardo,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,316210,3,Sudeste,0,0,5524,21167,1438,52000,2293,0,0,0,9220,3470,0,0,67500,4150,310062,Patos de Minas,3112,Patos de Minas
+3162203,São João Batista do Glória,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,316220,3,Sudeste,0,0,15000,0,1667,73838,1743,0,0,0,6406,4060,3700,0,0,1860,310041,Passos,3108,Varginha
+3162252,São João da Lagoa,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,316225,3,Sudeste,0,0,5000,0,0,25000,306,7000,0,0,3200,0,5882,0,50000,0,310006,Montes Claros,3102,Montes Claros
+3162302,São João da Mata,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316230,3,Sudeste,0,0,10000,29138,1501,80000,658,0,0,0,7035,0,0,0,55000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3162401,São João da Ponte,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,316240,3,Sudeste,0,0,31194,0,0,30000,300,3000,0,0,900,0,2800,0,0,0,310006,Montes Claros,3102,Montes Claros
+3162450,São João das Missões,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,316245,3,Sudeste,0,0,7000,0,0,20000,738,0,0,0,1200,0,0,0,0,0,310009,Januária,3102,Montes Claros
+3162500,São João del Rei,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,316250,3,Sudeste,0,0,0,35000,1749,41000,2049,21401,0,0,10070,3480,0,8950,50000,3140,310039,São João del Rei,3107,Barbacena
+3162559,São João do Manhuaçu,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,316255,3,Sudeste,0,0,0,0,1703,0,464,7000,0,0,2300,0,0,0,66000,0,310028,Manhuaçu,3106,Juíz de Fora
+3162575,São João do Manteninha,31,Minas Gerais,,3108,Vale do Rio Doce,31038,Mantena,316257,3,Sudeste,0,0,5000,0,650,31000,1000,0,0,6100,1667,0,0,0,0,0,310022,Mantena,3104,Governador Valadares
+3162609,São João do Oriente,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,316260,3,Sudeste,0,0,6500,24000,0,0,333,0,0,12000,1800,0,0,0,70000,0,310024,Ipatinga,3105,Ipatinga
+3162658,São João do Pacuí,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,316265,3,Sudeste,0,0,6000,0,0,30000,293,6000,0,0,900,0,5500,0,0,0,310006,Montes Claros,3102,Montes Claros
+3162708,São João do Paraíso,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,316270,3,Sudeste,0,0,5526,0,591,78033,300,5500,0,0,690,0,0,14000,0,0,310008,Salinas,3102,Montes Claros
+3162807,São João Evangelista,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,316280,3,Sudeste,0,0,18333,0,0,45500,1500,0,0,0,1479,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3162906,São João Nepomuceno,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,316290,3,Sudeste,0,0,8207,0,0,52250,667,21000,0,0,5650,0,0,14000,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3162922,São Joaquim de Bicas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,316292,3,Sudeste,0,0,36000,0,0,30000,1000,0,0,0,3500,0,0,0,60000,0,310001,Belo Horizonte,3101,Belo Horizonte
+3162948,São José da Barra,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31047,Passos,316294,3,Sudeste,0,0,7000,0,1913,73778,500,0,12000,0,5567,3560,6000,0,0,0,310041,Passos,3108,Varginha
+3162955,São José da Lapa,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,316295,3,Sudeste,0,0,0,0,0,0,0,0,0,0,8000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3163003,São José da Safira,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,316300,3,Sudeste,0,0,30000,0,0,0,313,0,0,0,3500,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3163102,São José da Varginha,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31029,Pará de Minas,316310,3,Sudeste,0,0,12143,0,0,0,500,0,0,0,9000,0,0,0,68750,0,310068,Pará de Minas,3113,Divinópolis
+3163201,São José do Alegre,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316320,3,Sudeste,0,0,5500,18000,1100,71538,1000,10000,0,0,2000,0,0,20000,0,0,310052,Itajubá,3109,Pouso Alegre
+3163300,São José do Divino,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,316330,3,Sudeste,0,0,0,0,0,37931,0,15000,0,0,1000,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3163409,São José do Goiabal,31,Minas Gerais,RM Vale do Aço,3107,Metropolitana de Belo Horizonte,31031,Itabira,316340,3,Sudeste,0,0,15000,0,500,90501,905,18000,0,0,2500,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3163508,São José do Jacuri,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,316350,3,Sudeste,0,0,8111,0,0,31667,540,0,0,0,2200,0,0,0,60000,0,310021,Guanhães,3104,Governador Valadares
+3163607,São José do Mantimento,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,316360,3,Sudeste,0,0,0,0,1200,30000,640,0,0,0,2407,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3163706,São Lourenço,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,316370,3,Sudeste,0,0,0,0,1774,0,0,0,0,0,1333,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3163805,São Miguel do Anta,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,316380,3,Sudeste,0,0,7000,0,1020,40000,739,0,0,0,3900,0,0,18500,50000,0,310033,Viçosa,3106,Juíz de Fora
+3163904,São Pedro da União,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,316390,3,Sudeste,0,0,0,0,1687,0,1667,13000,0,0,6585,3800,0,19000,0,2120,310044,Guaxupé,3108,Varginha
+3164001,São Pedro dos Ferros,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,316400,3,Sudeste,0,0,3000,0,0,60000,286,5000,0,0,1302,0,0,8000,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3164100,São Pedro do Suaçuí,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,316410,3,Sudeste,0,0,0,0,0,34667,359,0,0,0,2300,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3164209,São Romão,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,316420,3,Sudeste,0,4350,0,0,0,57000,1815,0,0,0,8665,1305,0,0,0,0,310011,São Francisco,3102,Montes Claros
+3164308,São Roque de Minas,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,316430,3,Sudeste,0,0,15000,30000,1463,40000,1855,0,0,7000,7358,3540,2692,10000,0,0,310049,Piumhi,3108,Varginha
+3164407,São Sebastião da Bela Vista,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316440,3,Sudeste,0,0,0,29129,1584,54000,1782,0,0,0,7350,4320,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3164431,São Sebastião da Vargem Alegre,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,316443,3,Sudeste,0,0,6000,0,1273,0,600,0,0,0,2000,0,0,0,40000,0,310031,Muriaé,3106,Juíz de Fora
+3164472,São Sebastião do Anta,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,316447,3,Sudeste,0,0,28615,0,1784,30000,883,0,0,0,3104,0,0,0,35000,0,310025,Caratinga,3105,Ipatinga
+3164506,São Sebastião do Maranhão,31,Minas Gerais,,3108,Vale do Rio Doce,31036,Peçanha,316450,3,Sudeste,0,0,20000,0,878,30000,581,0,0,0,1843,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3164605,São Sebastião do Oeste,31,Minas Gerais,,3109,Oeste de Minas,31043,Divinópolis,316460,3,Sudeste,0,0,0,0,0,70000,314,0,0,0,4529,0,0,0,0,0,310065,Divinópolis,3113,Divinópolis
+3164704,São Sebastião do Paraíso,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,316470,3,Sudeste,0,0,9121,0,1539,80000,1556,30258,4000,7000,5700,3400,4900,0,80000,0,310047,São Sebastião do Paraíso,3108,Varginha
+3164803,São Sebastião do Rio Preto,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,316480,3,Sudeste,0,0,0,0,0,51000,1125,0,0,0,3091,0,0,0,0,0,310005,Itabira,3101,Belo Horizonte
+3164902,São Sebastião do Rio Verde,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,316490,3,Sudeste,0,0,0,0,0,0,1338,0,0,0,5071,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3165008,São Tiago,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,316500,3,Sudeste,0,0,15000,0,2167,72000,516,0,0,10000,4550,0,0,0,0,0,310039,São João del Rei,3107,Barbacena
+3165107,São Tomás de Aquino,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31048,São Sebastião do Paraíso,316510,3,Sudeste,0,0,13000,0,1502,90000,1222,0,0,0,5078,4000,0,0,30000,0,310047,São Sebastião do Paraíso,3108,Varginha
+3165206,São Thomé das Letras,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,316520,3,Sudeste,0,0,5200,0,1051,63000,500,0,0,0,5000,3300,0,0,0,0,310045,Três Corações,3108,Varginha
+3165305,São Vicente de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,316530,3,Sudeste,0,0,5000,16000,0,56154,1900,9500,2000,0,8100,3297,0,7500,55000,2531,310039,São João del Rei,3107,Barbacena
+3165404,Sapucaí-Mirim,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,316540,3,Sudeste,0,0,6000,0,0,0,1000,0,0,0,3000,0,0,0,53000,0,310052,Itajubá,3109,Pouso Alegre
+3165503,Sardoá,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,316550,3,Sudeste,0,0,8333,0,727,35429,700,0,5000,0,1575,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3165537,Sarzedo,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,316553,3,Sudeste,0,0,9000,0,0,0,500,0,16000,0,5000,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3165552,Setubinha,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,316555,3,Sudeste,0,0,10000,0,762,30000,268,5000,0,0,994,0,0,20667,23000,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3165560,Sem-Peixe,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,316556,3,Sudeste,0,0,5000,0,0,48000,520,0,0,0,2000,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3165578,Senador Amaral,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,316557,3,Sudeste,0,0,0,24592,0,0,2500,0,0,0,7200,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3165602,Senador Cortes,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,316560,3,Sudeste,0,0,15500,0,0,60480,686,0,0,0,0,0,0,0,0,0,310035,São João Nepomuceno - Bicas,3106,Juíz de Fora
+3165701,Senador Firmino,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316570,3,Sudeste,0,0,7000,0,2375,33364,1080,0,0,0,4197,0,0,0,0,0,310029,Ubá,3106,Juíz de Fora
+3165800,Senador José Bento,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,316580,3,Sudeste,0,0,13500,30000,1153,0,2133,0,0,0,7200,0,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3165909,Senador Modestino Gonçalves,31,Minas Gerais,,3103,Jequitinhonha,31010,Diamantina,316590,3,Sudeste,0,0,3333,0,1143,17500,354,6000,0,0,1521,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3166006,Senhora de Oliveira,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,316600,3,Sudeste,0,0,0,0,2000,44841,544,0,0,0,2600,0,0,0,0,0,310038,Conselheiro Lafaiete,3107,Barbacena
+3166105,Senhora do Porto,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,316610,3,Sudeste,0,0,5179,0,0,35500,545,0,0,0,2333,0,0,0,0,0,310021,Guanhães,3104,Governador Valadares
+3166204,Senhora dos Remédios,31,Minas Gerais,,3111,Campo das Vertentes,31059,Barbacena,316620,3,Sudeste,0,0,5000,0,1067,30000,413,0,0,0,2619,0,0,0,50000,0,310037,Barbacena,3107,Barbacena
+3166303,Sericita,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,316630,3,Sudeste,0,0,12000,0,1119,30000,302,0,0,0,1700,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3166402,Seritinga,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,316640,3,Sudeste,0,0,0,0,0,40500,429,0,0,0,3810,0,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3166501,Serra Azul de Minas,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,316650,3,Sudeste,0,0,0,0,2000,36600,314,0,0,0,942,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3166600,Serra da Saudade,31,Minas Gerais,,3106,Central Mineira,31026,Bom Despacho,316660,3,Sudeste,0,0,0,0,0,0,667,0,0,0,5000,0,0,0,0,0,310067,Dores do Indaiá,3113,Divinópolis
+3166709,Serra dos Aimorés,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,316670,3,Sudeste,0,0,0,0,0,53804,364,0,0,0,1000,0,0,0,0,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3166808,Serra do Salitre,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31019,Patrocínio,316680,3,Sudeste,0,0,10000,28048,1122,0,2723,18400,0,0,7862,3615,4400,0,55000,2360,310064,Patrocínio,3112,Patos de Minas
+3166907,Serrania,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31049,Alfenas,316690,3,Sudeste,0,0,0,20000,1500,108333,1454,0,0,0,6000,3900,0,0,50000,0,310042,Alfenas,3108,Varginha
+3166956,Serranópolis de Minas,31,Minas Gerais,,3102,Norte de Minas,31004,Janaúba,316695,3,Sudeste,0,0,0,0,1400,0,357,0,0,0,600,0,565,0,0,0,310007,Janaúba,3102,Montes Claros
+3167004,Serranos,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31055,Andrelândia,316700,3,Sudeste,0,0,0,0,0,47000,1000,0,0,0,7846,3750,0,0,0,0,310054,Caxambu - Baependi,3109,Pouso Alegre
+3167103,Serro,31,Minas Gerais,,3107,Metropolitana de Belo Horizonte,31028,Conceição do Mato Dentro,316710,3,Sudeste,0,0,4231,0,857,25500,260,6000,0,0,2030,0,0,0,0,0,310016,Diamantina,3103,Teófilo Otoni
+3167202,Sete Lagoas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31027,Sete Lagoas,316720,3,Sudeste,0,0,0,0,0,41000,594,7000,0,16400,3197,2800,3000,0,0,0,310002,Sete Lagoas,3101,Belo Horizonte
+3167301,Silveirânia,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316730,3,Sudeste,0,0,10500,0,0,70909,981,0,0,0,3000,0,0,0,0,0,310029,Ubá,3106,Juíz de Fora
+3167400,Silvianópolis,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316740,3,Sudeste,0,0,6667,31636,1067,0,2133,18617,0,0,6000,2100,0,0,68750,0,310050,Pouso Alegre,3109,Pouso Alegre
+3167509,Simão Pereira,31,Minas Gerais,,3112,Zona da Mata,31065,Juiz de Fora,316750,3,Sudeste,0,0,7000,0,0,35000,906,0,0,0,5604,0,0,0,0,0,310027,Juiz de Fora,3106,Juíz de Fora
+3167608,Simonésia,31,Minas Gerais,,3112,Zona da Mata,31061,Manhuaçu,316760,3,Sudeste,0,0,7000,25000,1136,42857,416,13750,13000,12000,2400,0,0,12000,77500,0,310028,Manhuaçu,3106,Juíz de Fora
+3167707,Sobrália,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31037,Governador Valadares,316770,3,Sudeste,0,0,18000,0,0,30000,269,0,0,0,1865,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3167806,Soledade de Minas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31054,São Lourenço,316780,3,Sudeste,0,0,10000,0,1600,0,1522,0,0,0,6000,3000,0,0,0,1800,310053,São Lourenço,3109,Pouso Alegre
+3167905,Tabuleiro,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316790,3,Sudeste,0,0,2125,0,0,30000,737,6000,0,0,2609,0,0,18800,0,0,310029,Ubá,3106,Juíz de Fora
+3168002,Taiobeiras,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,316800,3,Sudeste,0,0,4000,0,1449,30714,393,8000,0,7000,450,0,3846,7000,55000,0,310008,Salinas,3102,Montes Claros
+3168051,Taparuba,31,Minas Gerais,,3108,Vale do Rio Doce,31041,Aimorés,316805,3,Sudeste,0,0,11500,0,0,56000,1286,17500,11500,0,3500,0,0,0,0,0,310028,Manhuaçu,3106,Juíz de Fora
+3168101,Tapira,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31023,Araxá,316810,3,Sudeste,0,0,0,30000,2696,0,1950,0,0,0,6000,2700,0,0,0,2200,310056,Araxá,3110,Uberaba
+3168200,Tapiraí,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,316820,3,Sudeste,0,0,6000,30000,1762,30000,2385,5000,0,0,6244,0,0,0,0,0,310066,Formiga,3113,Divinópolis
+3168309,Taquaraçu de Minas,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31031,Itabira,316830,3,Sudeste,0,0,16461,0,0,30000,857,0,5000,0,2000,0,0,4000,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3168408,Tarumirim,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,316840,3,Sudeste,0,0,6421,0,480,30000,357,0,0,11000,1350,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3168507,Teixeiras,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,316850,3,Sudeste,0,0,10850,0,864,30000,750,5750,0,5333,2700,0,0,10000,60000,0,310033,Viçosa,3106,Juíz de Fora
+3168606,Teófilo Otoni,31,Minas Gerais,,3104,Vale do Mucuri,31015,Teófilo Otoni,316860,3,Sudeste,0,0,16512,0,667,36000,718,10280,13000,7000,1857,0,0,6000,32000,0,310013,Teófilo Otoni,3103,Teófilo Otoni
+3168705,Timóteo,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31039,Ipatinga,316870,3,Sudeste,0,0,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,310024,Ipatinga,3105,Ipatinga
+3168804,Tiradentes,31,Minas Gerais,,3111,Campo das Vertentes,31058,São João Del Rei,316880,3,Sudeste,0,0,0,0,0,40000,889,0,0,0,3077,0,0,21103,50000,0,310039,São João del Rei,3107,Barbacena
+3168903,Tiros,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31020,Patos de Minas,316890,3,Sudeste,0,0,0,30833,3002,85000,1134,0,0,0,5978,3300,0,0,0,1500,310062,Patos de Minas,3112,Patos de Minas
+3169000,Tocantins,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316900,3,Sudeste,0,0,11591,0,0,30000,438,11000,6000,18500,3804,0,0,12000,62667,0,310029,Ubá,3106,Juíz de Fora
+3169059,Tocos do Moji,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,316905,3,Sudeste,0,0,10000,36875,1742,64000,958,0,0,0,4732,0,0,0,60000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3169109,Toledo,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31052,Pouso Alegre,316910,3,Sudeste,0,0,0,27941,0,45000,1200,0,0,0,7239,4440,0,0,0,0,310050,Pouso Alegre,3109,Pouso Alegre
+3169208,Tombos,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,316920,3,Sudeste,0,0,13571,0,992,43529,920,0,0,0,3604,0,0,0,0,0,310034,Carangola,3106,Juíz de Fora
+3169307,Três Corações,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,316930,3,Sudeste,0,0,0,40682,2673,30000,1800,21476,20000,0,9138,4090,0,17559,60000,2420,310045,Três Corações,3108,Varginha
+3169356,Três Marias,31,Minas Gerais,,3106,Central Mineira,31024,Três Marias,316935,3,Sudeste,0,0,10000,0,0,70000,1350,10000,13000,10000,8496,4170,0,0,0,0,310004,Curvelo,3101,Belo Horizonte
+3169406,Três Pontas,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,316940,3,Sudeste,0,0,12000,0,1882,58750,909,5000,0,0,5620,3800,3700,10000,40000,2920,310046,Três Pontas - Boa Esperança,3108,Varginha
+3169505,Tumiritinga,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,316950,3,Sudeste,0,0,3500,0,0,16800,563,0,0,0,3800,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3169604,Tupaciguara,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,316960,3,Sudeste,0,0,9000,0,2099,95000,2700,0,0,0,5160,3600,4200,0,0,5000,310059,Uberlândia,3111,Uberlândia
+3169703,Turmalina,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,316970,3,Sudeste,0,0,8308,0,451,24400,801,12500,0,0,1270,0,0,7000,63077,0,310014,Capelinha,3103,Teófilo Otoni
+3169802,Turvolândia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31053,Santa Rita do Sapucaí,316980,3,Sudeste,0,0,0,21600,1800,80000,1800,20000,15000,0,5900,3200,0,30000,65000,0,310050,Pouso Alegre,3109,Pouso Alegre
+3169901,Ubá,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,316990,3,Sudeste,0,0,7500,0,0,35000,900,7000,5000,9000,5000,0,0,9000,60000,0,310029,Ubá,3106,Juíz de Fora
+3170008,Ubaí,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,317000,3,Sudeste,0,0,0,0,0,30000,688,6500,0,0,867,0,667,0,0,0,310011,São Francisco,3102,Montes Claros
+3170057,Ubaporanga,31,Minas Gerais,,3108,Vale do Rio Doce,31040,Caratinga,317005,3,Sudeste,0,0,17000,0,1034,40000,900,15000,15000,0,2000,0,0,15000,70000,0,310025,Caratinga,3105,Ipatinga
+3170107,Uberaba,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,317010,3,Sudeste,0,0,12000,35000,1988,90000,2267,16300,16000,10000,7753,3600,4500,17000,86000,1928,310055,Uberaba,3110,Uberaba
+3170206,Uberlândia,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31018,Uberlândia,317020,3,Sudeste,0,0,17000,36250,3154,80002,1936,34500,7000,7296,7075,3200,1300,7200,72000,1780,310059,Uberlândia,3111,Uberlândia
+3170305,Umburatiba,31,Minas Gerais,,3104,Vale do Mucuri,31016,Nanuque,317030,3,Sudeste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310019,Águas Formosas,3103,Teófilo Otoni
+3170404,Unaí,31,Minas Gerais,RIDE - Região Integrada de Desenvolvimento do Distrito Federal e Entorno,3101,Noroeste de Minas,31001,Unaí,317040,3,Sudeste,0,3270,35000,0,2600,90500,2359,0,0,0,6000,3450,4000,0,50000,4500,310063,Unaí,3112,Patos de Minas
+3170438,União de Minas,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31021,Frutal,317043,3,Sudeste,0,0,15000,0,0,83360,0,0,0,0,3960,2520,0,0,0,0,310058,Iturama,3110,Uberaba
+3170479,Uruana de Minas,31,Minas Gerais,,3101,Noroeste de Minas,31001,Unaí,317047,3,Sudeste,0,0,14000,0,0,30000,1839,0,0,0,5876,1900,3000,0,0,0,310063,Unaí,3112,Patos de Minas
+3170503,Urucânia,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,317050,3,Sudeste,0,0,10808,0,0,50000,375,0,0,0,1505,0,0,0,0,0,310030,Ponte Nova,3106,Juíz de Fora
+3170529,Urucuia,31,Minas Gerais,,3102,Norte de Minas,31003,Januária,317052,3,Sudeste,0,0,12000,0,1800,32500,2343,0,0,0,2790,3121,0,0,0,0,310063,Unaí,3112,Patos de Minas
+3170578,Vargem Alegre,31,Minas Gerais,RM Vale do Aço,3108,Vale do Rio Doce,31040,Caratinga,317057,3,Sudeste,0,0,16000,0,1333,30000,727,0,5000,13000,3605,0,0,0,0,0,310025,Caratinga,3105,Ipatinga
+3170602,Vargem Bonita,31,Minas Gerais,,3109,Oeste de Minas,31042,Piuí,317060,3,Sudeste,0,0,0,0,1669,30000,400,0,0,0,6677,3409,0,0,0,0,310049,Piumhi,3108,Varginha
+3170651,Vargem Grande do Rio Pardo,31,Minas Gerais,,3102,Norte de Minas,31005,Salinas,317065,3,Sudeste,0,0,8000,0,1567,30000,342,0,0,28575,517,0,0,8000,0,0,310008,Salinas,3102,Montes Claros
+3170701,Varginha,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31050,Varginha,317070,3,Sudeste,0,0,6750,0,2124,31000,1289,0,0,0,6000,4375,0,0,0,0,310040,Varginha,3108,Varginha
+3170750,Varjão de Minas,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,317075,3,Sudeste,0,0,20000,0,2400,90000,2428,0,0,0,7950,3000,3900,8000,100000,4013,310062,Patos de Minas,3112,Patos de Minas
+3170800,Várzea da Palma,31,Minas Gerais,,3102,Norte de Minas,31006,Pirapora,317080,3,Sudeste,0,4350,29000,0,3203,30000,1213,40000,0,0,2192,3910,0,35000,50000,0,310010,Pirapora,3102,Montes Claros
+3170909,Varzelândia,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,317090,3,Sudeste,0,0,20000,0,0,30000,488,0,0,0,1225,0,0,0,0,0,310006,Montes Claros,3102,Montes Claros
+3171006,Vazante,31,Minas Gerais,,3101,Noroeste de Minas,31002,Paracatu,317100,3,Sudeste,0,0,0,0,0,47500,2117,0,0,0,7200,3600,2400,0,0,0,310062,Patos de Minas,3112,Patos de Minas
+3171030,Verdelândia,31,Minas Gerais,,3102,Norte de Minas,31007,Montes Claros,317103,3,Sudeste,0,0,22400,0,0,0,559,15000,30000,22055,1282,0,1308,0,0,0,310007,Janaúba,3102,Montes Claros
+3171071,Veredinha,31,Minas Gerais,,3103,Jequitinhonha,31011,Capelinha,317107,3,Sudeste,0,0,9000,0,760,30375,386,9167,0,0,817,0,0,0,23000,0,310014,Capelinha,3103,Teófilo Otoni
+3171105,Veríssimo,31,Minas Gerais,,3105,Triângulo Mineiro/Alto Paranaíba,31022,Uberaba,317110,3,Sudeste,0,0,30000,0,0,85000,1000,0,7500,25000,4667,3500,3000,0,0,0,310055,Uberaba,3110,Uberaba
+3171154,Vermelho Novo,31,Minas Gerais,,3112,Zona da Mata,31060,Ponte Nova,317115,3,Sudeste,0,0,5000,0,1075,30000,391,0,0,0,2500,0,0,0,57500,0,310025,Caratinga,3105,Ipatinga
+3171204,Vespasiano,31,Minas Gerais,RM Belo Horizonte,3107,Metropolitana de Belo Horizonte,31030,Belo Horizonte,317120,3,Sudeste,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,310001,Belo Horizonte,3101,Belo Horizonte
+3171303,Viçosa,31,Minas Gerais,,3112,Zona da Mata,31062,Viçosa,317130,3,Sudeste,0,0,11000,0,1488,73200,985,11000,11500,0,4061,2000,0,28000,70000,0,310033,Viçosa,3106,Juíz de Fora
+3171402,Vieiras,31,Minas Gerais,,3112,Zona da Mata,31063,Muriaé,317140,3,Sudeste,0,0,8400,0,1130,40000,500,0,0,0,4571,0,0,0,0,0,310031,Muriaé,3106,Juíz de Fora
+3171501,Mathias Lobato,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,317150,3,Sudeste,0,0,0,0,0,0,1000,0,0,0,2480,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3171600,Virgem da Lapa,31,Minas Gerais,,3103,Jequitinhonha,31012,Araçuaí,317160,3,Sudeste,0,0,3000,0,0,20000,180,0,0,16000,600,0,0,0,0,0,310017,Araçuaí,3103,Teófilo Otoni
+3171709,Virgínia,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,317170,3,Sudeste,0,0,6000,30000,1400,0,1600,0,0,0,5368,0,0,0,0,0,310053,São Lourenço,3109,Pouso Alegre
+3171808,Virginópolis,31,Minas Gerais,,3108,Vale do Rio Doce,31035,Guanhães,317180,3,Sudeste,0,0,14667,0,1372,40000,500,0,0,0,2607,0,0,0,70000,0,310021,Guanhães,3104,Governador Valadares
+3171907,Virgolândia,31,Minas Gerais,,3108,Vale do Rio Doce,31037,Governador Valadares,317190,3,Sudeste,0,0,5143,0,1444,36667,341,7000,0,0,1200,0,0,0,0,0,310020,Governador Valadares,3104,Governador Valadares
+3172004,Visconde do Rio Branco,31,Minas Gerais,,3112,Zona da Mata,31064,Ubá,317200,3,Sudeste,0,0,15000,0,1167,31357,905,16912,6000,7000,3000,0,0,10000,0,0,310029,Ubá,3106,Juíz de Fora
+3172103,Volta Grande,31,Minas Gerais,,3112,Zona da Mata,31066,Cataguases,317210,3,Sudeste,0,0,15000,0,0,48000,600,10000,0,0,2500,0,0,0,0,0,310036,Além Paraíba,3106,Juíz de Fora
+3172202,Wenceslau Braz,31,Minas Gerais,,3110,Sul/Sudoeste de Minas,31056,Itajubá,317220,3,Sudeste,0,0,0,0,0,60000,1333,7000,0,0,3750,0,0,0,0,0,310052,Itajubá,3109,Pouso Alegre
