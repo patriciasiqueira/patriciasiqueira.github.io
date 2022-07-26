@@ -1,4 +1,4 @@
-uf,nome_uf,mun,nome_mun,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_regiao
+cod_uf,nome_uf,mun,nome_mun,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_regiao
 11,Rondônia,1100015,Alta Floresta D'Oeste,,1102,Leste Rondoniense,11006,Cacoal,110001,1,Norte
 11,Rondônia,1100023,Ariquemes,,1102,Leste Rondoniense,11003,Ariquemes,110002,1,Norte
 11,Rondônia,1100031,Cabixi,,1102,Leste Rondoniense,11008,Colorado do Oeste,110003,1,Norte
@@ -3450,7 +3450,7 @@ uf,nome_uf,mun,nome_mun,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_r
 35,São Paulo,3515806,Flora Rica,,3508,Presidente Prudente,35035,Adamantina,351580,3,Sudeste
 35,São Paulo,3515905,Floreal,,3501,São José do Rio Preto,35006,Auriflama,351590,3,Sudeste
 35,São Paulo,3516002,Flórida Paulista,,3508,Presidente Prudente,35035,Adamantina,351600,3,Sudeste
-35,São Paulo,3516101,Florínia,,3510,Assis,35039,Assis,351610,3,Sudeste
+35,São Paulo,3516101,Florínea,,3510,Assis,35039,Assis,351610,3,Sudeste
 35,São Paulo,3516200,Franca,,3502,Ribeirão Preto,35012,Franca,351620,3,Sudeste
 35,São Paulo,3516309,Francisco Morato,RM São Paulo,3515,Metropolitana de São Paulo,35058,Franco da Rocha,351630,3,Sudeste
 35,São Paulo,3516408,Franco da Rocha,RM São Paulo,3515,Metropolitana de São Paulo,35058,Franco da Rocha,351640,3,Sudeste
@@ -3825,7 +3825,7 @@ uf,nome_uf,mun,nome_mun,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_r
 35,São Paulo,3549805,São José do Rio Preto,,3501,São José do Rio Preto,35004,São José do Rio Preto,354980,3,Sudeste
 35,São Paulo,3549904,São José dos Campos,RM do Vale do Paraíba e Litoral Norte,3513,Vale do Paraíba Paulista,35050,São José dos Campos,354990,3,Sudeste
 35,São Paulo,3549953,São Lourenço da Serra,RM São Paulo,3515,Metropolitana de São Paulo,35060,Itapecerica da Serra,354995,3,Sudeste
-35,São Paulo,3550001,São Luís do Paraitinga,RM do Vale do Paraíba e Litoral Norte,3513,Vale do Paraíba Paulista,35053,Paraibuna/Paraitinga,355000,3,Sudeste
+35,São Paulo,3550001,São Luíz do Paraitinga,RM do Vale do Paraíba e Litoral Norte,3513,Vale do Paraíba Paulista,35053,Paraibuna/Paraitinga,355000,3,Sudeste
 35,São Paulo,3550100,São Manuel,,3504,Bauru,35023,Botucatu,355010,3,Sudeste
 35,São Paulo,3550209,São Miguel Arcanjo,RM de Sorocaba,3512,Macro Metropolitana Paulista,35045,Piedade,355020,3,Sudeste
 35,São Paulo,3550308,São Paulo,RM São Paulo,3515,Metropolitana de São Paulo,35061,São Paulo,355030,3,Sudeste
@@ -5279,7 +5279,7 @@ uf,nome_uf,mun,nome_mun,rm,meso,nome_meso,micro,nome_micro,codmun6,regiao,nome_r
 51,Mato Grosso,5106802,Porto dos Gaúchos,,5101,Norte Mato-grossense,51005,Arinos,510680,5,Centro-Oeste
 51,Mato Grosso,5106828,Porto Esperidião,,5103,Sudoeste Mato-grossense,51014,Jauru,510682,5,Centro-Oeste
 51,Mato Grosso,5106851,Porto Estrela,,5103,Sudoeste Mato-grossense,51013,Tangará da Serra,510685,5,Centro-Oeste
-51,Mato Grosso,5107008,Poxoréo,,5105,Sudeste Mato-grossense,51020,Tesouro,510700,5,Centro-Oeste
+51,Mato Grosso,5107008,Poxoréu,,5105,Sudeste Mato-grossense,51020,Tesouro,510700,5,Centro-Oeste
 51,Mato Grosso,5107040,Primavera do Leste,,5105,Sudeste Mato-grossense,51019,Primavera do Leste,510704,5,Centro-Oeste
 51,Mato Grosso,5107065,Querência,,5102,Nordeste Mato-grossense,51010,Canarana,510706,5,Centro-Oeste
 51,Mato Grosso,5107107,São José dos Quatro Marcos,,5103,Sudoeste Mato-grossense,51014,Jauru,510710,5,Centro-Oeste
